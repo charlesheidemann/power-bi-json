@@ -1,6 +1,4 @@
 [
-  {
-    "alarms": [
       {
         "uuid": "0a82f6d7-d423-4090-9241-53675f9ff240",
         "name": "Sensor Tanya Torres",
@@ -1571,6 +1569,4 @@
         "timeZone": "America/Los_Angeles",
         "local": "San Antonio"
       }
-    ]
-  }
 ]
