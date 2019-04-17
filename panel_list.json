@@ -1,0 +1,5002 @@
+[
+  {
+    "uuid": "c6f8f1f1-2d1e-4067-952a-42a098a62f34",
+    "name": "Sensor Doris Fry",
+    "description": "aliquip incididunt labore cupidatat dolor ex nostrud officia reprehenderit voluptate",
+    "type": "Panel",
+    "panelName": "Panel Levy",
+    "category": 2,
+    "timeZone": "America/Los_Angeles",
+    "local": "Phoenix"
+  },
+  {
+    "uuid": "4f5ed8eb-5e4f-4e8f-84f4-965fcae09af7",
+    "name": "Sensor Ratliff Burks",
+    "description": "quis duis non pariatur sit ea cillum aute ea ut",
+    "type": "Panel",
+    "panelName": "Panel Rivera",
+    "category": 5,
+    "timeZone": "America/Los_Angeles",
+    "local": "Los Angeles"
+  },
+  {
+    "uuid": "17ff37d7-414b-43bd-bc2b-919298ec75e7",
+    "name": "Sensor Dennis Mckay",
+    "description": "elit cillum reprehenderit commodo aliquip reprehenderit adipisicing Lorem id ex",
+    "type": "Panel",
+    "panelName": "Panel Ewing",
+    "category": 2,
+    "timeZone": "America/Los_Angeles",
+    "local": "San Antonio"
+  },
+  {
+    "uuid": "13cc9f2e-94ab-4df5-91f8-a55c56e2cd63",
+    "name": "Sensor Carlene Sherman",
+    "description": "irure magna enim sunt quis ad sunt dolor labore minim",
+    "type": "Panel",
+    "panelName": "Panel Watts",
+    "category": 3,
+    "timeZone": "America/Los_Angeles",
+    "local": "San Antonio"
+  },
+  {
+    "uuid": "640b0942-601b-45a5-bc9c-abce1178f12f",
+    "name": "Sensor Marissa Branch",
+    "description": "ad aliquip Lorem velit ad ullamco non voluptate commodo nisi",
+    "type": "Panel",
+    "panelName": "Panel Jenkins",
+    "category": 4,
+    "timeZone": "America/Los_Angeles",
+    "local": "Philadelphia"
+  },
+  {
+    "uuid": "47300ec8-0bd2-417d-b6fc-bf4147074383",
+    "name": "Sensor Lindsay Green",
+    "description": "qui sunt aute reprehenderit voluptate dolor adipisicing irure veniam incididunt",
+    "type": "Panel",
+    "panelName": "Panel Cole",
+    "category": 5,
+    "timeZone": "America/Los_Angeles",
+    "local": "Chicago"
+  },
+  {
+    "uuid": "5649eed0-237a-4535-9cf0-52e66c8befde",
+    "name": "Sensor Higgins Wells",
+    "description": "cillum anim excepteur ea nostrud ullamco aliquip ea incididunt exercitation",
+    "type": "Panel",
+    "panelName": "Panel Murray",
+    "category": 3,
+    "timeZone": "America/Los_Angeles",
+    "local": "New York City"
+  },
+  {
+    "uuid": "4eccfc1c-7b0b-46f2-878a-fe5b364c8d08",
+    "name": "Sensor Lois Burgess",
+    "description": "culpa nisi aliquip labore laboris mollit dolore ad sint quis",
+    "type": "Panel",
+    "panelName": "Panel Winters",
+    "category": 2,
+    "timeZone": "America/Los_Angeles",
+    "local": "San Antonio"
+  },
+  {
+    "uuid": "98d7908c-b2c3-4e7a-8e65-bcfb67011403",
+    "name": "Sensor Gay Martin",
+    "description": "incididunt officia irure cupidatat in mollit laborum aliquip ea occaecat",
+    "type": "Panel",
+    "panelName": "Panel Fuentes",
+    "category": 3,
+    "timeZone": "America/Los_Angeles",
+    "local": "San Jose"
+  },
+  {
+    "uuid": "6e940815-f47a-4d9c-b3f8-4944103b74cd",
+    "name": "Sensor Hall Sanford",
+    "description": "consectetur nisi ipsum ut id ut ipsum sint fugiat elit",
+    "type": "Panel",
+    "panelName": "Panel Pennington",
+    "category": 2,
+    "timeZone": "America/Los_Angeles",
+    "local": "Los Angeles"
+  },
+  {
+    "uuid": "b0595271-7cbf-40e5-a483-795a72343544",
+    "name": "Sensor Rosales Christian",
+    "description": "ea do minim laborum est culpa nisi velit commodo cupidatat",
+    "type": "Panel",
+    "panelName": "Panel Mckinney",
+    "category": 5,
+    "timeZone": "America/Los_Angeles",
+    "local": "Dallas"
+  },
+  {
+    "uuid": "1c4a6cf5-740d-46e9-99bd-a183ffb24a6d",
+    "name": "Sensor Alisha Hardy",
+    "description": "do dolor occaecat ea consectetur enim voluptate ut dolor deserunt",
+    "type": "Panel",
+    "panelName": "Panel Oconnor",
+    "category": 2,
+    "timeZone": "America/Los_Angeles",
+    "local": "Phoenix"
+  },
+  {
+    "uuid": "dc8cc02b-879b-4ae4-97b0-e7fb85a9dd5a",
+    "name": "Sensor Rivera Wilkinson",
+    "description": "deserunt dolore ea sit fugiat consequat ipsum fugiat aliqua labore",
+    "type": "Panel",
+    "panelName": "Panel Colon",
+    "category": 4,
+    "timeZone": "America/Los_Angeles",
+    "local": "San Jose"
+  },
+  {
+    "uuid": "2990de68-4adf-4095-ae43-88c954e00053",
+    "name": "Sensor Tyler Ford",
+    "description": "do culpa qui id enim laboris pariatur duis consequat sunt",
+    "type": "Panel",
+    "panelName": "Panel Mcintosh",
+    "category": 4,
+    "timeZone": "America/Los_Angeles",
+    "local": "San Diego"
+  },
+  {
+    "uuid": "abb869ae-d219-4cc3-852c-61c7a5e57565",
+    "name": "Sensor Tasha Diaz",
+    "description": "nulla consequat ipsum sit in nulla enim sint minim Lorem",
+    "type": "Panel",
+    "panelName": "Panel Moore",
+    "category": 1,
+    "timeZone": "America/Los_Angeles",
+    "local": "Houston"
+  },
+  {
+    "uuid": "772933d5-ca3e-43c3-b75d-fde403f13097",
+    "name": "Sensor Olsen Logan",
+    "description": "laborum anim nostrud proident non enim minim non laborum nostrud",
+    "type": "Panel",
+    "panelName": "Panel Witt",
+    "category": 4,
+    "timeZone": "America/Los_Angeles",
+    "local": "Dallas"
+  },
+  {
+    "uuid": "f3f3d693-52ea-4560-9cb4-1df3e78f417d",
+    "name": "Sensor Sandoval Washington",
+    "description": "ex quis incididunt aliquip deserunt exercitation ea in esse exercitation",
+    "type": "Panel",
+    "panelName": "Panel Ratliff",
+    "category": 3,
+    "timeZone": "America/Los_Angeles",
+    "local": "New York City"
+  },
+  {
+    "uuid": "0ab83244-9c80-44cd-a084-0fc59d740ab5",
+    "name": "Sensor Horton Austin",
+    "description": "qui sit commodo sit fugiat culpa commodo ad laborum quis",
+    "type": "Panel",
+    "panelName": "Panel West",
+    "category": 3,
+    "timeZone": "America/Los_Angeles",
+    "local": "San Jose"
+  },
+  {
+    "uuid": "20e99672-a6d8-41e7-bc5d-607ca3103fe8",
+    "name": "Sensor Vang Beasley",
+    "description": "do culpa tempor adipisicing proident ullamco labore elit dolor ea",
+    "type": "Panel",
+    "panelName": "Panel Giles",
+    "category": 5,
+    "timeZone": "America/Los_Angeles",
+    "local": "San Antonio"
+  },
+  {
+    "uuid": "a2309ba6-cc5f-4267-a86b-ba173a815b98",
+    "name": "Sensor Mathis Norton",
+    "description": "non sint ipsum sint nulla dolor veniam dolore anim magna",
+    "type": "Panel",
+    "panelName": "Panel Gay",
+    "category": 2,
+    "timeZone": "America/Los_Angeles",
+    "local": "Philadelphia"
+  },
+  {
+    "uuid": "b2de5efd-1cd1-4d3f-85ec-04b1f881291d",
+    "name": "Sensor Reese Cunningham",
+    "description": "officia magna est pariatur ea dolore mollit aute aliqua eu",
+    "type": "Panel",
+    "panelName": "Panel Hill",
+    "category": 5,
+    "timeZone": "America/Los_Angeles",
+    "local": "Chicago"
+  },
+  {
+    "uuid": "491645ae-bfc4-402b-a5c1-339880928a75",
+    "name": "Sensor Rosalind Forbes",
+    "description": "Lorem quis veniam Lorem esse ipsum ullamco consequat magna commodo",
+    "type": "Panel",
+    "panelName": "Panel Calhoun",
+    "category": 3,
+    "timeZone": "America/Los_Angeles",
+    "local": "Los Angeles"
+  },
+  {
+    "uuid": "848d4d82-2994-4f44-b4cd-87125919ca6e",
+    "name": "Sensor Young Wall",
+    "description": "est cillum deserunt fugiat quis velit veniam excepteur exercitation incididunt",
+    "type": "Panel",
+    "panelName": "Panel Buchanan",
+    "category": 2,
+    "timeZone": "America/Los_Angeles",
+    "local": "San Jose"
+  },
+  {
+    "uuid": "c4ddda8e-2d22-4c30-8c20-c243bb32f6cf",
+    "name": "Sensor Selma Conner",
+    "description": "proident Lorem ullamco eu aute officia officia veniam ex id",
+    "type": "Panel",
+    "panelName": "Panel Woodard",
+    "category": 4,
+    "timeZone": "America/Los_Angeles",
+    "local": "San Jose"
+  },
+  {
+    "uuid": "5b39d99a-257d-44ea-9466-43a3a6cc506d",
+    "name": "Sensor Rhodes Ayers",
+    "description": "aliquip reprehenderit duis aliquip aute labore voluptate consectetur non qui",
+    "type": "Panel",
+    "panelName": "Panel Briggs",
+    "category": 1,
+    "timeZone": "America/Los_Angeles",
+    "local": "Philadelphia"
+  },
+  {
+    "uuid": "74ee6cfc-21fd-433e-b962-88a6d2191b2d",
+    "name": "Sensor Jenny Parsons",
+    "description": "tempor deserunt duis sunt Lorem ullamco aliquip sunt dolore aliqua",
+    "type": "Panel",
+    "panelName": "Panel Byrd",
+    "category": 3,
+    "timeZone": "America/Los_Angeles",
+    "local": "San Antonio"
+  },
+  {
+    "uuid": "80692cb2-b77c-4750-858e-de36d19b78d3",
+    "name": "Sensor Francisca Noel",
+    "description": "officia tempor esse non occaecat elit dolore qui est excepteur",
+    "type": "Panel",
+    "panelName": "Panel Torres",
+    "category": 2,
+    "timeZone": "America/Los_Angeles",
+    "local": "Dallas"
+  },
+  {
+    "uuid": "b83f3d1b-25dd-44d1-ada4-3b2f9b705ab2",
+    "name": "Sensor Gentry Sawyer",
+    "description": "nisi duis consectetur ad Lorem culpa dolor eiusmod aliqua veniam",
+    "type": "Panel",
+    "panelName": "Panel Peck",
+    "category": 3,
+    "timeZone": "America/Los_Angeles",
+    "local": "Phoenix"
+  },
+  {
+    "uuid": "3a313739-3a58-43e1-9be8-041ca2dc27b7",
+    "name": "Sensor Kris Floyd",
+    "description": "sunt exercitation occaecat cupidatat nulla aliquip do ut aliqua ut",
+    "type": "Panel",
+    "panelName": "Panel Fernandez",
+    "category": 5,
+    "timeZone": "America/Los_Angeles",
+    "local": "San Jose"
+  },
+  {
+    "uuid": "5f113b47-c74d-4175-889c-cdc95f8ee820",
+    "name": "Sensor Hanson Benjamin",
+    "description": "deserunt sunt consectetur nostrud est exercitation irure consequat ut veniam",
+    "type": "Panel",
+    "panelName": "Panel Holcomb",
+    "category": 3,
+    "timeZone": "America/Los_Angeles",
+    "local": "Philadelphia"
+  },
+  {
+    "uuid": "495e090e-360a-4523-9499-8652719d4728",
+    "name": "Sensor Guerra Guthrie",
+    "description": "magna minim voluptate adipisicing ea ut ea non laborum incididunt",
+    "type": "Panel",
+    "panelName": "Panel Ross",
+    "category": 3,
+    "timeZone": "America/Los_Angeles",
+    "local": "Philadelphia"
+  },
+  {
+    "uuid": "3766cfed-6f98-4c77-b4a7-8c2f965b81dc",
+    "name": "Sensor Christine Mendoza",
+    "description": "qui dolore magna aute sint veniam exercitation voluptate ad ad",
+    "type": "Panel",
+    "panelName": "Panel Carlson",
+    "category": 5,
+    "timeZone": "America/Los_Angeles",
+    "local": "Phoenix"
+  },
+  {
+    "uuid": "fb98e57e-e2d2-4c3d-9d0e-d7f68ced2f73",
+    "name": "Sensor Katelyn Combs",
+    "description": "adipisicing ex consectetur culpa deserunt qui sunt laborum labore ad",
+    "type": "Panel",
+    "panelName": "Panel Cameron",
+    "category": 3,
+    "timeZone": "America/Los_Angeles",
+    "local": "Philadelphia"
+  },
+  {
+    "uuid": "7e1bf6bc-7338-455e-9edf-d99c83a150d8",
+    "name": "Sensor Larsen Olson",
+    "description": "ex ad nostrud ea magna dolore pariatur consequat velit duis",
+    "type": "Panel",
+    "panelName": "Panel Decker",
+    "category": 1,
+    "timeZone": "America/Los_Angeles",
+    "local": "Philadelphia"
+  },
+  {
+    "uuid": "1942fbe9-85c5-4eee-a69e-3b4e24ace7ff",
+    "name": "Sensor Susan Haney",
+    "description": "tempor irure ut esse reprehenderit fugiat ea quis voluptate laborum",
+    "type": "Panel",
+    "panelName": "Panel Koch",
+    "category": 4,
+    "timeZone": "America/Los_Angeles",
+    "local": "San Antonio"
+  },
+  {
+    "uuid": "4740d1a1-4e27-4660-9fa9-b666fac71c8e",
+    "name": "Sensor Veronica Gamble",
+    "description": "sint proident velit minim occaecat commodo nulla ipsum occaecat fugiat",
+    "type": "Panel",
+    "panelName": "Panel Marshall",
+    "category": 5,
+    "timeZone": "America/Los_Angeles",
+    "local": "San Diego"
+  },
+  {
+    "uuid": "ed270d83-c24c-47ac-b46d-77c42018119f",
+    "name": "Sensor Hudson Blackburn",
+    "description": "duis ea officia excepteur amet tempor excepteur veniam sunt nisi",
+    "type": "Panel",
+    "panelName": "Panel Benton",
+    "category": 1,
+    "timeZone": "America/Los_Angeles",
+    "local": "San Jose"
+  },
+  {
+    "uuid": "eaae74a0-23d2-4d0f-ac2e-e3329c155aed",
+    "name": "Sensor Amalia Sutton",
+    "description": "in deserunt veniam amet aliquip enim aliquip elit nulla aliquip",
+    "type": "Panel",
+    "panelName": "Panel House",
+    "category": 4,
+    "timeZone": "America/Los_Angeles",
+    "local": "Chicago"
+  },
+  {
+    "uuid": "893efba9-a062-4b65-8c2e-15849427c0c1",
+    "name": "Sensor Fitzgerald Trujillo",
+    "description": "commodo labore eiusmod eu amet eu consectetur ullamco do sunt",
+    "type": "Panel",
+    "panelName": "Panel Moses",
+    "category": 3,
+    "timeZone": "America/Los_Angeles",
+    "local": "San Jose"
+  },
+  {
+    "uuid": "79ae0500-e325-4622-80a4-21d9ebb3a15c",
+    "name": "Sensor Mccarty Mayer",
+    "description": "consequat aliqua voluptate consequat elit aliquip ipsum nulla id est",
+    "type": "Panel",
+    "panelName": "Panel Abbott",
+    "category": 4,
+    "timeZone": "America/Los_Angeles",
+    "local": "Philadelphia"
+  },
+  {
+    "uuid": "8a032348-2f44-46ee-a045-75d7ec4918fa",
+    "name": "Sensor Meghan Mullins",
+    "description": "laborum quis do labore fugiat qui enim est aute sint",
+    "type": "Panel",
+    "panelName": "Panel Anthony",
+    "category": 1,
+    "timeZone": "America/Los_Angeles",
+    "local": "San Antonio"
+  },
+  {
+    "uuid": "3882a454-bc1e-4206-a014-cb637caff6d2",
+    "name": "Sensor Shaffer Herman",
+    "description": "labore proident anim labore quis id excepteur minim quis est",
+    "type": "Panel",
+    "panelName": "Panel Stephens",
+    "category": 5,
+    "timeZone": "America/Los_Angeles",
+    "local": "Phoenix"
+  },
+  {
+    "uuid": "78ec89d8-edcb-4517-9931-9e39d5ec6640",
+    "name": "Sensor Ortega Gould",
+    "description": "nisi laboris ex sint mollit occaecat tempor mollit enim est",
+    "type": "Panel",
+    "panelName": "Panel Cline",
+    "category": 1,
+    "timeZone": "America/Los_Angeles",
+    "local": "San Antonio"
+  },
+  {
+    "uuid": "cd7b70c2-fd91-4bca-8a1c-9027ede3999f",
+    "name": "Sensor Margaret Webb",
+    "description": "incididunt fugiat mollit cupidatat dolore consequat ipsum commodo officia ad",
+    "type": "Panel",
+    "panelName": "Panel Mccarthy",
+    "category": 4,
+    "timeZone": "America/Los_Angeles",
+    "local": "Houston"
+  },
+  {
+    "uuid": "bfd28e43-6def-43a2-867f-62576cb2517d",
+    "name": "Sensor Aguirre Kirk",
+    "description": "nostrud quis irure fugiat reprehenderit labore sunt mollit sint irure",
+    "type": "Panel",
+    "panelName": "Panel Nielsen",
+    "category": 4,
+    "timeZone": "America/Los_Angeles",
+    "local": "Phoenix"
+  },
+  {
+    "uuid": "1751d088-03e2-40c8-8b05-4aff3e74f47f",
+    "name": "Sensor Carrillo Alston",
+    "description": "minim dolore anim Lorem ad ad aliqua ea in cupidatat",
+    "type": "Panel",
+    "panelName": "Panel Armstrong",
+    "category": 5,
+    "timeZone": "America/Los_Angeles",
+    "local": "San Jose"
+  },
+  {
+    "uuid": "bb99263d-1d2e-4a6d-8fc1-85ccb82d0e2c",
+    "name": "Sensor Myra Price",
+    "description": "mollit non irure in aute occaecat laboris ullamco esse ullamco",
+    "type": "Panel",
+    "panelName": "Panel Stout",
+    "category": 1,
+    "timeZone": "America/Los_Angeles",
+    "local": "Chicago"
+  },
+  {
+    "uuid": "6bd83d2e-ac0c-4ee1-a7bc-fd355b723f51",
+    "name": "Sensor Chambers Hines",
+    "description": "ullamco labore Lorem officia reprehenderit ipsum fugiat est veniam in",
+    "type": "Panel",
+    "panelName": "Panel Dillon",
+    "category": 3,
+    "timeZone": "America/Los_Angeles",
+    "local": "Dallas"
+  },
+  {
+    "uuid": "8f11c010-2f9c-46a3-b174-6be6790f1d46",
+    "name": "Sensor Alexandria Shepard",
+    "description": "nisi cillum aliquip minim labore consequat duis exercitation Lorem id",
+    "type": "Panel",
+    "panelName": "Panel Baker",
+    "category": 1,
+    "timeZone": "America/Los_Angeles",
+    "local": "Dallas"
+  },
+  {
+    "uuid": "c83474be-7ff5-4e7a-9573-1dc26a6b62f8",
+    "name": "Sensor Tabitha Flynn",
+    "description": "deserunt dolor ullamco proident magna sint est veniam nostrud eu",
+    "type": "Panel",
+    "panelName": "Panel Holmes",
+    "category": 5,
+    "timeZone": "America/Los_Angeles",
+    "local": "Phoenix"
+  },
+  {
+    "uuid": "1f6a2825-785f-43cc-b25a-1b0d65fa6166",
+    "name": "Sensor Ruby Rowland",
+    "description": "eiusmod sunt irure non eiusmod minim culpa laboris fugiat proident",
+    "type": "Panel",
+    "panelName": "Panel Larsen",
+    "category": 3,
+    "timeZone": "America/Los_Angeles",
+    "local": "Los Angeles"
+  },
+  {
+    "uuid": "2d8b3644-378a-4356-932b-906a399bb0ee",
+    "name": "Sensor Roseann Nixon",
+    "description": "veniam magna mollit nisi nisi voluptate fugiat eiusmod minim eu",
+    "type": "Panel",
+    "panelName": "Panel Macdonald",
+    "category": 3,
+    "timeZone": "America/Los_Angeles",
+    "local": "San Antonio"
+  },
+  {
+    "uuid": "48479923-86a5-424d-a4e1-eb589059681b",
+    "name": "Sensor Hardy Maxwell",
+    "description": "non incididunt occaecat cupidatat officia anim ex do eiusmod consequat",
+    "type": "Panel",
+    "panelName": "Panel Olsen",
+    "category": 2,
+    "timeZone": "America/Los_Angeles",
+    "local": "Phoenix"
+  },
+  {
+    "uuid": "90365e37-f0d9-4dcc-a463-6f2e8a226a1a",
+    "name": "Sensor Adeline Riddle",
+    "description": "amet reprehenderit proident dolor aute nisi consequat esse duis et",
+    "type": "Panel",
+    "panelName": "Panel Roberts",
+    "category": 1,
+    "timeZone": "America/Los_Angeles",
+    "local": "San Jose"
+  },
+  {
+    "uuid": "3fcdea12-1c4b-48fc-a1b2-20be3d57e4e5",
+    "name": "Sensor Meyer Lester",
+    "description": "velit enim in mollit laboris amet culpa incididunt magna magna",
+    "type": "Panel",
+    "panelName": "Panel Stokes",
+    "category": 4,
+    "timeZone": "America/Los_Angeles",
+    "local": "Phoenix"
+  },
+  {
+    "uuid": "b0fe1fd1-7f4e-4b35-9e0e-e84fbb11dae2",
+    "name": "Sensor Della Holden",
+    "description": "do tempor nostrud aute magna do excepteur ut reprehenderit proident",
+    "type": "Panel",
+    "panelName": "Panel Sargent",
+    "category": 3,
+    "timeZone": "America/Los_Angeles",
+    "local": "San Jose"
+  },
+  {
+    "uuid": "32d77628-8ec4-4043-b6a3-c3f61a1909f4",
+    "name": "Sensor Melton Bernard",
+    "description": "deserunt ullamco velit ullamco eiusmod labore ad elit ut ullamco",
+    "type": "Panel",
+    "panelName": "Panel Rosario",
+    "category": 3,
+    "timeZone": "America/Los_Angeles",
+    "local": "Philadelphia"
+  },
+  {
+    "uuid": "f4761c9a-e809-436e-b62a-f397378c19a8",
+    "name": "Sensor Renee Duncan",
+    "description": "cupidatat officia excepteur cillum do anim veniam veniam qui Lorem",
+    "type": "Panel",
+    "panelName": "Panel Medina",
+    "category": 3,
+    "timeZone": "America/Los_Angeles",
+    "local": "San Antonio"
+  },
+  {
+    "uuid": "9c03a8f7-f980-4908-9c9a-2b7bd02add64",
+    "name": "Sensor Nannie Chan",
+    "description": "ullamco laborum dolor aute exercitation nisi sunt occaecat mollit veniam",
+    "type": "Panel",
+    "panelName": "Panel Owen",
+    "category": 4,
+    "timeZone": "America/Los_Angeles",
+    "local": "San Antonio"
+  },
+  {
+    "uuid": "bcbd508b-7d7e-4196-88d5-65ff4713200d",
+    "name": "Sensor Jimenez Heath",
+    "description": "veniam esse ut ullamco labore qui laborum tempor id dolore",
+    "type": "Panel",
+    "panelName": "Panel Salas",
+    "category": 4,
+    "timeZone": "America/Los_Angeles",
+    "local": "Chicago"
+  },
+  {
+    "uuid": "98ef976e-8df1-4443-ba4f-7c87e980c175",
+    "name": "Sensor Dejesus Osborn",
+    "description": "ipsum dolor eiusmod consectetur qui in consequat irure elit exercitation",
+    "type": "Panel",
+    "panelName": "Panel Parrish",
+    "category": 5,
+    "timeZone": "America/Los_Angeles",
+    "local": "Los Angeles"
+  },
+  {
+    "uuid": "fc866536-a389-4657-99f8-57a6b058c517",
+    "name": "Sensor Ginger Greer",
+    "description": "eu incididunt et cillum minim qui mollit nostrud incididunt et",
+    "type": "Panel",
+    "panelName": "Panel Lynch",
+    "category": 3,
+    "timeZone": "America/Los_Angeles",
+    "local": "Chicago"
+  },
+  {
+    "uuid": "48aac9ad-b741-4a92-98bd-84ee1c59ac76",
+    "name": "Sensor Oliver Marsh",
+    "description": "aliqua nostrud tempor ea ex nulla irure aliqua duis sunt",
+    "type": "Panel",
+    "panelName": "Panel Jordan",
+    "category": 2,
+    "timeZone": "America/Los_Angeles",
+    "local": "Philadelphia"
+  },
+  {
+    "uuid": "042f2b18-04d5-4fb3-9dbb-e7e3bc5efe83",
+    "name": "Sensor Dalton Russell",
+    "description": "esse fugiat ex sint exercitation occaecat esse aliquip incididunt aliquip",
+    "type": "Panel",
+    "panelName": "Panel Soto",
+    "category": 5,
+    "timeZone": "America/Los_Angeles",
+    "local": "New York City"
+  },
+  {
+    "uuid": "c0a0602c-906f-47f6-bd78-b24845cc1a86",
+    "name": "Sensor Frederick Sloan",
+    "description": "Lorem consequat magna eu labore ut magna cillum est nisi",
+    "type": "Panel",
+    "panelName": "Panel Mcmahon",
+    "category": 4,
+    "timeZone": "America/Los_Angeles",
+    "local": "Chicago"
+  },
+  {
+    "uuid": "074a2522-1adb-42fb-a992-ed0dc8d72ea1",
+    "name": "Sensor Maryellen Hayden",
+    "description": "ullamco dolore exercitation nulla ex est ex tempor incididunt cupidatat",
+    "type": "Panel",
+    "panelName": "Panel Blake",
+    "category": 3,
+    "timeZone": "America/Los_Angeles",
+    "local": "New York City"
+  },
+  {
+    "uuid": "e19f1d5d-d527-4d46-b04f-86fc2f7a77d5",
+    "name": "Sensor Alma Sears",
+    "description": "consectetur ea nulla aute quis nisi fugiat cillum cupidatat consectetur",
+    "type": "Panel",
+    "panelName": "Panel Rhodes",
+    "category": 1,
+    "timeZone": "America/Los_Angeles",
+    "local": "New York City"
+  },
+  {
+    "uuid": "56dedf94-b1d9-4701-89b8-e896f0fd78a3",
+    "name": "Sensor Candy Carpenter",
+    "description": "ex aute cupidatat pariatur qui non non dolor nisi qui",
+    "type": "Panel",
+    "panelName": "Panel Barry",
+    "category": 2,
+    "timeZone": "America/Los_Angeles",
+    "local": "Los Angeles"
+  },
+  {
+    "uuid": "8d726a7e-accc-4359-b153-75526b4b6177",
+    "name": "Sensor Augusta Castro",
+    "description": "ut ipsum pariatur eu consectetur non id duis adipisicing adipisicing",
+    "type": "Panel",
+    "panelName": "Panel Fowler",
+    "category": 5,
+    "timeZone": "America/Los_Angeles",
+    "local": "Chicago"
+  },
+  {
+    "uuid": "0315fe0a-014f-4207-8bea-e1b2c317f6f0",
+    "name": "Sensor Blankenship Hayes",
+    "description": "sit deserunt do proident duis nostrud ad sint id excepteur",
+    "type": "Panel",
+    "panelName": "Panel Cleveland",
+    "category": 3,
+    "timeZone": "America/Los_Angeles",
+    "local": "Chicago"
+  },
+  {
+    "uuid": "168001e8-4a70-4c82-acad-cdd6d5a3f39d",
+    "name": "Sensor Annmarie Poole",
+    "description": "dolor ut consequat occaecat enim esse adipisicing eiusmod aliquip aliqua",
+    "type": "Panel",
+    "panelName": "Panel Mccray",
+    "category": 5,
+    "timeZone": "America/Los_Angeles",
+    "local": "Los Angeles"
+  },
+  {
+    "uuid": "901dcdc6-07b7-4fcb-81c0-ff45fcb854fb",
+    "name": "Sensor Janet Potter",
+    "description": "non irure laborum ex minim consequat sit veniam tempor magna",
+    "type": "Panel",
+    "panelName": "Panel Booker",
+    "category": 4,
+    "timeZone": "America/Los_Angeles",
+    "local": "Phoenix"
+  },
+  {
+    "uuid": "854048b2-3322-4c94-83ff-40e170c0601e",
+    "name": "Sensor Ana Stone",
+    "description": "aute Lorem reprehenderit proident nisi commodo enim sunt sunt aute",
+    "type": "Panel",
+    "panelName": "Panel Stevenson",
+    "category": 1,
+    "timeZone": "America/Los_Angeles",
+    "local": "Houston"
+  },
+  {
+    "uuid": "c46a30d8-3eac-4665-97c5-75e256986d58",
+    "name": "Sensor Bartlett Bender",
+    "description": "deserunt voluptate fugiat est est eu incididunt culpa culpa anim",
+    "type": "Panel",
+    "panelName": "Panel Holman",
+    "category": 3,
+    "timeZone": "America/Los_Angeles",
+    "local": "San Antonio"
+  },
+  {
+    "uuid": "16887b58-bdb4-4efc-bc9f-91f198723a60",
+    "name": "Sensor Lottie Hammond",
+    "description": "sit amet do ut sunt deserunt sint officia ea culpa",
+    "type": "Panel",
+    "panelName": "Panel Scott",
+    "category": 3,
+    "timeZone": "America/Los_Angeles",
+    "local": "Chicago"
+  },
+  {
+    "uuid": "89f9d38f-b57d-419f-90dc-ab56a112650a",
+    "name": "Sensor Traci Boyd",
+    "description": "duis proident culpa consectetur consequat amet non fugiat dolor aliquip",
+    "type": "Panel",
+    "panelName": "Panel Ball",
+    "category": 5,
+    "timeZone": "America/Los_Angeles",
+    "local": "New York City"
+  },
+  {
+    "uuid": "e164c34a-0392-400f-91ff-5764751df61f",
+    "name": "Sensor Byers Cote",
+    "description": "adipisicing et esse do Lorem fugiat cillum nisi proident Lorem",
+    "type": "Panel",
+    "panelName": "Panel Sweeney",
+    "category": 2,
+    "timeZone": "America/Los_Angeles",
+    "local": "San Antonio"
+  },
+  {
+    "uuid": "04045db3-0471-4de8-b7ab-418c36fcaa12",
+    "name": "Sensor Cobb Mercer",
+    "description": "irure exercitation anim incididunt nulla id elit Lorem ipsum voluptate",
+    "type": "Panel",
+    "panelName": "Panel Hale",
+    "category": 1,
+    "timeZone": "America/Los_Angeles",
+    "local": "San Antonio"
+  },
+  {
+    "uuid": "779043de-5165-4e92-ae97-b9b45f5aad92",
+    "name": "Sensor Tami Hunter",
+    "description": "officia reprehenderit pariatur tempor do id dolor non pariatur non",
+    "type": "Panel",
+    "panelName": "Panel Howard",
+    "category": 3,
+    "timeZone": "America/Los_Angeles",
+    "local": "New York City"
+  },
+  {
+    "uuid": "efe89470-d0b2-4ec6-9fa6-165e0c7fe814",
+    "name": "Sensor Cameron Talley",
+    "description": "cillum minim occaecat consectetur eu cillum quis excepteur aliquip excepteur",
+    "type": "Panel",
+    "panelName": "Panel Dickerson",
+    "category": 3,
+    "timeZone": "America/Los_Angeles",
+    "local": "San Diego"
+  },
+  {
+    "uuid": "ba75c56e-3c43-4414-b376-1d99eabbe258",
+    "name": "Sensor Hickman Taylor",
+    "description": "enim ut duis enim anim ea cillum dolor laboris dolore",
+    "type": "Panel",
+    "panelName": "Panel William",
+    "category": 1,
+    "timeZone": "America/Los_Angeles",
+    "local": "Dallas"
+  },
+  {
+    "uuid": "07908be1-033a-429f-a139-f14840246411",
+    "name": "Sensor Taylor Nolan",
+    "description": "consequat velit nisi eu proident ipsum sit quis non eiusmod",
+    "type": "Panel",
+    "panelName": "Panel Atkinson",
+    "category": 4,
+    "timeZone": "America/Los_Angeles",
+    "local": "Chicago"
+  },
+  {
+    "uuid": "89306897-b66e-4b3f-bd93-61103df5a5fb",
+    "name": "Sensor Hewitt Ray",
+    "description": "ad ea voluptate ipsum Lorem in veniam esse non esse",
+    "type": "Panel",
+    "panelName": "Panel Ferguson",
+    "category": 1,
+    "timeZone": "America/Los_Angeles",
+    "local": "Phoenix"
+  },
+  {
+    "uuid": "9421477a-4ddd-4069-8804-0960da67ea95",
+    "name": "Sensor Phillips Brennan",
+    "description": "exercitation enim eu occaecat id et nulla mollit mollit culpa",
+    "type": "Panel",
+    "panelName": "Panel Kennedy",
+    "category": 2,
+    "timeZone": "America/Los_Angeles",
+    "local": "Houston"
+  },
+  {
+    "uuid": "5f097dca-5a89-459d-a336-e6f4f7979d85",
+    "name": "Sensor Diane Shaffer",
+    "description": "cillum ullamco non veniam excepteur pariatur eu labore labore nulla",
+    "type": "Panel",
+    "panelName": "Panel Sims",
+    "category": 4,
+    "timeZone": "America/Los_Angeles",
+    "local": "Chicago"
+  },
+  {
+    "uuid": "e043140b-5dea-41f1-9137-51ece22bdadd",
+    "name": "Sensor Hayden Yates",
+    "description": "nisi Lorem mollit aliquip dolor duis id proident veniam tempor",
+    "type": "Panel",
+    "panelName": "Panel Suarez",
+    "category": 2,
+    "timeZone": "America/Los_Angeles",
+    "local": "San Jose"
+  },
+  {
+    "uuid": "a1a4598c-7244-4b9e-b56e-0ad7bfbed092",
+    "name": "Sensor Shelley Bush",
+    "description": "qui officia sit eu duis culpa ad mollit quis commodo",
+    "type": "Panel",
+    "panelName": "Panel Lynn",
+    "category": 4,
+    "timeZone": "America/Los_Angeles",
+    "local": "Dallas"
+  },
+  {
+    "uuid": "7711e901-071e-4d4d-8137-b703a1ed33a7",
+    "name": "Sensor Marks Hampton",
+    "description": "ad adipisicing laboris adipisicing labore dolor in amet laborum cillum",
+    "type": "Panel",
+    "panelName": "Panel Schneider",
+    "category": 3,
+    "timeZone": "America/Los_Angeles",
+    "local": "Dallas"
+  },
+  {
+    "uuid": "8e492849-55aa-477b-b328-f1d81fb9cfb9",
+    "name": "Sensor Stout Walter",
+    "description": "quis excepteur do esse adipisicing id Lorem minim minim laboris",
+    "type": "Panel",
+    "panelName": "Panel Bradford",
+    "category": 4,
+    "timeZone": "America/Los_Angeles",
+    "local": "Philadelphia"
+  },
+  {
+    "uuid": "946b38df-ccac-49ae-b024-bcceed50a528",
+    "name": "Sensor Rosario Stein",
+    "description": "pariatur occaecat commodo irure esse irure qui excepteur duis exercitation",
+    "type": "Panel",
+    "panelName": "Panel Waters",
+    "category": 2,
+    "timeZone": "America/Los_Angeles",
+    "local": "San Antonio"
+  },
+  {
+    "uuid": "329e8667-3e0b-42ed-94e9-7f3c019b2984",
+    "name": "Sensor Tanya Gonzalez",
+    "description": "amet eu commodo ad ipsum nostrud cupidatat officia mollit laborum",
+    "type": "Panel",
+    "panelName": "Panel Lamb",
+    "category": 5,
+    "timeZone": "America/Los_Angeles",
+    "local": "Houston"
+  },
+  {
+    "uuid": "f4ac87bb-f0f1-4e35-909d-0b58ee5e4e66",
+    "name": "Sensor Elsa Vinson",
+    "description": "anim deserunt laborum enim aliquip tempor aliquip incididunt ad amet",
+    "type": "Panel",
+    "panelName": "Panel Gentry",
+    "category": 2,
+    "timeZone": "America/Los_Angeles",
+    "local": "New York City"
+  },
+  {
+    "uuid": "a5f5f4ba-a2be-44c0-9db8-de57a14ea713",
+    "name": "Sensor Collier Lee",
+    "description": "excepteur nulla excepteur ad culpa adipisicing est dolore labore sunt",
+    "type": "Panel",
+    "panelName": "Panel Alford",
+    "category": 2,
+    "timeZone": "America/Los_Angeles",
+    "local": "New York City"
+  },
+  {
+    "uuid": "a0d02f9c-31f2-421b-a930-ba9743fbb1ad",
+    "name": "Sensor Ruth Sweet",
+    "description": "ad ut magna fugiat magna sint irure dolor labore magna",
+    "type": "Panel",
+    "panelName": "Panel Brock",
+    "category": 1,
+    "timeZone": "America/Los_Angeles",
+    "local": "Chicago"
+  },
+  {
+    "uuid": "b5fef265-4324-41fa-8ba4-5db711f5325b",
+    "name": "Sensor Ward Guerrero",
+    "description": "laboris pariatur minim proident ea veniam aute proident adipisicing ea",
+    "type": "Panel",
+    "panelName": "Panel Mcleod",
+    "category": 3,
+    "timeZone": "America/Los_Angeles",
+    "local": "San Diego"
+  },
+  {
+    "uuid": "d11934b7-cf50-45bb-8dbe-b1f9936db0ce",
+    "name": "Sensor Virgie Morrow",
+    "description": "sit laborum in cillum ipsum qui deserunt deserunt enim aute",
+    "type": "Panel",
+    "panelName": "Panel Roth",
+    "category": 1,
+    "timeZone": "America/Los_Angeles",
+    "local": "Phoenix"
+  },
+  {
+    "uuid": "8848aaf7-c324-4ea0-b1cd-bb8d212dfc39",
+    "name": "Sensor Sheree Stephenson",
+    "description": "ad nostrud quis officia non cupidatat minim veniam ut culpa",
+    "type": "Panel",
+    "panelName": "Panel Cross",
+    "category": 2,
+    "timeZone": "America/Los_Angeles",
+    "local": "Houston"
+  },
+  {
+    "uuid": "902b949b-8f34-40a9-a809-07c7536a3f0d",
+    "name": "Sensor Tara Mills",
+    "description": "do id nisi dolor amet sunt est et et duis",
+    "type": "Panel",
+    "panelName": "Panel Rush",
+    "category": 3,
+    "timeZone": "America/Los_Angeles",
+    "local": "Dallas"
+  },
+  {
+    "uuid": "f7a7398f-1322-4a43-a937-ad5e303d03a0",
+    "name": "Sensor Shannon Garner",
+    "description": "dolore ea incididunt magna exercitation ipsum culpa id minim consequat",
+    "type": "Panel",
+    "panelName": "Panel Whitaker",
+    "category": 5,
+    "timeZone": "America/Los_Angeles",
+    "local": "Houston"
+  },
+  {
+    "uuid": "f02cf620-1648-4d9c-bd75-d57052b6eebb",
+    "name": "Sensor Rose Glass",
+    "description": "laborum tempor veniam enim reprehenderit quis ea eiusmod elit sit",
+    "type": "Panel",
+    "panelName": "Panel Blankenship",
+    "category": 2,
+    "timeZone": "America/Los_Angeles",
+    "local": "Houston"
+  },
+  {
+    "uuid": "67eb065b-6452-4b24-a4ae-c69eef1ea627",
+    "name": "Sensor Hallie Terry",
+    "description": "sunt sit officia cupidatat excepteur ea mollit ex in adipisicing",
+    "type": "Panel",
+    "panelName": "Panel Jacobs",
+    "category": 3,
+    "timeZone": "America/Los_Angeles",
+    "local": "Los Angeles"
+  },
+  {
+    "uuid": "458b2919-b5d3-4179-b78e-936c91d3a2ab",
+    "name": "Sensor Ross Juarez",
+    "description": "aliqua cupidatat amet adipisicing ut voluptate deserunt et laborum elit",
+    "type": "Panel",
+    "panelName": "Panel Chambers",
+    "category": 4,
+    "timeZone": "America/Los_Angeles",
+    "local": "San Jose"
+  },
+  {
+    "uuid": "b648e2f3-924f-4367-9956-e93f98936544",
+    "name": "Sensor Deborah Hobbs",
+    "description": "eiusmod duis incididunt sit ipsum officia mollit aliqua laborum Lorem",
+    "type": "Panel",
+    "panelName": "Panel Harper",
+    "category": 3,
+    "timeZone": "America/Los_Angeles",
+    "local": "Chicago"
+  },
+  {
+    "uuid": "372355e7-200e-4639-b046-e0cd8235478e",
+    "name": "Sensor Merritt Welch",
+    "description": "reprehenderit non tempor cupidatat laborum aliqua quis ea et commodo",
+    "type": "Panel",
+    "panelName": "Panel Prince",
+    "category": 3,
+    "timeZone": "America/Los_Angeles",
+    "local": "Phoenix"
+  },
+  {
+    "uuid": "36d4f14c-a241-4b56-a2e8-16675618869d",
+    "name": "Sensor Angel Vaughn",
+    "description": "pariatur elit quis excepteur eu dolor nisi adipisicing officia labore",
+    "type": "Panel",
+    "panelName": "Panel Henson",
+    "category": 3,
+    "timeZone": "America/Los_Angeles",
+    "local": "Philadelphia"
+  },
+  {
+    "uuid": "dd660a0d-38d1-46d9-a7f0-03f6e68ee025",
+    "name": "Sensor Katina Carrillo",
+    "description": "enim tempor labore nulla dolore Lorem irure fugiat voluptate velit",
+    "type": "Panel",
+    "panelName": "Panel Wood",
+    "category": 4,
+    "timeZone": "America/Los_Angeles",
+    "local": "Houston"
+  },
+  {
+    "uuid": "178304b5-d519-45df-b7ba-a7154fc2b944",
+    "name": "Sensor Miles Massey",
+    "description": "eiusmod nostrud laborum eu velit non aliqua occaecat anim nostrud",
+    "type": "Panel",
+    "panelName": "Panel Haley",
+    "category": 1,
+    "timeZone": "America/Los_Angeles",
+    "local": "Houston"
+  },
+  {
+    "uuid": "f3bcdf4d-8e44-4ead-847d-ebe1d4f0faa9",
+    "name": "Sensor Bianca Norman",
+    "description": "adipisicing magna Lorem minim excepteur ex ea laboris deserunt id",
+    "type": "Panel",
+    "panelName": "Panel Bolton",
+    "category": 4,
+    "timeZone": "America/Los_Angeles",
+    "local": "Houston"
+  },
+  {
+    "uuid": "4b7f6fb7-b893-474c-b63e-b46613e7684b",
+    "name": "Sensor Peters Bryan",
+    "description": "reprehenderit proident quis duis nisi mollit incididunt reprehenderit pariatur duis",
+    "type": "Panel",
+    "panelName": "Panel Ellis",
+    "category": 4,
+    "timeZone": "America/Los_Angeles",
+    "local": "Los Angeles"
+  },
+  {
+    "uuid": "7cec1d9f-040e-44a0-94e4-8e31aff88977",
+    "name": "Sensor Constance Sexton",
+    "description": "cillum cillum fugiat esse sit nostrud reprehenderit esse et irure",
+    "type": "Panel",
+    "panelName": "Panel Patton",
+    "category": 3,
+    "timeZone": "America/Los_Angeles",
+    "local": "Chicago"
+  },
+  {
+    "uuid": "4f90af47-7471-43fb-90f1-6b0fc689bc1e",
+    "name": "Sensor Gibson Wilson",
+    "description": "labore in est id anim minim minim dolor et consequat",
+    "type": "Panel",
+    "panelName": "Panel Malone",
+    "category": 4,
+    "timeZone": "America/Los_Angeles",
+    "local": "San Antonio"
+  },
+  {
+    "uuid": "0e80f7c2-9ae7-4430-a17a-b8210444cc44",
+    "name": "Sensor Lina Nash",
+    "description": "dolore reprehenderit excepteur labore cillum magna aute amet culpa mollit",
+    "type": "Panel",
+    "panelName": "Panel Strong",
+    "category": 2,
+    "timeZone": "America/Los_Angeles",
+    "local": "Chicago"
+  },
+  {
+    "uuid": "a17d4de9-9f59-43b3-b927-0c0442989d56",
+    "name": "Sensor Jeannine Greene",
+    "description": "exercitation esse dolor minim occaecat quis commodo nulla ut ea",
+    "type": "Panel",
+    "panelName": "Panel Chang",
+    "category": 1,
+    "timeZone": "America/Los_Angeles",
+    "local": "Houston"
+  },
+  {
+    "uuid": "6f997e70-178b-4a96-b611-e3f99759eaeb",
+    "name": "Sensor Dunn Holland",
+    "description": "exercitation ullamco eiusmod dolor laboris eiusmod sint excepteur sit labore",
+    "type": "Panel",
+    "panelName": "Panel Berger",
+    "category": 5,
+    "timeZone": "America/Los_Angeles",
+    "local": "Philadelphia"
+  },
+  {
+    "uuid": "ca6907f1-f18c-4852-a1f3-bcb267f7a73f",
+    "name": "Sensor Pollard Booth",
+    "description": "laborum aliquip mollit exercitation fugiat excepteur proident do veniam ea",
+    "type": "Panel",
+    "panelName": "Panel Clemons",
+    "category": 2,
+    "timeZone": "America/Los_Angeles",
+    "local": "Los Angeles"
+  },
+  {
+    "uuid": "33aacd0b-6aaa-4e4c-bbd0-e79b41327a1e",
+    "name": "Sensor Hernandez Henry",
+    "description": "labore voluptate Lorem deserunt qui do aliqua officia veniam sint",
+    "type": "Panel",
+    "panelName": "Panel Conrad",
+    "category": 3,
+    "timeZone": "America/Los_Angeles",
+    "local": "Chicago"
+  },
+  {
+    "uuid": "137079f5-2d2e-4d10-a6c3-f84acb68c82d",
+    "name": "Sensor Tamara Love",
+    "description": "quis cillum laboris in enim adipisicing ex aute reprehenderit proident",
+    "type": "Panel",
+    "panelName": "Panel Allen",
+    "category": 3,
+    "timeZone": "America/Los_Angeles",
+    "local": "Chicago"
+  },
+  {
+    "uuid": "9b37f2e6-e6b6-45b8-ab6f-349537876e2b",
+    "name": "Sensor Nadine Kim",
+    "description": "irure consectetur qui est qui ipsum esse reprehenderit elit labore",
+    "type": "Panel",
+    "panelName": "Panel Beck",
+    "category": 1,
+    "timeZone": "America/Los_Angeles",
+    "local": "Philadelphia"
+  },
+  {
+    "uuid": "3562b95e-799c-413d-8934-6504dfb54cc8",
+    "name": "Sensor Spence Leblanc",
+    "description": "sunt ipsum ullamco laboris minim ipsum magna ea veniam dolore",
+    "type": "Panel",
+    "panelName": "Panel Herring",
+    "category": 1,
+    "timeZone": "America/Los_Angeles",
+    "local": "San Antonio"
+  },
+  {
+    "uuid": "40f3239d-15c2-4f9e-a4d9-59f3a5a4418d",
+    "name": "Sensor Yvonne Bailey",
+    "description": "consectetur nulla sint consectetur magna irure sit nulla dolore cupidatat",
+    "type": "Panel",
+    "panelName": "Panel Rocha",
+    "category": 4,
+    "timeZone": "America/Los_Angeles",
+    "local": "Los Angeles"
+  },
+  {
+    "uuid": "896a979d-e817-4d8a-812e-d53375e14c88",
+    "name": "Sensor Irma Dominguez",
+    "description": "adipisicing sit eiusmod et ad reprehenderit qui exercitation sit commodo",
+    "type": "Panel",
+    "panelName": "Panel Patrick",
+    "category": 1,
+    "timeZone": "America/Los_Angeles",
+    "local": "New York City"
+  },
+  {
+    "uuid": "e15dc604-f87c-47d5-92a5-894fa049f951",
+    "name": "Sensor Cleveland Valdez",
+    "description": "voluptate non duis id aute irure quis id aute ut",
+    "type": "Panel",
+    "panelName": "Panel Rodgers",
+    "category": 5,
+    "timeZone": "America/Los_Angeles",
+    "local": "Dallas"
+  },
+  {
+    "uuid": "8bf6b530-df31-4be2-9b8f-d5e9e3cc9156",
+    "name": "Sensor Marietta Romero",
+    "description": "enim velit amet nulla incididunt et veniam sit nulla commodo",
+    "type": "Panel",
+    "panelName": "Panel Jarvis",
+    "category": 4,
+    "timeZone": "America/Los_Angeles",
+    "local": "New York City"
+  },
+  {
+    "uuid": "21660b98-27b5-4ea2-8a65-59edea1337f0",
+    "name": "Sensor Guy Neal",
+    "description": "eiusmod non eu laborum proident cupidatat commodo ex proident commodo",
+    "type": "Panel",
+    "panelName": "Panel Tanner",
+    "category": 1,
+    "timeZone": "America/Los_Angeles",
+    "local": "Los Angeles"
+  },
+  {
+    "uuid": "6d65c261-7062-4afc-85cf-7422ca6e20be",
+    "name": "Sensor Melissa Weeks",
+    "description": "magna nulla Lorem aliqua ullamco aliqua quis aliqua ea anim",
+    "type": "Panel",
+    "panelName": "Panel Wong",
+    "category": 5,
+    "timeZone": "America/Los_Angeles",
+    "local": "Philadelphia"
+  },
+  {
+    "uuid": "13b39d01-890a-4c8b-aeee-4516471e0d5a",
+    "name": "Sensor Sims Carter",
+    "description": "dolore ea exercitation anim ad non commodo mollit nulla dolore",
+    "type": "Panel",
+    "panelName": "Panel Good",
+    "category": 3,
+    "timeZone": "America/Los_Angeles",
+    "local": "Chicago"
+  },
+  {
+    "uuid": "2ade6c1c-135c-427c-a551-b0efeb402773",
+    "name": "Sensor Dee Cruz",
+    "description": "pariatur eiusmod quis occaecat et adipisicing magna nisi duis elit",
+    "type": "Panel",
+    "panelName": "Panel Russo",
+    "category": 5,
+    "timeZone": "America/Los_Angeles",
+    "local": "Dallas"
+  },
+  {
+    "uuid": "5957ee4f-9e6d-4ed8-ad1e-e86c9bfd98c1",
+    "name": "Sensor Copeland Macias",
+    "description": "eiusmod labore magna ullamco dolor incididunt amet consectetur sunt sunt",
+    "type": "Panel",
+    "panelName": "Panel Valenzuela",
+    "category": 2,
+    "timeZone": "America/Los_Angeles",
+    "local": "Phoenix"
+  },
+  {
+    "uuid": "2530ccea-8dad-498d-ba22-4d60acec12c4",
+    "name": "Sensor Clarke White",
+    "description": "eiusmod sunt ut nulla adipisicing aute laborum amet fugiat quis",
+    "type": "Panel",
+    "panelName": "Panel Jackson",
+    "category": 5,
+    "timeZone": "America/Los_Angeles",
+    "local": "Philadelphia"
+  },
+  {
+    "uuid": "e2174422-3784-4b7f-bdd0-258f256c042a",
+    "name": "Sensor Ingram Bates",
+    "description": "pariatur amet anim ex ex veniam qui in occaecat eiusmod",
+    "type": "Panel",
+    "panelName": "Panel Tyler",
+    "category": 3,
+    "timeZone": "America/Los_Angeles",
+    "local": "Los Angeles"
+  },
+  {
+    "uuid": "f5882c68-4c15-4b79-a181-8afac8bd1f7a",
+    "name": "Sensor Amy Snyder",
+    "description": "in laboris cupidatat eu Lorem occaecat adipisicing eiusmod do amet",
+    "type": "Panel",
+    "panelName": "Panel Rios",
+    "category": 1,
+    "timeZone": "America/Los_Angeles",
+    "local": "Los Angeles"
+  },
+  {
+    "uuid": "eaa4df98-a765-4739-8969-e65da24feb55",
+    "name": "Sensor Bird Pearson",
+    "description": "exercitation duis nostrud ad minim proident nulla nisi ullamco anim",
+    "type": "Panel",
+    "panelName": "Panel Jensen",
+    "category": 4,
+    "timeZone": "America/Los_Angeles",
+    "local": "Philadelphia"
+  },
+  {
+    "uuid": "74d0459d-a1a9-48b0-9a03-74196f91e2e4",
+    "name": "Sensor Tran Wade",
+    "description": "est et reprehenderit amet officia id occaecat quis laboris ad",
+    "type": "Panel",
+    "panelName": "Panel Oneil",
+    "category": 1,
+    "timeZone": "America/Los_Angeles",
+    "local": "Philadelphia"
+  },
+  {
+    "uuid": "fbd959fa-7af1-4fc6-ad44-1952fa767135",
+    "name": "Sensor Krystal Reynolds",
+    "description": "sunt ad duis dolor minim consequat voluptate et exercitation nisi",
+    "type": "Panel",
+    "panelName": "Panel Drake",
+    "category": 2,
+    "timeZone": "America/Los_Angeles",
+    "local": "Chicago"
+  },
+  {
+    "uuid": "50db0863-3dfc-4c21-b037-afc13f4a86b8",
+    "name": "Sensor Lindsey Gill",
+    "description": "aute do eiusmod laborum laborum voluptate pariatur irure duis anim",
+    "type": "Panel",
+    "panelName": "Panel Smith",
+    "category": 4,
+    "timeZone": "America/Los_Angeles",
+    "local": "New York City"
+  },
+  {
+    "uuid": "07a897b1-bd49-4e9d-a71e-1ae06f18d4e1",
+    "name": "Sensor Patricia Dickson",
+    "description": "cupidatat ut sunt ut aliqua duis sit labore ullamco nulla",
+    "type": "Panel",
+    "panelName": "Panel Oneill",
+    "category": 3,
+    "timeZone": "America/Los_Angeles",
+    "local": "Philadelphia"
+  },
+  {
+    "uuid": "53355e90-409a-482c-bf1f-d74296e82c63",
+    "name": "Sensor Jami Ramsey",
+    "description": "cupidatat sint non dolore velit dolor ex excepteur laboris sit",
+    "type": "Panel",
+    "panelName": "Panel Andrews",
+    "category": 1,
+    "timeZone": "America/Los_Angeles",
+    "local": "San Diego"
+  },
+  {
+    "uuid": "4bdb8373-4d8f-4837-8f1f-226019095293",
+    "name": "Sensor Bertie Atkins",
+    "description": "veniam sit eiusmod consectetur labore ea laborum dolore eiusmod ipsum",
+    "type": "Panel",
+    "panelName": "Panel Carr",
+    "category": 4,
+    "timeZone": "America/Los_Angeles",
+    "local": "San Jose"
+  },
+  {
+    "uuid": "b0e366f5-17e7-42f0-ada1-86935e2a2c40",
+    "name": "Sensor Morse Moon",
+    "description": "aute anim nulla occaecat mollit culpa irure nulla mollit id",
+    "type": "Panel",
+    "panelName": "Panel Brooks",
+    "category": 2,
+    "timeZone": "America/Los_Angeles",
+    "local": "Philadelphia"
+  },
+  {
+    "uuid": "09cb3c49-db1c-4d94-9e26-b6e5a64dcbda",
+    "name": "Sensor Quinn Mccoy",
+    "description": "in velit ut occaecat ea id aliquip fugiat duis aliquip",
+    "type": "Panel",
+    "panelName": "Panel Oneal",
+    "category": 2,
+    "timeZone": "America/Los_Angeles",
+    "local": "Phoenix"
+  },
+  {
+    "uuid": "ff1b9ec9-9123-46b4-b922-e907a1141136",
+    "name": "Sensor Rachelle Gordon",
+    "description": "velit dolor officia commodo labore eiusmod consectetur dolore nostrud amet",
+    "type": "Panel",
+    "panelName": "Panel Miller",
+    "category": 2,
+    "timeZone": "America/Los_Angeles",
+    "local": "Philadelphia"
+  },
+  {
+    "uuid": "bc94d9ef-b719-4643-9787-0e2caeefb045",
+    "name": "Sensor Rosalinda Mendez",
+    "description": "officia esse duis ea exercitation incididunt elit mollit veniam commodo",
+    "type": "Panel",
+    "panelName": "Panel Dixon",
+    "category": 1,
+    "timeZone": "America/Los_Angeles",
+    "local": "Philadelphia"
+  },
+  {
+    "uuid": "24ef60b2-7934-4bb4-ab24-a6f8b3f972fb",
+    "name": "Sensor Justice Yang",
+    "description": "et fugiat amet reprehenderit tempor nulla enim nulla culpa aute",
+    "type": "Panel",
+    "panelName": "Panel Barnett",
+    "category": 1,
+    "timeZone": "America/Los_Angeles",
+    "local": "Houston"
+  },
+  {
+    "uuid": "c2dadc52-850e-4ead-8a45-8aae32f4a75d",
+    "name": "Sensor Avila Cabrera",
+    "description": "ullamco esse veniam dolore veniam excepteur aliquip laborum do elit",
+    "type": "Panel",
+    "panelName": "Panel Cochran",
+    "category": 3,
+    "timeZone": "America/Los_Angeles",
+    "local": "Phoenix"
+  },
+  {
+    "uuid": "c0843c06-275b-4022-87db-b94e488d1a90",
+    "name": "Sensor Janette Knowles",
+    "description": "ipsum minim dolore minim commodo reprehenderit aliqua tempor nisi laboris",
+    "type": "Panel",
+    "panelName": "Panel Johnston",
+    "category": 2,
+    "timeZone": "America/Los_Angeles",
+    "local": "San Diego"
+  },
+  {
+    "uuid": "d6935a55-eb75-45ec-80a8-aa25641e93d2",
+    "name": "Sensor Kent Church",
+    "description": "aute do sit do Lorem anim et minim pariatur proident",
+    "type": "Panel",
+    "panelName": "Panel Mosley",
+    "category": 1,
+    "timeZone": "America/Los_Angeles",
+    "local": "Phoenix"
+  },
+  {
+    "uuid": "0ae9e8d7-fa35-466b-be25-5ce546e8a55c",
+    "name": "Sensor Juana Dean",
+    "description": "est cupidatat cupidatat dolore occaecat dolor sint dolor in enim",
+    "type": "Panel",
+    "panelName": "Panel Landry",
+    "category": 4,
+    "timeZone": "America/Los_Angeles",
+    "local": "San Diego"
+  },
+  {
+    "uuid": "6d253d5b-ac3f-4fcb-b047-855da28ca2b8",
+    "name": "Sensor Audra Copeland",
+    "description": "proident cupidatat laborum dolor velit cillum fugiat commodo laborum id",
+    "type": "Panel",
+    "panelName": "Panel Justice",
+    "category": 1,
+    "timeZone": "America/Los_Angeles",
+    "local": "San Diego"
+  },
+  {
+    "uuid": "48d9b25e-9e37-4168-9b02-2e89ae84897a",
+    "name": "Sensor Herminia Puckett",
+    "description": "nulla sint sint ea deserunt proident irure labore id nulla",
+    "type": "Panel",
+    "panelName": "Panel Williamson",
+    "category": 5,
+    "timeZone": "America/Los_Angeles",
+    "local": "Chicago"
+  },
+  {
+    "uuid": "bd629e63-b940-47e8-992c-4e52d5972ae8",
+    "name": "Sensor Rosie Clarke",
+    "description": "elit ad ad non nulla sint nulla ipsum excepteur ipsum",
+    "type": "Panel",
+    "panelName": "Panel Morse",
+    "category": 4,
+    "timeZone": "America/Los_Angeles",
+    "local": "Phoenix"
+  },
+  {
+    "uuid": "a0d0e81d-3ebe-4a80-b015-950ad539a52b",
+    "name": "Sensor Roxanne Henderson",
+    "description": "sit aliquip dolore esse dolor id officia et elit incididunt",
+    "type": "Panel",
+    "panelName": "Panel Jennings",
+    "category": 4,
+    "timeZone": "America/Los_Angeles",
+    "local": "Chicago"
+  },
+  {
+    "uuid": "dc213762-f866-4c7d-9321-c0b3f7789bf6",
+    "name": "Sensor Keller Powers",
+    "description": "aute pariatur consequat amet dolor amet fugiat ipsum culpa nulla",
+    "type": "Panel",
+    "panelName": "Panel Robles",
+    "category": 2,
+    "timeZone": "America/Los_Angeles",
+    "local": "San Jose"
+  },
+  {
+    "uuid": "df2e4984-eee9-4a3e-a4e9-e944eb80914e",
+    "name": "Sensor Marcella Barnes",
+    "description": "ad consequat Lorem dolore tempor Lorem velit velit et est",
+    "type": "Panel",
+    "panelName": "Panel Webster",
+    "category": 2,
+    "timeZone": "America/Los_Angeles",
+    "local": "Philadelphia"
+  },
+  {
+    "uuid": "74b3e4c4-f2db-4864-874e-6b0b3a4b95ed",
+    "name": "Sensor Hutchinson Goodman",
+    "description": "excepteur reprehenderit aliqua elit excepteur dolor consectetur eiusmod consequat excepteur",
+    "type": "Panel",
+    "panelName": "Panel Barton",
+    "category": 4,
+    "timeZone": "America/Los_Angeles",
+    "local": "Phoenix"
+  },
+  {
+    "uuid": "42ab30de-b956-456c-a1c0-3a5d045683c6",
+    "name": "Sensor Alison Odonnell",
+    "description": "veniam veniam laborum elit consectetur commodo pariatur esse exercitation adipisicing",
+    "type": "Panel",
+    "panelName": "Panel Dorsey",
+    "category": 1,
+    "timeZone": "America/Los_Angeles",
+    "local": "San Jose"
+  },
+  {
+    "uuid": "54ff62e6-4294-41b5-8464-fee6d45128ba",
+    "name": "Sensor June Duran",
+    "description": "tempor magna excepteur Lorem ad quis commodo cillum id consectetur",
+    "type": "Panel",
+    "panelName": "Panel Jefferson",
+    "category": 1,
+    "timeZone": "America/Los_Angeles",
+    "local": "Houston"
+  },
+  {
+    "uuid": "bbdbb50f-dc50-47fb-a59b-b5ada5d6d057",
+    "name": "Sensor Curry Alvarez",
+    "description": "enim Lorem voluptate cillum aliquip reprehenderit fugiat fugiat proident duis",
+    "type": "Panel",
+    "panelName": "Panel Anderson",
+    "category": 5,
+    "timeZone": "America/Los_Angeles",
+    "local": "Dallas"
+  },
+  {
+    "uuid": "460df269-e164-47ea-a31c-2335ce027939",
+    "name": "Sensor Elaine English",
+    "description": "non eiusmod et cupidatat veniam incididunt aliquip veniam sit dolor",
+    "type": "Panel",
+    "panelName": "Panel Hull",
+    "category": 3,
+    "timeZone": "America/Los_Angeles",
+    "local": "New York City"
+  },
+  {
+    "uuid": "ffbffe26-fc44-40a0-aa31-29fc2dd8881a",
+    "name": "Sensor Magdalena Acosta",
+    "description": "ea fugiat ipsum irure aliqua pariatur esse occaecat reprehenderit nulla",
+    "type": "Panel",
+    "panelName": "Panel Farley",
+    "category": 4,
+    "timeZone": "America/Los_Angeles",
+    "local": "Los Angeles"
+  },
+  {
+    "uuid": "c5027d34-8f9a-4fee-b0fd-660bd583c9a1",
+    "name": "Sensor Rivas Frederick",
+    "description": "nulla voluptate ullamco exercitation dolore elit adipisicing officia ea minim",
+    "type": "Panel",
+    "panelName": "Panel Rivers",
+    "category": 2,
+    "timeZone": "America/Los_Angeles",
+    "local": "San Jose"
+  },
+  {
+    "uuid": "f5947152-aa25-4da0-8165-5bfa70c4b7ac",
+    "name": "Sensor Lela Vance",
+    "description": "cillum labore consequat id ut nulla dolore reprehenderit deserunt ut",
+    "type": "Panel",
+    "panelName": "Panel Bartlett",
+    "category": 1,
+    "timeZone": "America/Los_Angeles",
+    "local": "San Jose"
+  },
+  {
+    "uuid": "318c3404-ce5f-4f55-a624-96577ec131c0",
+    "name": "Sensor Gates Fields",
+    "description": "Lorem officia ad dolor esse veniam culpa eu in eu",
+    "type": "Panel",
+    "panelName": "Panel Wolfe",
+    "category": 2,
+    "timeZone": "America/Los_Angeles",
+    "local": "Phoenix"
+  },
+  {
+    "uuid": "ca724786-e3e9-43b0-91b5-61fec5d86863",
+    "name": "Sensor Nita Espinoza",
+    "description": "ullamco velit incididunt adipisicing laborum exercitation qui eu ipsum sunt",
+    "type": "Panel",
+    "panelName": "Panel Vega",
+    "category": 1,
+    "timeZone": "America/Los_Angeles",
+    "local": "Dallas"
+  },
+  {
+    "uuid": "6ef9f68d-3cfc-4adb-892b-0c01115700d3",
+    "name": "Sensor Carolyn Crosby",
+    "description": "tempor nisi amet ut mollit esse incididunt eu sit dolor",
+    "type": "Panel",
+    "panelName": "Panel Castaneda",
+    "category": 3,
+    "timeZone": "America/Los_Angeles",
+    "local": "Philadelphia"
+  },
+  {
+    "uuid": "b76ac5fd-4207-44bb-ae1b-561333326605",
+    "name": "Sensor Dorothy Kline",
+    "description": "minim aute eiusmod excepteur aliqua ut duis veniam ad duis",
+    "type": "Panel",
+    "panelName": "Panel Peterson",
+    "category": 1,
+    "timeZone": "America/Los_Angeles",
+    "local": "Phoenix"
+  },
+  {
+    "uuid": "b660ee5f-ae0a-4395-bc57-e63b3dc2d1b3",
+    "name": "Sensor Therese Delgado",
+    "description": "Lorem dolore amet quis laborum dolore amet ad magna nisi",
+    "type": "Panel",
+    "panelName": "Panel Strickland",
+    "category": 5,
+    "timeZone": "America/Los_Angeles",
+    "local": "Houston"
+  },
+  {
+    "uuid": "2e455f38-1666-41ac-8be4-f0700b4843ab",
+    "name": "Sensor Myers Garza",
+    "description": "aute Lorem excepteur dolor aliqua anim magna tempor ullamco minim",
+    "type": "Panel",
+    "panelName": "Panel Hernandez",
+    "category": 1,
+    "timeZone": "America/Los_Angeles",
+    "local": "San Antonio"
+  },
+  {
+    "uuid": "7ba0bfba-0ada-46b3-a0a4-33ee4cb9e091",
+    "name": "Sensor Emerson Melton",
+    "description": "duis velit eiusmod cillum aliqua eiusmod Lorem Lorem commodo est",
+    "type": "Panel",
+    "panelName": "Panel Shaw",
+    "category": 5,
+    "timeZone": "America/Los_Angeles",
+    "local": "San Diego"
+  },
+  {
+    "uuid": "e98b5367-56f7-4315-8c87-22df62bb4f20",
+    "name": "Sensor Lawrence Doyle",
+    "description": "dolor cupidatat fugiat adipisicing consectetur mollit irure deserunt nostrud nulla",
+    "type": "Panel",
+    "panelName": "Panel Pugh",
+    "category": 5,
+    "timeZone": "America/Los_Angeles",
+    "local": "Chicago"
+  },
+  {
+    "uuid": "ba6a96a9-60db-4381-b1c6-96478404320c",
+    "name": "Sensor Mattie Mcconnell",
+    "description": "irure incididunt in velit cupidatat veniam ut nostrud velit qui",
+    "type": "Panel",
+    "panelName": "Panel Phelps",
+    "category": 3,
+    "timeZone": "America/Los_Angeles",
+    "local": "New York City"
+  },
+  {
+    "uuid": "d4469135-f698-4104-8383-6af74d61f3cc",
+    "name": "Sensor Chang Wilkins",
+    "description": "ea amet veniam minim proident in aute ea sunt qui",
+    "type": "Panel",
+    "panelName": "Panel Pittman",
+    "category": 2,
+    "timeZone": "America/Los_Angeles",
+    "local": "Phoenix"
+  },
+  {
+    "uuid": "49b427a6-6ee8-4a29-84d8-b1d184c23898",
+    "name": "Sensor Barrett Foley",
+    "description": "ea qui est nisi officia quis elit amet irure velit",
+    "type": "Panel",
+    "panelName": "Panel Hood",
+    "category": 4,
+    "timeZone": "America/Los_Angeles",
+    "local": "San Jose"
+  },
+  {
+    "uuid": "c25a22a1-5e5e-46af-8a4e-0ade31720d89",
+    "name": "Sensor Sanford Spencer",
+    "description": "Lorem nostrud id Lorem ex ut exercitation irure aliquip consequat",
+    "type": "Panel",
+    "panelName": "Panel James",
+    "category": 5,
+    "timeZone": "America/Los_Angeles",
+    "local": "San Diego"
+  },
+  {
+    "uuid": "a068c927-01fc-4c7a-b2f4-97e59a3eddf3",
+    "name": "Sensor Angeline Mason",
+    "description": "Lorem ad sit nostrud irure duis consectetur ut incididunt excepteur",
+    "type": "Panel",
+    "panelName": "Panel Glover",
+    "category": 2,
+    "timeZone": "America/Los_Angeles",
+    "local": "Dallas"
+  },
+  {
+    "uuid": "192c8bb1-15c1-4b1a-9b15-7cf609ae1562",
+    "name": "Sensor Williamson Small",
+    "description": "sunt esse laboris ex ea occaecat officia magna eu tempor",
+    "type": "Panel",
+    "panelName": "Panel Shelton",
+    "category": 4,
+    "timeZone": "America/Los_Angeles",
+    "local": "Dallas"
+  },
+  {
+    "uuid": "0ba843c5-cf86-4985-8f0c-2d66aea666fe",
+    "name": "Sensor Mclean Meyers",
+    "description": "amet veniam ipsum occaecat consectetur in nulla labore deserunt mollit",
+    "type": "Panel",
+    "panelName": "Panel Coleman",
+    "category": 4,
+    "timeZone": "America/Los_Angeles",
+    "local": "Houston"
+  },
+  {
+    "uuid": "e50efcf9-c3e0-4842-9d60-54a0a6cda30a",
+    "name": "Sensor Bolton Bonner",
+    "description": "laboris tempor dolor do id velit esse magna deserunt dolore",
+    "type": "Panel",
+    "panelName": "Panel Boyle",
+    "category": 2,
+    "timeZone": "America/Los_Angeles",
+    "local": "San Antonio"
+  },
+  {
+    "uuid": "d3581e00-4b56-4413-a231-654eb6eb94a2",
+    "name": "Sensor Hazel Johnson",
+    "description": "aliqua do velit culpa duis quis dolor nulla non id",
+    "type": "Panel",
+    "panelName": "Panel Crane",
+    "category": 2,
+    "timeZone": "America/Los_Angeles",
+    "local": "Chicago"
+  },
+  {
+    "uuid": "3a176ede-7554-442c-9b09-92e2536fc8b5",
+    "name": "Sensor Baxter Payne",
+    "description": "aute quis eiusmod sit laborum dolore veniam adipisicing dolor et",
+    "type": "Panel",
+    "panelName": "Panel Crawford",
+    "category": 1,
+    "timeZone": "America/Los_Angeles",
+    "local": "San Antonio"
+  },
+  {
+    "uuid": "52c641ba-c8d0-40bc-9b49-2d7a1b02bfd8",
+    "name": "Sensor Adele Shepherd",
+    "description": "laboris aliquip reprehenderit adipisicing proident ipsum est adipisicing veniam pariatur",
+    "type": "Panel",
+    "panelName": "Panel Hogan",
+    "category": 5,
+    "timeZone": "America/Los_Angeles",
+    "local": "Dallas"
+  },
+  {
+    "uuid": "70158324-40db-43da-848e-5032902dd180",
+    "name": "Sensor Battle Saunders",
+    "description": "ipsum ad non eiusmod fugiat labore ullamco excepteur esse ullamco",
+    "type": "Panel",
+    "panelName": "Panel Mcgowan",
+    "category": 5,
+    "timeZone": "America/Los_Angeles",
+    "local": "San Diego"
+  },
+  {
+    "uuid": "330d9b56-e9e9-435c-a5c0-28fc23684e6b",
+    "name": "Sensor Minnie Hinton",
+    "description": "cillum duis incididunt tempor amet incididunt tempor ullamco aute dolore",
+    "type": "Panel",
+    "panelName": "Panel Roman",
+    "category": 3,
+    "timeZone": "America/Los_Angeles",
+    "local": "Dallas"
+  },
+  {
+    "uuid": "9c25462f-cddb-4d20-a3e0-3be82fa89748",
+    "name": "Sensor Irene Blevins",
+    "description": "incididunt tempor nulla enim est ullamco nulla magna exercitation ad",
+    "type": "Panel",
+    "panelName": "Panel Calderon",
+    "category": 3,
+    "timeZone": "America/Los_Angeles",
+    "local": "San Jose"
+  },
+  {
+    "uuid": "f2e660d4-59f5-4778-bc10-d88accbf7ae6",
+    "name": "Sensor Colleen Mcknight",
+    "description": "nulla veniam pariatur qui dolore sit officia irure reprehenderit laborum",
+    "type": "Panel",
+    "panelName": "Panel Parker",
+    "category": 4,
+    "timeZone": "America/Los_Angeles",
+    "local": "San Diego"
+  },
+  {
+    "uuid": "82d2b3f8-d223-46e9-b054-35d9cfe3a0a7",
+    "name": "Sensor Lidia Joyce",
+    "description": "officia laboris sit culpa amet fugiat cillum adipisicing pariatur deserunt",
+    "type": "Panel",
+    "panelName": "Panel Wise",
+    "category": 1,
+    "timeZone": "America/Los_Angeles",
+    "local": "Houston"
+  },
+  {
+    "uuid": "8a57b089-b89c-49e1-a6c3-8ae2547d1c9d",
+    "name": "Sensor Marshall Mccall",
+    "description": "adipisicing sunt non deserunt consequat excepteur reprehenderit et id aliquip",
+    "type": "Panel",
+    "panelName": "Panel Kelly",
+    "category": 4,
+    "timeZone": "America/Los_Angeles",
+    "local": "San Antonio"
+  },
+  {
+    "uuid": "bd3d5cda-f42a-49c7-8f5a-8ee90b7b0dfd",
+    "name": "Sensor Wilder Whitney",
+    "description": "occaecat sit non esse labore ex excepteur culpa pariatur labore",
+    "type": "Panel",
+    "panelName": "Panel Mcdaniel",
+    "category": 3,
+    "timeZone": "America/Los_Angeles",
+    "local": "San Jose"
+  },
+  {
+    "uuid": "0a40e80f-0877-4fa2-b106-21198943654c",
+    "name": "Sensor Warner Leonard",
+    "description": "voluptate et cillum aliquip eu exercitation non sit tempor amet",
+    "type": "Panel",
+    "panelName": "Panel Munoz",
+    "category": 5,
+    "timeZone": "America/Los_Angeles",
+    "local": "San Diego"
+  },
+  {
+    "uuid": "a99e9454-e027-490d-a5e9-2d2501edc956",
+    "name": "Sensor Addie Morton",
+    "description": "ullamco sint incididunt ea quis excepteur dolore ipsum deserunt proident",
+    "type": "Panel",
+    "panelName": "Panel Chapman",
+    "category": 2,
+    "timeZone": "America/Los_Angeles",
+    "local": "San Antonio"
+  },
+  {
+    "uuid": "853f400a-b85f-4b4f-aa84-d2e7055aeebf",
+    "name": "Sensor Shelia Foreman",
+    "description": "est aliquip exercitation laborum ea minim mollit occaecat ipsum ut",
+    "type": "Panel",
+    "panelName": "Panel Weber",
+    "category": 3,
+    "timeZone": "America/Los_Angeles",
+    "local": "Chicago"
+  },
+  {
+    "uuid": "9970696b-00aa-4a0d-ba26-e7b679e4772a",
+    "name": "Sensor Walton Bauer",
+    "description": "nisi et est do in deserunt Lorem anim ex cupidatat",
+    "type": "Panel",
+    "panelName": "Panel Camacho",
+    "category": 3,
+    "timeZone": "America/Los_Angeles",
+    "local": "Dallas"
+  },
+  {
+    "uuid": "83165c57-5cb3-4731-9bf2-7934da468c40",
+    "name": "Sensor Wilma Harmon",
+    "description": "eiusmod fugiat magna consectetur consectetur ad voluptate qui Lorem consequat",
+    "type": "Panel",
+    "panelName": "Panel Ward",
+    "category": 2,
+    "timeZone": "America/Los_Angeles",
+    "local": "San Antonio"
+  },
+  {
+    "uuid": "354a9ea9-8335-4f56-9321-3cc3c172de7e",
+    "name": "Sensor Mercer Davenport",
+    "description": "reprehenderit incididunt labore exercitation labore consectetur reprehenderit duis eu pariatur",
+    "type": "Panel",
+    "panelName": "Panel Ramirez",
+    "category": 3,
+    "timeZone": "America/Los_Angeles",
+    "local": "Philadelphia"
+  },
+  {
+    "uuid": "82fa467d-d3be-4d67-949c-ad8eae8b8021",
+    "name": "Sensor Luella Simmons",
+    "description": "deserunt et qui excepteur voluptate consequat pariatur nulla dolor exercitation",
+    "type": "Panel",
+    "panelName": "Panel Dale",
+    "category": 3,
+    "timeZone": "America/Los_Angeles",
+    "local": "Los Angeles"
+  },
+  {
+    "uuid": "df92e981-9aba-480c-b503-bf9047158cac",
+    "name": "Sensor Duran Randolph",
+    "description": "magna Lorem elit fugiat adipisicing aute fugiat nulla fugiat irure",
+    "type": "Panel",
+    "panelName": "Panel Duffy",
+    "category": 4,
+    "timeZone": "America/Los_Angeles",
+    "local": "Los Angeles"
+  },
+  {
+    "uuid": "39c3f656-c6ad-40b3-a3df-f09df680d47f",
+    "name": "Sensor Deirdre Cantu",
+    "description": "sunt veniam culpa ipsum sint ad in laboris aliqua cupidatat",
+    "type": "Panel",
+    "panelName": "Panel Mcintyre",
+    "category": 4,
+    "timeZone": "America/Los_Angeles",
+    "local": "Los Angeles"
+  },
+  {
+    "uuid": "70d6c752-02be-4609-a90c-0aac1ed76bfb",
+    "name": "Sensor Tina Black",
+    "description": "eiusmod dolore consectetur in do in Lorem enim esse ullamco",
+    "type": "Panel",
+    "panelName": "Panel Chaney",
+    "category": 4,
+    "timeZone": "America/Los_Angeles",
+    "local": "Los Angeles"
+  },
+  {
+    "uuid": "40d521e9-4aca-499b-a417-8067dd197252",
+    "name": "Sensor Lorena Weaver",
+    "description": "adipisicing anim elit ex Lorem consectetur id velit do Lorem",
+    "type": "Panel",
+    "panelName": "Panel Mcgee",
+    "category": 4,
+    "timeZone": "America/Los_Angeles",
+    "local": "San Antonio"
+  },
+  {
+    "uuid": "35879b40-8507-4ffb-a12c-9c867539637a",
+    "name": "Sensor Maria Caldwell",
+    "description": "esse nostrud qui eu dolore tempor consequat nisi velit laboris",
+    "type": "Panel",
+    "panelName": "Panel Santiago",
+    "category": 2,
+    "timeZone": "America/Los_Angeles",
+    "local": "San Jose"
+  },
+  {
+    "uuid": "b0d66be4-ec76-4d11-bece-5223e62c15ba",
+    "name": "Sensor Blanche Ortiz",
+    "description": "laborum reprehenderit id sit irure ad ex voluptate in ipsum",
+    "type": "Panel",
+    "panelName": "Panel Vasquez",
+    "category": 3,
+    "timeZone": "America/Los_Angeles",
+    "local": "San Jose"
+  },
+  {
+    "uuid": "af1b6e2e-b406-4ff6-aab1-0a577715c472",
+    "name": "Sensor Coleman Spence",
+    "description": "est reprehenderit cillum sunt reprehenderit nostrud nostrud laborum do laboris",
+    "type": "Panel",
+    "panelName": "Panel Ramos",
+    "category": 3,
+    "timeZone": "America/Los_Angeles",
+    "local": "Philadelphia"
+  },
+  {
+    "uuid": "d06bc69c-4a22-4236-9751-2f59984fe9d3",
+    "name": "Sensor Jodie Patel",
+    "description": "exercitation sunt incididunt non proident laboris amet adipisicing nostrud ea",
+    "type": "Panel",
+    "panelName": "Panel Schwartz",
+    "category": 1,
+    "timeZone": "America/Los_Angeles",
+    "local": "New York City"
+  },
+  {
+    "uuid": "6c36c169-607c-46b3-abe6-1d651372ea13",
+    "name": "Sensor Martha Navarro",
+    "description": "occaecat sit laborum nulla ad qui do officia nisi aliqua",
+    "type": "Panel",
+    "panelName": "Panel Sellers",
+    "category": 5,
+    "timeZone": "America/Los_Angeles",
+    "local": "Dallas"
+  },
+  {
+    "uuid": "bb701c8e-b0f6-48b3-905a-3d3aaaed8912",
+    "name": "Sensor Eleanor Sanders",
+    "description": "in pariatur proident labore do laborum voluptate exercitation reprehenderit ut",
+    "type": "Panel",
+    "panelName": "Panel Mcdowell",
+    "category": 4,
+    "timeZone": "America/Los_Angeles",
+    "local": "Phoenix"
+  },
+  {
+    "uuid": "8a39384c-e1ee-4487-a14a-1461ce5a788e",
+    "name": "Sensor Kim Gallagher",
+    "description": "minim proident fugiat reprehenderit aliquip culpa fugiat veniam ea consectetur",
+    "type": "Panel",
+    "panelName": "Panel Whitley",
+    "category": 1,
+    "timeZone": "America/Los_Angeles",
+    "local": "San Antonio"
+  },
+  {
+    "uuid": "65f68acc-6c4b-470b-a615-38777ad6b4b1",
+    "name": "Sensor Earnestine Carroll",
+    "description": "non nisi magna consectetur exercitation id consectetur consequat elit mollit",
+    "type": "Panel",
+    "panelName": "Panel Thornton",
+    "category": 2,
+    "timeZone": "America/Los_Angeles",
+    "local": "New York City"
+  },
+  {
+    "uuid": "4e15c032-117c-4d73-92c6-864d16fa14cc",
+    "name": "Sensor Hodges Woods",
+    "description": "nisi ullamco deserunt est laborum in ad ex irure laboris",
+    "type": "Panel",
+    "panelName": "Panel Barron",
+    "category": 2,
+    "timeZone": "America/Los_Angeles",
+    "local": "New York City"
+  },
+  {
+    "uuid": "9cded7aa-974a-4aeb-a3dc-42df9effebb6",
+    "name": "Sensor Turner Franco",
+    "description": "mollit amet sint sunt laboris aliquip ad cupidatat commodo sunt",
+    "type": "Panel",
+    "panelName": "Panel Emerson",
+    "category": 1,
+    "timeZone": "America/Los_Angeles",
+    "local": "Houston"
+  },
+  {
+    "uuid": "65c8c258-037c-481b-8063-552e7da0dd87",
+    "name": "Sensor Kristina Maddox",
+    "description": "qui officia ea laborum minim voluptate et esse magna ipsum",
+    "type": "Panel",
+    "panelName": "Panel Conley",
+    "category": 5,
+    "timeZone": "America/Los_Angeles",
+    "local": "Chicago"
+  },
+  {
+    "uuid": "a72aac90-9cb7-40fe-af3b-59c8b61c18fe",
+    "name": "Sensor James Stafford",
+    "description": "eiusmod magna cillum mollit ullamco officia qui veniam dolore in",
+    "type": "Panel",
+    "panelName": "Panel Ballard",
+    "category": 2,
+    "timeZone": "America/Los_Angeles",
+    "local": "New York City"
+  },
+  {
+    "uuid": "4714824d-6f47-49ec-92d8-7c978c93c07f",
+    "name": "Sensor Lillie Hester",
+    "description": "quis qui officia nisi eiusmod laboris esse sint elit aliquip",
+    "type": "Panel",
+    "panelName": "Panel Guerra",
+    "category": 3,
+    "timeZone": "America/Los_Angeles",
+    "local": "San Antonio"
+  },
+  {
+    "uuid": "deaec5de-6f04-4222-a83a-dc8b1d5de70e",
+    "name": "Sensor Mccall Bowman",
+    "description": "proident et proident ea sint pariatur non ex irure exercitation",
+    "type": "Panel",
+    "panelName": "Panel Avery",
+    "category": 2,
+    "timeZone": "America/Los_Angeles",
+    "local": "San Antonio"
+  },
+  {
+    "uuid": "8ca74eca-fd8a-4f42-af09-fbe0b1d9e6a7",
+    "name": "Sensor Carpenter King",
+    "description": "excepteur mollit adipisicing do do ad amet et ex excepteur",
+    "type": "Panel",
+    "panelName": "Panel Ruiz",
+    "category": 3,
+    "timeZone": "America/Los_Angeles",
+    "local": "Los Angeles"
+  },
+  {
+    "uuid": "fc50213b-0fe5-4eaa-be05-b8f36df3bab9",
+    "name": "Sensor Haynes Guy",
+    "description": "adipisicing reprehenderit ad sunt minim elit deserunt nostrud id exercitation",
+    "type": "Panel",
+    "panelName": "Panel Nunez",
+    "category": 2,
+    "timeZone": "America/Los_Angeles",
+    "local": "New York City"
+  },
+  {
+    "uuid": "4e0f057c-7db2-4cac-963d-40a7f3aee1e1",
+    "name": "Sensor Banks Blackwell",
+    "description": "ut excepteur laborum minim irure nisi pariatur ipsum amet elit",
+    "type": "Panel",
+    "panelName": "Panel Blanchard",
+    "category": 1,
+    "timeZone": "America/Los_Angeles",
+    "local": "Dallas"
+  },
+  {
+    "uuid": "c2894636-fcb2-4ab7-82d0-e3b8d31b74f8",
+    "name": "Sensor White Sanchez",
+    "description": "minim ad nostrud voluptate laboris minim enim eiusmod labore ullamco",
+    "type": "Panel",
+    "panelName": "Panel Estes",
+    "category": 1,
+    "timeZone": "America/Los_Angeles",
+    "local": "San Antonio"
+  },
+  {
+    "uuid": "de0733e0-811b-4970-bd9d-100fd78352b1",
+    "name": "Sensor Terri Weiss",
+    "description": "duis ad velit anim dolor deserunt excepteur consequat enim laboris",
+    "type": "Panel",
+    "panelName": "Panel Collier",
+    "category": 1,
+    "timeZone": "America/Los_Angeles",
+    "local": "Los Angeles"
+  },
+  {
+    "uuid": "b5934090-866d-45e7-b042-db7a928824fc",
+    "name": "Sensor Brooke Hardin",
+    "description": "ad elit commodo est officia duis dolore tempor ex in",
+    "type": "Panel",
+    "panelName": "Panel Daniel",
+    "category": 2,
+    "timeZone": "America/Los_Angeles",
+    "local": "New York City"
+  },
+  {
+    "uuid": "19f4e53d-abd5-48a2-8cea-f1b37e4cada0",
+    "name": "Sensor Randi Schultz",
+    "description": "ut sint deserunt dolore veniam adipisicing deserunt voluptate irure aliqua",
+    "type": "Panel",
+    "panelName": "Panel Curry",
+    "category": 3,
+    "timeZone": "America/Los_Angeles",
+    "local": "Phoenix"
+  },
+  {
+    "uuid": "786de894-8e2a-4c92-8a0e-c5c1dbfffccb",
+    "name": "Sensor Brady Gaines",
+    "description": "Lorem consectetur nulla Lorem mollit in dolore ea culpa nisi",
+    "type": "Panel",
+    "panelName": "Panel Bradley",
+    "category": 2,
+    "timeZone": "America/Los_Angeles",
+    "local": "Chicago"
+  },
+  {
+    "uuid": "b8e6f3aa-b6c9-431f-bcce-3728503932d5",
+    "name": "Sensor Rowe Freeman",
+    "description": "quis excepteur nisi mollit minim exercitation non do culpa eu",
+    "type": "Panel",
+    "panelName": "Panel Reese",
+    "category": 4,
+    "timeZone": "America/Los_Angeles",
+    "local": "San Diego"
+  },
+  {
+    "uuid": "192c56fc-5d69-4c1a-b005-4de91c6caadc",
+    "name": "Sensor Tate Mcdonald",
+    "description": "mollit eu adipisicing magna reprehenderit laborum exercitation cupidatat amet et",
+    "type": "Panel",
+    "panelName": "Panel Gilliam",
+    "category": 5,
+    "timeZone": "America/Los_Angeles",
+    "local": "Philadelphia"
+  },
+  {
+    "uuid": "4d2dea64-d7ca-4176-87de-f2970a007275",
+    "name": "Sensor Courtney Battle",
+    "description": "proident irure sunt ipsum nostrud ea sint laborum ea officia",
+    "type": "Panel",
+    "panelName": "Panel Snider",
+    "category": 1,
+    "timeZone": "America/Los_Angeles",
+    "local": "Dallas"
+  },
+  {
+    "uuid": "0fbd484b-81db-430c-a398-24efbee5ff2f",
+    "name": "Sensor Dotson Gutierrez",
+    "description": "veniam dolor nulla magna ex fugiat magna commodo eu culpa",
+    "type": "Panel",
+    "panelName": "Panel Hooper",
+    "category": 5,
+    "timeZone": "America/Los_Angeles",
+    "local": "Dallas"
+  },
+  {
+    "uuid": "b3f1a776-d410-457c-a51f-088c07cf624e",
+    "name": "Sensor Ramsey Tillman",
+    "description": "eu Lorem velit occaecat quis mollit non sit Lorem quis",
+    "type": "Panel",
+    "panelName": "Panel Holloway",
+    "category": 2,
+    "timeZone": "America/Los_Angeles",
+    "local": "San Antonio"
+  },
+  {
+    "uuid": "f6c9d3b7-1d92-4a78-8e2f-0c1e19d758dd",
+    "name": "Sensor Sampson Davis",
+    "description": "aliquip occaecat sit fugiat adipisicing magna dolore id ad eu",
+    "type": "Panel",
+    "panelName": "Panel Stevens",
+    "category": 2,
+    "timeZone": "America/Los_Angeles",
+    "local": "San Jose"
+  },
+  {
+    "uuid": "972f2481-f955-4e77-a048-ca6716b07d74",
+    "name": "Sensor Conrad Manning",
+    "description": "duis sit qui dolore labore nostrud amet quis ut sint",
+    "type": "Panel",
+    "panelName": "Panel Spears",
+    "category": 5,
+    "timeZone": "America/Los_Angeles",
+    "local": "Philadelphia"
+  },
+  {
+    "uuid": "00e613b8-810b-4156-a545-57b68730d9cc",
+    "name": "Sensor Edna Farmer",
+    "description": "fugiat voluptate veniam consequat consectetur cupidatat non id eiusmod aliqua",
+    "type": "Panel",
+    "panelName": "Panel Gonzales",
+    "category": 2,
+    "timeZone": "America/Los_Angeles",
+    "local": "Philadelphia"
+  },
+  {
+    "uuid": "be24afa9-fb68-4041-a815-6acc7b03ad09",
+    "name": "Sensor Finch Rodriguez",
+    "description": "irure pariatur ad ut nostrud voluptate excepteur sint quis proident",
+    "type": "Panel",
+    "panelName": "Panel Benson",
+    "category": 2,
+    "timeZone": "America/Los_Angeles",
+    "local": "Chicago"
+  },
+  {
+    "uuid": "8b1038e2-6fcc-47cd-9d12-e4c54206e390",
+    "name": "Sensor Cash Ayala",
+    "description": "quis voluptate ipsum ad amet incididunt elit reprehenderit qui ex",
+    "type": "Panel",
+    "panelName": "Panel Burnett",
+    "category": 1,
+    "timeZone": "America/Los_Angeles",
+    "local": "San Diego"
+  },
+  {
+    "uuid": "091139e5-b6ce-49f4-9914-cacae733209f",
+    "name": "Sensor Roberson Mccullough",
+    "description": "enim exercitation incididunt esse est enim excepteur enim esse mollit",
+    "type": "Panel",
+    "panelName": "Panel Solomon",
+    "category": 3,
+    "timeZone": "America/Los_Angeles",
+    "local": "San Antonio"
+  },
+  {
+    "uuid": "b54536d9-a02e-4749-b97d-365162f5e36e",
+    "name": "Sensor Pate Buck",
+    "description": "qui aliquip id laborum laborum eiusmod non nulla labore velit",
+    "type": "Panel",
+    "panelName": "Panel Carson",
+    "category": 5,
+    "timeZone": "America/Los_Angeles",
+    "local": "Los Angeles"
+  },
+  {
+    "uuid": "5d30e06e-04c8-456e-8fb1-6f58509efedd",
+    "name": "Sensor Espinoza Duke",
+    "description": "quis voluptate ipsum aliquip non est ullamco nostrud aute eu",
+    "type": "Panel",
+    "panelName": "Panel Kemp",
+    "category": 4,
+    "timeZone": "America/Los_Angeles",
+    "local": "Philadelphia"
+  },
+  {
+    "uuid": "f3bd7d0f-6ee2-4c64-94f6-64729080ef0a",
+    "name": "Sensor Malone Sheppard",
+    "description": "dolor mollit consectetur mollit aute dolor duis consequat cupidatat cupidatat",
+    "type": "Panel",
+    "panelName": "Panel Fuller",
+    "category": 2,
+    "timeZone": "America/Los_Angeles",
+    "local": "Chicago"
+  },
+  {
+    "uuid": "4d56d92b-53cc-4071-b16d-704fe85b0a73",
+    "name": "Sensor Morrison Chavez",
+    "description": "in eiusmod laborum esse cillum aute deserunt commodo nisi anim",
+    "type": "Panel",
+    "panelName": "Panel Gomez",
+    "category": 5,
+    "timeZone": "America/Los_Angeles",
+    "local": "New York City"
+  },
+  {
+    "uuid": "75c4176e-0e58-42d0-899d-f67af594f93f",
+    "name": "Sensor Kerri Mccormick",
+    "description": "anim consequat nisi ullamco nisi pariatur ipsum cillum cupidatat ea",
+    "type": "Panel",
+    "panelName": "Panel Dennis",
+    "category": 4,
+    "timeZone": "America/Los_Angeles",
+    "local": "Philadelphia"
+  },
+  {
+    "uuid": "e711909d-37af-4ab3-bc32-556c34e277e7",
+    "name": "Sensor Emily Faulkner",
+    "description": "nisi ullamco veniam elit id culpa cillum aliqua eu ullamco",
+    "type": "Panel",
+    "panelName": "Panel Hickman",
+    "category": 3,
+    "timeZone": "America/Los_Angeles",
+    "local": "Dallas"
+  },
+  {
+    "uuid": "8d05b410-226b-455e-96bf-284204c71a80",
+    "name": "Sensor Alissa Gregory",
+    "description": "reprehenderit in cillum consectetur aliquip id ut sint ea et",
+    "type": "Panel",
+    "panelName": "Panel Simon",
+    "category": 4,
+    "timeZone": "America/Los_Angeles",
+    "local": "New York City"
+  },
+  {
+    "uuid": "2d822e6b-5dad-4991-a214-92ecb0945f5e",
+    "name": "Sensor Garner Cook",
+    "description": "elit cillum proident nisi cillum qui id est tempor culpa",
+    "type": "Panel",
+    "panelName": "Panel Vaughan",
+    "category": 4,
+    "timeZone": "America/Los_Angeles",
+    "local": "Chicago"
+  },
+  {
+    "uuid": "50011481-d220-40e1-9dba-05b444255cd9",
+    "name": "Sensor Baird Mullen",
+    "description": "deserunt eu non duis pariatur officia dolore dolore est non",
+    "type": "Panel",
+    "panelName": "Panel Lowe",
+    "category": 3,
+    "timeZone": "America/Los_Angeles",
+    "local": "Houston"
+  },
+  {
+    "uuid": "05377c19-0108-4de3-b838-551db297ee0b",
+    "name": "Sensor Ophelia Gilmore",
+    "description": "Lorem ea laboris minim Lorem incididunt dolore ea enim elit",
+    "type": "Panel",
+    "panelName": "Panel Sparks",
+    "category": 5,
+    "timeZone": "America/Los_Angeles",
+    "local": "Los Angeles"
+  },
+  {
+    "uuid": "72b40134-1d27-4683-af98-0c66678ae01b",
+    "name": "Sensor Robbie Pierce",
+    "description": "consequat et ea cillum laboris sunt nostrud esse nostrud cillum",
+    "type": "Panel",
+    "panelName": "Panel Hunt",
+    "category": 5,
+    "timeZone": "America/Los_Angeles",
+    "local": "Los Angeles"
+  },
+  {
+    "uuid": "884def91-c13a-403e-8752-1f1a43287046",
+    "name": "Sensor Rodgers Pate",
+    "description": "ut pariatur velit anim minim eu consectetur excepteur culpa non",
+    "type": "Panel",
+    "panelName": "Panel Vang",
+    "category": 5,
+    "timeZone": "America/Los_Angeles",
+    "local": "New York City"
+  },
+  {
+    "uuid": "bdcfbbfa-6f97-430e-92d1-1f83faa9beea",
+    "name": "Sensor Mccullough Avila",
+    "description": "commodo id incididunt eu laboris enim aliquip sint deserunt pariatur",
+    "type": "Panel",
+    "panelName": "Panel Charles",
+    "category": 3,
+    "timeZone": "America/Los_Angeles",
+    "local": "Phoenix"
+  },
+  {
+    "uuid": "0b99cb9f-dcf5-4f6f-aa40-4df8ab3968fb",
+    "name": "Sensor Kane Hubbard",
+    "description": "exercitation velit nostrud dolor veniam pariatur occaecat minim sint consequat",
+    "type": "Panel",
+    "panelName": "Panel Reid",
+    "category": 2,
+    "timeZone": "America/Los_Angeles",
+    "local": "Phoenix"
+  },
+  {
+    "uuid": "f9dbef53-ac4f-43db-b5ca-96fee15ccd59",
+    "name": "Sensor Lauren Hopkins",
+    "description": "exercitation mollit ut minim irure aliqua adipisicing nisi duis ea",
+    "type": "Panel",
+    "panelName": "Panel Patterson",
+    "category": 2,
+    "timeZone": "America/Los_Angeles",
+    "local": "Phoenix"
+  },
+  {
+    "uuid": "b672ab43-38e4-416d-b11f-c96e0046dd38",
+    "name": "Sensor Stella Wolf",
+    "description": "ut reprehenderit minim veniam cupidatat Lorem quis aliqua culpa mollit",
+    "type": "Panel",
+    "panelName": "Panel Harris",
+    "category": 4,
+    "timeZone": "America/Los_Angeles",
+    "local": "Dallas"
+  },
+  {
+    "uuid": "4408936a-abbf-4a58-8810-ea9c5f9bce4a",
+    "name": "Sensor Henson Rose",
+    "description": "voluptate laborum mollit anim fugiat tempor voluptate adipisicing velit sit",
+    "type": "Panel",
+    "panelName": "Panel Perez",
+    "category": 5,
+    "timeZone": "America/Los_Angeles",
+    "local": "Philadelphia"
+  },
+  {
+    "uuid": "9672ced2-9a45-4864-956b-6edf862669bc",
+    "name": "Sensor Teri May",
+    "description": "in sint eiusmod nisi deserunt eu nisi incididunt mollit adipisicing",
+    "type": "Panel",
+    "panelName": "Panel Pena",
+    "category": 1,
+    "timeZone": "America/Los_Angeles",
+    "local": "San Jose"
+  },
+  {
+    "uuid": "7cea6a5e-5711-4529-ac2a-e268c2dcd314",
+    "name": "Sensor Noel Ochoa",
+    "description": "ullamco amet sunt qui aute proident cillum velit adipisicing dolore",
+    "type": "Panel",
+    "panelName": "Panel Lyons",
+    "category": 1,
+    "timeZone": "America/Los_Angeles",
+    "local": "New York City"
+  },
+  {
+    "uuid": "e7fb5942-280e-4bbd-933b-354e8cdb936f",
+    "name": "Sensor Rosetta Nicholson",
+    "description": "non esse laborum incididunt pariatur voluptate laborum sint nulla ipsum",
+    "type": "Panel",
+    "panelName": "Panel Wright",
+    "category": 5,
+    "timeZone": "America/Los_Angeles",
+    "local": "San Diego"
+  },
+  {
+    "uuid": "d50d0609-42eb-4dcc-936d-934e3dfb3ce8",
+    "name": "Sensor Nichole Mcmillan",
+    "description": "non proident nostrud deserunt amet sunt id nostrud incididunt ex",
+    "type": "Panel",
+    "panelName": "Panel Vazquez",
+    "category": 4,
+    "timeZone": "America/Los_Angeles",
+    "local": "San Diego"
+  },
+  {
+    "uuid": "4530aed4-d071-4dd8-ac98-0cbdbbc0546c",
+    "name": "Sensor Barber Jimenez",
+    "description": "dolore ea et nisi sunt ullamco incididunt cillum deserunt duis",
+    "type": "Panel",
+    "panelName": "Panel Wiggins",
+    "category": 2,
+    "timeZone": "America/Los_Angeles",
+    "local": "Phoenix"
+  },
+  {
+    "uuid": "c6014226-439f-41a4-91d3-ac5df67a0923",
+    "name": "Sensor Amber Pitts",
+    "description": "consectetur sunt culpa pariatur eu officia reprehenderit incididunt reprehenderit id",
+    "type": "Panel",
+    "panelName": "Panel Santana",
+    "category": 1,
+    "timeZone": "America/Los_Angeles",
+    "local": "San Antonio"
+  },
+  {
+    "uuid": "ff5487ed-85f6-4746-9a48-15060500ebda",
+    "name": "Sensor Alyssa Schroeder",
+    "description": "veniam proident tempor occaecat et consequat ipsum in id aliquip",
+    "type": "Panel",
+    "panelName": "Panel Sampson",
+    "category": 2,
+    "timeZone": "America/Los_Angeles",
+    "local": "San Antonio"
+  },
+  {
+    "uuid": "38aa6c18-9ccc-4aee-aef0-00b586262312",
+    "name": "Sensor Dominique Salazar",
+    "description": "labore sint occaecat aliquip cupidatat ad amet voluptate ex laborum",
+    "type": "Panel",
+    "panelName": "Panel Bridges",
+    "category": 1,
+    "timeZone": "America/Los_Angeles",
+    "local": "New York City"
+  },
+  {
+    "uuid": "34cba613-59d7-4ab7-9b2b-ff1a0b4bc59a",
+    "name": "Sensor Schroeder Lindsay",
+    "description": "ex eiusmod do in proident laborum quis ullamco nostrud dolor",
+    "type": "Panel",
+    "panelName": "Panel Fulton",
+    "category": 2,
+    "timeZone": "America/Los_Angeles",
+    "local": "Phoenix"
+  },
+  {
+    "uuid": "4774aa49-66b9-4c45-905a-0fa4d68021db",
+    "name": "Sensor Rich Molina",
+    "description": "pariatur esse eiusmod ullamco excepteur in exercitation culpa ipsum excepteur",
+    "type": "Panel",
+    "panelName": "Panel Huffman",
+    "category": 4,
+    "timeZone": "America/Los_Angeles",
+    "local": "Dallas"
+  },
+  {
+    "uuid": "5ece6e50-1079-4a60-96c8-8b9a34eb2982",
+    "name": "Sensor Pat Grimes",
+    "description": "exercitation laborum reprehenderit dolor esse irure fugiat occaecat fugiat velit",
+    "type": "Panel",
+    "panelName": "Panel Brown",
+    "category": 4,
+    "timeZone": "America/Los_Angeles",
+    "local": "Los Angeles"
+  },
+  {
+    "uuid": "6e148945-6bc7-4178-bc68-8223e7e57f30",
+    "name": "Sensor Jessica Knox",
+    "description": "do exercitation ad ut duis minim magna adipisicing non nulla",
+    "type": "Panel",
+    "panelName": "Panel Montoya",
+    "category": 1,
+    "timeZone": "America/Los_Angeles",
+    "local": "Los Angeles"
+  },
+  {
+    "uuid": "448789b0-630b-4874-9f1f-7d1272e68278",
+    "name": "Sensor Sherman Rollins",
+    "description": "in cupidatat nisi elit in nulla id consectetur nulla aliqua",
+    "type": "Panel",
+    "panelName": "Panel Day",
+    "category": 3,
+    "timeZone": "America/Los_Angeles",
+    "local": "San Jose"
+  },
+  {
+    "uuid": "2b364222-132f-46e0-ab1c-7fd64005a88d",
+    "name": "Sensor Waller Gillespie",
+    "description": "aliqua Lorem sint laboris consequat cupidatat tempor ad mollit voluptate",
+    "type": "Panel",
+    "panelName": "Panel Elliott",
+    "category": 3,
+    "timeZone": "America/Los_Angeles",
+    "local": "Los Angeles"
+  },
+  {
+    "uuid": "3b752925-2dc8-41e0-b139-0d1eb6dd6ada",
+    "name": "Sensor Walsh Swanson",
+    "description": "esse mollit aliquip amet ad quis ipsum tempor amet aute",
+    "type": "Panel",
+    "panelName": "Panel Humphrey",
+    "category": 4,
+    "timeZone": "America/Los_Angeles",
+    "local": "Philadelphia"
+  },
+  {
+    "uuid": "427ee8a2-5602-4bff-9fef-c277e14cb3b9",
+    "name": "Sensor Consuelo Cantrell",
+    "description": "do officia dolore anim occaecat cillum fugiat aliqua commodo exercitation",
+    "type": "Panel",
+    "panelName": "Panel Oliver",
+    "category": 4,
+    "timeZone": "America/Los_Angeles",
+    "local": "New York City"
+  },
+  {
+    "uuid": "779b8523-b629-4bef-a2a8-776c5237a4d5",
+    "name": "Sensor Cooper Bass",
+    "description": "laborum id eu dolor eiusmod velit incididunt cupidatat elit ex",
+    "type": "Panel",
+    "panelName": "Panel Cherry",
+    "category": 2,
+    "timeZone": "America/Los_Angeles",
+    "local": "San Jose"
+  },
+  {
+    "uuid": "bddaa242-f617-4915-ba57-86c2fe9a38fa",
+    "name": "Sensor Stewart Mclean",
+    "description": "labore adipisicing ea Lorem laboris duis sit minim deserunt ad",
+    "type": "Panel",
+    "panelName": "Panel Francis",
+    "category": 1,
+    "timeZone": "America/Los_Angeles",
+    "local": "Phoenix"
+  },
+  {
+    "uuid": "5998c552-7302-4903-a9f4-c6e3a592082f",
+    "name": "Sensor Jamie Michael",
+    "description": "mollit ea sit nostrud incididunt sint laborum cillum consectetur dolore",
+    "type": "Panel",
+    "panelName": "Panel Fischer",
+    "category": 5,
+    "timeZone": "America/Los_Angeles",
+    "local": "San Antonio"
+  },
+  {
+    "uuid": "8a7b4b2b-8909-4d7d-b274-5cec945dd370",
+    "name": "Sensor Penelope Lane",
+    "description": "exercitation nulla et ea amet deserunt id ad commodo magna",
+    "type": "Panel",
+    "panelName": "Panel Reeves",
+    "category": 2,
+    "timeZone": "America/Los_Angeles",
+    "local": "Philadelphia"
+  },
+  {
+    "uuid": "a554b1ed-ec7e-4636-9393-2fcd7bf87ed3",
+    "name": "Sensor Maryanne Nichols",
+    "description": "labore deserunt incididunt laborum veniam reprehenderit nostrud incididunt excepteur qui",
+    "type": "Panel",
+    "panelName": "Panel Nguyen",
+    "category": 3,
+    "timeZone": "America/Los_Angeles",
+    "local": "San Antonio"
+  },
+  {
+    "uuid": "5e8040c4-7fa5-4ef7-a9e8-29351030045c",
+    "name": "Sensor Ida Baldwin",
+    "description": "minim commodo labore sint officia mollit qui tempor deserunt ut",
+    "type": "Panel",
+    "panelName": "Panel Lott",
+    "category": 1,
+    "timeZone": "America/Los_Angeles",
+    "local": "Houston"
+  },
+  {
+    "uuid": "f9842290-8ca2-426f-95c5-c7328f9d31de",
+    "name": "Sensor Boyle Cohen",
+    "description": "officia deserunt irure deserunt velit qui elit tempor adipisicing laborum",
+    "type": "Panel",
+    "panelName": "Panel Phillips",
+    "category": 3,
+    "timeZone": "America/Los_Angeles",
+    "local": "San Antonio"
+  },
+  {
+    "uuid": "f49cd595-01ef-4b67-991a-44eb91f504a1",
+    "name": "Sensor Barbara Baxter",
+    "description": "minim irure nisi adipisicing ullamco excepteur consectetur sunt culpa eu",
+    "type": "Panel",
+    "panelName": "Panel Schmidt",
+    "category": 5,
+    "timeZone": "America/Los_Angeles",
+    "local": "Chicago"
+  },
+  {
+    "uuid": "54fe45b9-9ffa-4893-b963-8d1f70b91119",
+    "name": "Sensor Bauer Hansen",
+    "description": "esse minim incididunt id anim anim et incididunt sunt cupidatat",
+    "type": "Panel",
+    "panelName": "Panel Sharp",
+    "category": 1,
+    "timeZone": "America/Los_Angeles",
+    "local": "Chicago"
+  },
+  {
+    "uuid": "2c7a00cd-127d-45b9-853e-c31c58003825",
+    "name": "Sensor Wiley Kent",
+    "description": "velit eu magna do dolor commodo id nostrud non elit",
+    "type": "Panel",
+    "panelName": "Panel Zimmerman",
+    "category": 3,
+    "timeZone": "America/Los_Angeles",
+    "local": "Philadelphia"
+  },
+  {
+    "uuid": "0cc46bad-87a2-4a6f-b02b-01f1e3f5dc14",
+    "name": "Sensor Francesca Kinney",
+    "description": "officia ex anim ea et eiusmod laborum id laborum veniam",
+    "type": "Panel",
+    "panelName": "Panel Figueroa",
+    "category": 5,
+    "timeZone": "America/Los_Angeles",
+    "local": "San Antonio"
+  },
+  {
+    "uuid": "2b7992a1-d7f8-4cff-8d91-ee6d6160054e",
+    "name": "Sensor George Hyde",
+    "description": "fugiat exercitation adipisicing commodo consequat minim nulla ut est cillum",
+    "type": "Panel",
+    "panelName": "Panel Flowers",
+    "category": 4,
+    "timeZone": "America/Los_Angeles",
+    "local": "Dallas"
+  },
+  {
+    "uuid": "805e9ea7-c917-4c83-9b42-b3ad6ba353c3",
+    "name": "Sensor Kim Levine",
+    "description": "nulla veniam commodo sint laborum commodo amet cupidatat incididunt consequat",
+    "type": "Panel",
+    "panelName": "Panel Gates",
+    "category": 3,
+    "timeZone": "America/Los_Angeles",
+    "local": "Chicago"
+  },
+  {
+    "uuid": "199cdfe1-70fd-41fb-a31e-3d5e71103a8d",
+    "name": "Sensor Castaneda Beach",
+    "description": "incididunt officia ut et anim id enim in ut minim",
+    "type": "Panel",
+    "panelName": "Panel Travis",
+    "category": 1,
+    "timeZone": "America/Los_Angeles",
+    "local": "Los Angeles"
+  },
+  {
+    "uuid": "60dd8aac-b595-40e9-af9d-737cb3b37a4e",
+    "name": "Sensor Cortez Garrett",
+    "description": "deserunt voluptate tempor ullamco mollit magna fugiat proident sit laborum",
+    "type": "Panel",
+    "panelName": "Panel Butler",
+    "category": 3,
+    "timeZone": "America/Los_Angeles",
+    "local": "Houston"
+  },
+  {
+    "uuid": "4d657ad6-e809-42d6-8fce-1004e0c40841",
+    "name": "Sensor Sweet Dalton",
+    "description": "laborum incididunt tempor duis elit minim mollit dolore aliquip cillum",
+    "type": "Panel",
+    "panelName": "Panel Mcguire",
+    "category": 1,
+    "timeZone": "America/Los_Angeles",
+    "local": "San Diego"
+  },
+  {
+    "uuid": "a2cac847-ef92-4369-8bb7-83c2725f9e19",
+    "name": "Sensor Dale Clark",
+    "description": "ut magna quis culpa sunt ea irure consequat laboris dolor",
+    "type": "Panel",
+    "panelName": "Panel Ingram",
+    "category": 4,
+    "timeZone": "America/Los_Angeles",
+    "local": "San Diego"
+  },
+  {
+    "uuid": "3e24087e-c80b-446f-b1a4-0ba7981a30c3",
+    "name": "Sensor Norton Frye",
+    "description": "pariatur nisi elit velit dolor ipsum excepteur aliqua fugiat nisi",
+    "type": "Panel",
+    "panelName": "Panel Tucker",
+    "category": 1,
+    "timeZone": "America/Los_Angeles",
+    "local": "Philadelphia"
+  },
+  {
+    "uuid": "b8c92b41-81c2-43d1-889b-43fe4a73aeba",
+    "name": "Sensor Trina Grant",
+    "description": "enim consequat aute veniam quis proident esse enim nisi id",
+    "type": "Panel",
+    "panelName": "Panel Roy",
+    "category": 3,
+    "timeZone": "America/Los_Angeles",
+    "local": "Los Angeles"
+  },
+  {
+    "uuid": "9d2a14b4-7a27-4ae3-aeba-5ad1f33e002a",
+    "name": "Sensor Witt Hughes",
+    "description": "laborum proident exercitation veniam ex dolore cillum labore est fugiat",
+    "type": "Panel",
+    "panelName": "Panel Reyes",
+    "category": 2,
+    "timeZone": "America/Los_Angeles",
+    "local": "San Jose"
+  },
+  {
+    "uuid": "69dea107-0a53-4d68-8742-32b83b313791",
+    "name": "Sensor Franklin Aguilar",
+    "description": "consequat ex id ut nulla commodo mollit amet nulla in",
+    "type": "Panel",
+    "panelName": "Panel Wooten",
+    "category": 2,
+    "timeZone": "America/Los_Angeles",
+    "local": "New York City"
+  },
+  {
+    "uuid": "3f9b653a-ae51-41be-9792-be761d82e588",
+    "name": "Sensor Allen Cummings",
+    "description": "id mollit Lorem magna incididunt aliqua magna excepteur voluptate laboris",
+    "type": "Panel",
+    "panelName": "Panel Dunn",
+    "category": 4,
+    "timeZone": "America/Los_Angeles",
+    "local": "Phoenix"
+  },
+  {
+    "uuid": "b56d9e7d-9565-418b-82f7-61c67397fa80",
+    "name": "Sensor Pam Griffin",
+    "description": "nostrud amet nostrud nulla aute excepteur consequat sint incididunt dolore",
+    "type": "Panel",
+    "panelName": "Panel Petersen",
+    "category": 4,
+    "timeZone": "America/Los_Angeles",
+    "local": "San Diego"
+  },
+  {
+    "uuid": "ecc311d4-a1eb-49d6-895b-46fee0349640",
+    "name": "Sensor Summers Reilly",
+    "description": "laboris in laboris veniam ullamco eiusmod amet magna aliqua cillum",
+    "type": "Panel",
+    "panelName": "Panel Wheeler",
+    "category": 3,
+    "timeZone": "America/Los_Angeles",
+    "local": "San Antonio"
+  },
+  {
+    "uuid": "80c2fb8f-5421-4151-898d-5dcaa7770850",
+    "name": "Sensor Mcclain Marks",
+    "description": "fugiat ad ex ad aute ea qui commodo deserunt eu",
+    "type": "Panel",
+    "panelName": "Panel Murphy",
+    "category": 1,
+    "timeZone": "America/Los_Angeles",
+    "local": "San Antonio"
+  },
+  {
+    "uuid": "7d051ae8-2fc6-4dd1-9d75-8837b2e24b19",
+    "name": "Sensor Moran Miles",
+    "description": "ut reprehenderit dolore adipisicing cupidatat ullamco anim cillum voluptate et",
+    "type": "Panel",
+    "panelName": "Panel Dunlap",
+    "category": 1,
+    "timeZone": "America/Los_Angeles",
+    "local": "Dallas"
+  },
+  {
+    "uuid": "9a7071a6-54c8-4c2f-9d01-d67752236f80",
+    "name": "Sensor Phoebe Myers",
+    "description": "id voluptate aliquip aute consequat sunt voluptate veniam laborum labore",
+    "type": "Panel",
+    "panelName": "Panel Leach",
+    "category": 4,
+    "timeZone": "America/Los_Angeles",
+    "local": "San Diego"
+  },
+  {
+    "uuid": "dfd77a21-2e05-44e3-a654-41ea3cbaccec",
+    "name": "Sensor Gill Pacheco",
+    "description": "dolore culpa exercitation deserunt dolore ea occaecat ut officia proident",
+    "type": "Panel",
+    "panelName": "Panel Contreras",
+    "category": 1,
+    "timeZone": "America/Los_Angeles",
+    "local": "Houston"
+  },
+  {
+    "uuid": "a06e34ed-0e1c-41ea-8294-dd03317da684",
+    "name": "Sensor Allyson Kerr",
+    "description": "sunt labore eu officia do ipsum nulla anim exercitation Lorem",
+    "type": "Panel",
+    "panelName": "Panel Keith",
+    "category": 4,
+    "timeZone": "America/Los_Angeles",
+    "local": "Philadelphia"
+  },
+  {
+    "uuid": "0e4b0870-57d5-490a-a4e5-2379e645aeee",
+    "name": "Sensor Norma Boone",
+    "description": "irure non magna elit nisi labore labore sunt dolore ex",
+    "type": "Panel",
+    "panelName": "Panel Burns",
+    "category": 3,
+    "timeZone": "America/Los_Angeles",
+    "local": "Los Angeles"
+  },
+  {
+    "uuid": "eebdac6e-8b92-44e4-81cb-de3235cc8b9a",
+    "name": "Sensor Juliet Larson",
+    "description": "eiusmod nulla dolore reprehenderit magna dolor aute dolor excepteur magna",
+    "type": "Panel",
+    "panelName": "Panel Richmond",
+    "category": 4,
+    "timeZone": "America/Los_Angeles",
+    "local": "Los Angeles"
+  },
+  {
+    "uuid": "196fcd53-6186-4ffb-b315-3f39f2d94565",
+    "name": "Sensor Clare Roach",
+    "description": "et ut aliqua voluptate magna ut in laborum irure nostrud",
+    "type": "Panel",
+    "panelName": "Panel Lara",
+    "category": 1,
+    "timeZone": "America/Los_Angeles",
+    "local": "Los Angeles"
+  },
+  {
+    "uuid": "5087d815-c0de-4613-a6e2-8b7909743451",
+    "name": "Sensor Fisher Davidson",
+    "description": "laboris dolore ad cillum ex sint magna minim enim reprehenderit",
+    "type": "Panel",
+    "panelName": "Panel Cortez",
+    "category": 1,
+    "timeZone": "America/Los_Angeles",
+    "local": "San Diego"
+  },
+  {
+    "uuid": "e2339232-d6b5-4b95-bea6-f3856c06732d",
+    "name": "Sensor Duncan Newton",
+    "description": "non in eu in sit excepteur mollit ullamco irure mollit",
+    "type": "Panel",
+    "panelName": "Panel Merritt",
+    "category": 1,
+    "timeZone": "America/Los_Angeles",
+    "local": "Chicago"
+  },
+  {
+    "uuid": "0624a4cf-b54e-4236-af85-6c6201481892",
+    "name": "Sensor Bettye Hutchinson",
+    "description": "veniam ullamco ex commodo esse culpa excepteur quis duis aliquip",
+    "type": "Panel",
+    "panelName": "Panel Hartman",
+    "category": 2,
+    "timeZone": "America/Los_Angeles",
+    "local": "Houston"
+  },
+  {
+    "uuid": "396c9526-0a40-49ea-a2f4-063647388192",
+    "name": "Sensor May Barber",
+    "description": "voluptate proident labore labore fugiat id magna et labore est",
+    "type": "Panel",
+    "panelName": "Panel Morgan",
+    "category": 3,
+    "timeZone": "America/Los_Angeles",
+    "local": "Chicago"
+  },
+  {
+    "uuid": "379d2b5f-a06f-4d3d-8aea-0a524a269b11",
+    "name": "Sensor Adrian Donovan",
+    "description": "ut exercitation eiusmod aliqua eiusmod voluptate nisi sint consectetur id",
+    "type": "Panel",
+    "panelName": "Panel Mclaughlin",
+    "category": 2,
+    "timeZone": "America/Los_Angeles",
+    "local": "New York City"
+  },
+  {
+    "uuid": "4d9591d1-8c16-406b-af23-938737db8b09",
+    "name": "Sensor Morales England",
+    "description": "officia non deserunt cillum reprehenderit laborum velit aliquip aliquip esse",
+    "type": "Panel",
+    "panelName": "Panel Sandoval",
+    "category": 2,
+    "timeZone": "America/Los_Angeles",
+    "local": "Los Angeles"
+  },
+  {
+    "uuid": "ee5db2fb-e1d6-4e87-8d5e-40c3340d71a4",
+    "name": "Sensor Violet Owens",
+    "description": "incididunt anim amet veniam dolor veniam quis do culpa magna",
+    "type": "Panel",
+    "panelName": "Panel Goodwin",
+    "category": 1,
+    "timeZone": "America/Los_Angeles",
+    "local": "San Diego"
+  },
+  {
+    "uuid": "dd845331-237d-43e5-aa64-ab87c01fbf16",
+    "name": "Sensor Farmer Edwards",
+    "description": "reprehenderit ad tempor est sit eu incididunt sint ut est",
+    "type": "Panel",
+    "panelName": "Panel Solis",
+    "category": 3,
+    "timeZone": "America/Los_Angeles",
+    "local": "Los Angeles"
+  },
+  {
+    "uuid": "e63d6ee4-c0c7-43eb-8d00-b06a827fdb5c",
+    "name": "Sensor Winnie Adams",
+    "description": "magna labore commodo nulla consectetur fugiat amet veniam in ea",
+    "type": "Panel",
+    "panelName": "Panel Mathews",
+    "category": 3,
+    "timeZone": "America/Los_Angeles",
+    "local": "Houston"
+  },
+  {
+    "uuid": "1a8d90f3-6734-422b-bbc2-bbecfe3d5d3c",
+    "name": "Sensor Harding Mayo",
+    "description": "pariatur magna ea fugiat id et enim culpa elit cillum",
+    "type": "Panel",
+    "panelName": "Panel Evans",
+    "category": 1,
+    "timeZone": "America/Los_Angeles",
+    "local": "Los Angeles"
+  },
+  {
+    "uuid": "d1071176-976e-48e0-9d16-1ae63ae05586",
+    "name": "Sensor Giles Merrill",
+    "description": "ipsum mollit duis cupidatat sunt reprehenderit exercitation ipsum magna officia",
+    "type": "Panel",
+    "panelName": "Panel Bowen",
+    "category": 2,
+    "timeZone": "America/Los_Angeles",
+    "local": "Houston"
+  },
+  {
+    "uuid": "6318c562-9fe9-4132-a7c6-2240afa050fc",
+    "name": "Sensor Leslie Casey",
+    "description": "voluptate nostrud sunt officia sit commodo ad sunt eu exercitation",
+    "type": "Panel",
+    "panelName": "Panel Houston",
+    "category": 3,
+    "timeZone": "America/Los_Angeles",
+    "local": "Dallas"
+  },
+  {
+    "uuid": "86c2b45f-01fb-4950-9a0b-b1d098eb7166",
+    "name": "Sensor Kelley Shannon",
+    "description": "dolore commodo officia ullamco do velit magna quis ea cillum",
+    "type": "Panel",
+    "panelName": "Panel Campos",
+    "category": 1,
+    "timeZone": "America/Los_Angeles",
+    "local": "Houston"
+  },
+  {
+    "uuid": "8918215c-68d8-43f3-a814-d5d54d658f16",
+    "name": "Sensor Darla Craig",
+    "description": "quis magna irure incididunt veniam incididunt nisi irure laborum deserunt",
+    "type": "Panel",
+    "panelName": "Panel Savage",
+    "category": 1,
+    "timeZone": "America/Los_Angeles",
+    "local": "Los Angeles"
+  },
+  {
+    "uuid": "c1d61e4b-17dc-44fd-bd41-aab3ebcc4a88",
+    "name": "Sensor Ernestine Becker",
+    "description": "irure ullamco culpa consequat sit aliquip enim mollit nisi veniam",
+    "type": "Panel",
+    "panelName": "Panel Dotson",
+    "category": 3,
+    "timeZone": "America/Los_Angeles",
+    "local": "San Jose"
+  },
+  {
+    "uuid": "d1c19c20-4fab-4802-b1a7-884b87c7a4e3",
+    "name": "Sensor Keri Hendricks",
+    "description": "velit dolore nulla ad ut excepteur consectetur in laborum tempor",
+    "type": "Panel",
+    "panelName": "Panel Martinez",
+    "category": 5,
+    "timeZone": "America/Los_Angeles",
+    "local": "Phoenix"
+  },
+  {
+    "uuid": "80611b3b-855a-443e-921b-f2dc5916603c",
+    "name": "Sensor Nguyen Riley",
+    "description": "tempor eiusmod eu officia ea reprehenderit veniam sint aute elit",
+    "type": "Panel",
+    "panelName": "Panel Graham",
+    "category": 1,
+    "timeZone": "America/Los_Angeles",
+    "local": "San Jose"
+  },
+  {
+    "uuid": "a7081bcc-6da6-42f8-b578-aa2ea8d1f3ee",
+    "name": "Sensor Rosanna Santos",
+    "description": "sit id sit in et veniam cupidatat esse enim minim",
+    "type": "Panel",
+    "panelName": "Panel Woodward",
+    "category": 1,
+    "timeZone": "America/Los_Angeles",
+    "local": "San Diego"
+  },
+  {
+    "uuid": "fa048e83-d10c-4d2f-a0d9-615a7e364620",
+    "name": "Sensor Lisa Moss",
+    "description": "deserunt sit in enim eiusmod nulla culpa pariatur incididunt adipisicing",
+    "type": "Panel",
+    "panelName": "Panel Kane",
+    "category": 3,
+    "timeZone": "America/Los_Angeles",
+    "local": "San Jose"
+  },
+  {
+    "uuid": "97a36681-021f-4466-ab03-a01bb9ae62c8",
+    "name": "Sensor Case Wilcox",
+    "description": "sit laboris in esse ex incididunt labore elit dolor ut",
+    "type": "Panel",
+    "panelName": "Panel Horne",
+    "category": 4,
+    "timeZone": "America/Los_Angeles",
+    "local": "Los Angeles"
+  },
+  {
+    "uuid": "ba1129ec-006b-4f34-a8ad-aec39355c56e",
+    "name": "Sensor Dorothea Horton",
+    "description": "magna et cupidatat nostrud reprehenderit exercitation velit adipisicing fugiat ullamco",
+    "type": "Panel",
+    "panelName": "Panel Blair",
+    "category": 2,
+    "timeZone": "America/Los_Angeles",
+    "local": "Phoenix"
+  },
+  {
+    "uuid": "4048ed56-c532-4bab-a764-e28016cd02c9",
+    "name": "Sensor Nixon Bright",
+    "description": "nostrud qui minim adipisicing do in consequat dolor fugiat cillum",
+    "type": "Panel",
+    "panelName": "Panel Bullock",
+    "category": 2,
+    "timeZone": "America/Los_Angeles",
+    "local": "San Jose"
+  },
+  {
+    "uuid": "26d199f2-3fc7-481e-aa18-2a2ff6029247",
+    "name": "Sensor Katheryn Zamora",
+    "description": "excepteur elit consequat velit eu eu esse et mollit incididunt",
+    "type": "Panel",
+    "panelName": "Panel Banks",
+    "category": 3,
+    "timeZone": "America/Los_Angeles",
+    "local": "Houston"
+  },
+  {
+    "uuid": "fe670e59-5091-4f6b-a7a3-be9fd889e405",
+    "name": "Sensor Nikki Callahan",
+    "description": "aliqua incididunt enim eu commodo laboris ut ea quis amet",
+    "type": "Panel",
+    "panelName": "Panel Gibson",
+    "category": 4,
+    "timeZone": "America/Los_Angeles",
+    "local": "Philadelphia"
+  },
+  {
+    "uuid": "9de4054c-71c3-4192-9c3c-a1b0aeee375e",
+    "name": "Sensor Sondra Vincent",
+    "description": "elit amet sit ipsum dolor id minim officia labore consectetur",
+    "type": "Panel",
+    "panelName": "Panel Bowers",
+    "category": 2,
+    "timeZone": "America/Los_Angeles",
+    "local": "San Diego"
+  },
+  {
+    "uuid": "ca52f08a-9392-4151-b711-c905ca55dd42",
+    "name": "Sensor Cruz Stuart",
+    "description": "nulla et quis ea commodo commodo ex cupidatat cupidatat consectetur",
+    "type": "Panel",
+    "panelName": "Panel Rasmussen",
+    "category": 1,
+    "timeZone": "America/Los_Angeles",
+    "local": "San Antonio"
+  },
+  {
+    "uuid": "fed52527-c2ce-422d-8577-b71e98bb0bfc",
+    "name": "Sensor Maynard Daniels",
+    "description": "quis excepteur veniam eiusmod culpa excepteur commodo sint proident consectetur",
+    "type": "Panel",
+    "panelName": "Panel Gray",
+    "category": 4,
+    "timeZone": "America/Los_Angeles",
+    "local": "New York City"
+  },
+  {
+    "uuid": "284c23d6-e64d-480a-b336-81320c658805",
+    "name": "Sensor Sheppard Hall",
+    "description": "ex commodo enim dolor elit minim duis anim voluptate id",
+    "type": "Panel",
+    "panelName": "Panel Livingston",
+    "category": 5,
+    "timeZone": "America/Los_Angeles",
+    "local": "Houston"
+  },
+  {
+    "uuid": "2568b0eb-9061-4601-b5d2-2da7163987de",
+    "name": "Sensor Solis Finch",
+    "description": "ex ad mollit in eu pariatur mollit pariatur esse et",
+    "type": "Panel",
+    "panelName": "Panel Hebert",
+    "category": 2,
+    "timeZone": "America/Los_Angeles",
+    "local": "San Antonio"
+  },
+  {
+    "uuid": "acd4049d-0fd9-4858-aa40-d3101aa933b2",
+    "name": "Sensor Stone Summers",
+    "description": "ullamco reprehenderit irure irure qui mollit enim anim labore in",
+    "type": "Panel",
+    "panelName": "Panel Harding",
+    "category": 2,
+    "timeZone": "America/Los_Angeles",
+    "local": "San Antonio"
+  },
+  {
+    "uuid": "c7310fe4-e7d8-4383-9052-3e5e2734fc21",
+    "name": "Sensor Jordan Meadows",
+    "description": "sint nostrud nisi velit eiusmod eiusmod tempor laborum tempor ut",
+    "type": "Panel",
+    "panelName": "Panel Daugherty",
+    "category": 1,
+    "timeZone": "America/Los_Angeles",
+    "local": "Phoenix"
+  },
+  {
+    "uuid": "91ba1e2c-4c6f-40a0-8ee6-2ef59d6c7088",
+    "name": "Sensor Mcconnell Turner",
+    "description": "pariatur sunt esse id Lorem cupidatat occaecat ex cupidatat cupidatat",
+    "type": "Panel",
+    "panelName": "Panel Rogers",
+    "category": 1,
+    "timeZone": "America/Los_Angeles",
+    "local": "San Antonio"
+  },
+  {
+    "uuid": "13425aad-c268-4d3f-8ec4-748b67365ffb",
+    "name": "Sensor Huffman Sharpe",
+    "description": "anim dolor aliqua magna eu non in consequat in nisi",
+    "type": "Panel",
+    "panelName": "Panel Stanton",
+    "category": 2,
+    "timeZone": "America/Los_Angeles",
+    "local": "Philadelphia"
+  },
+  {
+    "uuid": "1384927f-39b4-43c5-8fe3-de2f24cfbb8c",
+    "name": "Sensor Bowers Maldonado",
+    "description": "adipisicing aute commodo ut irure officia laborum consequat nisi pariatur",
+    "type": "Panel",
+    "panelName": "Panel Mooney",
+    "category": 3,
+    "timeZone": "America/Los_Angeles",
+    "local": "New York City"
+  },
+  {
+    "uuid": "a9da6138-11fd-425a-b460-bac3c6795942",
+    "name": "Sensor Miranda Beard",
+    "description": "enim magna excepteur Lorem irure occaecat duis quis dolore nisi",
+    "type": "Panel",
+    "panelName": "Panel Curtis",
+    "category": 3,
+    "timeZone": "America/Los_Angeles",
+    "local": "Los Angeles"
+  },
+  {
+    "uuid": "cd73f443-2205-4fce-8fd5-0d90230f6057",
+    "name": "Sensor Mcknight Dudley",
+    "description": "ad elit ea ad aliqua enim adipisicing minim Lorem pariatur",
+    "type": "Panel",
+    "panelName": "Panel Kidd",
+    "category": 3,
+    "timeZone": "America/Los_Angeles",
+    "local": "Chicago"
+  },
+  {
+    "uuid": "cc91d305-8c45-467b-8589-f26d4d5c75c2",
+    "name": "Sensor Mueller Huber",
+    "description": "pariatur consectetur officia nisi aliquip adipisicing est ullamco tempor qui",
+    "type": "Panel",
+    "panelName": "Panel Richards",
+    "category": 2,
+    "timeZone": "America/Los_Angeles",
+    "local": "Houston"
+  },
+  {
+    "uuid": "43b379fe-be9d-4fe5-aeea-5b6f540c7485",
+    "name": "Sensor Parrish Erickson",
+    "description": "amet incididunt ea tempor consectetur culpa non proident cupidatat qui",
+    "type": "Panel",
+    "panelName": "Panel Nieves",
+    "category": 5,
+    "timeZone": "America/Los_Angeles",
+    "local": "San Diego"
+  },
+  {
+    "uuid": "6b16d1c2-63b6-4c26-aff4-10e8ff5ffc31",
+    "name": "Sensor Vicki Deleon",
+    "description": "irure minim sit minim esse occaecat laborum ad mollit quis",
+    "type": "Panel",
+    "panelName": "Panel Pickett",
+    "category": 2,
+    "timeZone": "America/Los_Angeles",
+    "local": "Phoenix"
+  },
+  {
+    "uuid": "50a576c0-0d43-4d16-97b1-af26d76e3e7f",
+    "name": "Sensor Talley Valencia",
+    "description": "Lorem ut ad dolor ipsum eiusmod ad quis elit officia",
+    "type": "Panel",
+    "panelName": "Panel Best",
+    "category": 4,
+    "timeZone": "America/Los_Angeles",
+    "local": "Dallas"
+  },
+  {
+    "uuid": "163db772-e441-4fd6-bb45-841f4d45b536",
+    "name": "Sensor Vilma Sykes",
+    "description": "irure voluptate ut laborum aute cillum qui dolore enim veniam",
+    "type": "Panel",
+    "panelName": "Panel Knapp",
+    "category": 3,
+    "timeZone": "America/Los_Angeles",
+    "local": "Los Angeles"
+  },
+  {
+    "uuid": "0a12985f-aac5-4c96-a67d-3e2996b3e266",
+    "name": "Sensor Silva Lang",
+    "description": "est sit amet eu nostrud laborum labore veniam ex et",
+    "type": "Panel",
+    "panelName": "Panel Delacruz",
+    "category": 5,
+    "timeZone": "America/Los_Angeles",
+    "local": "Philadelphia"
+  },
+  {
+    "uuid": "bb72a053-29e6-447c-beb9-90ffa500bc89",
+    "name": "Sensor Gloria Byers",
+    "description": "cupidatat voluptate amet labore laborum enim anim tempor amet mollit",
+    "type": "Panel",
+    "panelName": "Panel Odom",
+    "category": 2,
+    "timeZone": "America/Los_Angeles",
+    "local": "Los Angeles"
+  },
+  {
+    "uuid": "695ed1cb-179a-4b20-ab0b-51c419453d9a",
+    "name": "Sensor Virginia Clements",
+    "description": "minim sit laboris tempor adipisicing laborum et nisi dolor reprehenderit",
+    "type": "Panel",
+    "panelName": "Panel Wynn",
+    "category": 5,
+    "timeZone": "America/Los_Angeles",
+    "local": "San Jose"
+  },
+  {
+    "uuid": "70855d2f-c457-49c9-92b2-68c1e8ffd142",
+    "name": "Sensor Lila Mays",
+    "description": "dolor voluptate ea exercitation dolore ut sunt veniam labore proident",
+    "type": "Panel",
+    "panelName": "Panel Serrano",
+    "category": 5,
+    "timeZone": "America/Los_Angeles",
+    "local": "San Antonio"
+  },
+  {
+    "uuid": "39f96d64-d042-46ef-ad67-4e09d4567d1d",
+    "name": "Sensor Spears Hawkins",
+    "description": "deserunt aliquip anim fugiat officia elit labore irure elit pariatur",
+    "type": "Panel",
+    "panelName": "Panel Leon",
+    "category": 4,
+    "timeZone": "America/Los_Angeles",
+    "local": "San Antonio"
+  },
+  {
+    "uuid": "352fec7a-dd1c-487a-a331-1067d057a9ac",
+    "name": "Sensor Britney Hensley",
+    "description": "ullamco deserunt deserunt laboris ut mollit in consectetur amet irure",
+    "type": "Panel",
+    "panelName": "Panel Barrett",
+    "category": 3,
+    "timeZone": "America/Los_Angeles",
+    "local": "Dallas"
+  },
+  {
+    "uuid": "eb4e3099-9a81-4bcb-8c7f-d446a67d388d",
+    "name": "Sensor Whitfield Miranda",
+    "description": "irure sunt laboris anim aliqua occaecat commodo proident incididunt esse",
+    "type": "Panel",
+    "panelName": "Panel Hewitt",
+    "category": 3,
+    "timeZone": "America/Los_Angeles",
+    "local": "Dallas"
+  },
+  {
+    "uuid": "f77fde08-d5a9-4b45-b729-746d2e60d74e",
+    "name": "Sensor Harris Stewart",
+    "description": "minim quis est esse cupidatat irure do exercitation labore proident",
+    "type": "Panel",
+    "panelName": "Panel Lucas",
+    "category": 5,
+    "timeZone": "America/Los_Angeles",
+    "local": "Philadelphia"
+  },
+  {
+    "uuid": "82f46022-1193-46fc-aabb-4d0e83ccbe71",
+    "name": "Sensor Kate Jones",
+    "description": "anim dolore non ad consequat mollit labore dolor fugiat reprehenderit",
+    "type": "Panel",
+    "panelName": "Panel Brady",
+    "category": 3,
+    "timeZone": "America/Los_Angeles",
+    "local": "Philadelphia"
+  },
+  {
+    "uuid": "d4e1ac00-dde5-4977-b26d-8b97ee898095",
+    "name": "Sensor Janna Simpson",
+    "description": "sit eiusmod nulla in amet dolore eu nisi fugiat dolore",
+    "type": "Panel",
+    "panelName": "Panel Foster",
+    "category": 4,
+    "timeZone": "America/Los_Angeles",
+    "local": "Phoenix"
+  },
+  {
+    "uuid": "357d1bd8-d1f9-4e7e-9ed5-a56eca4e84ed",
+    "name": "Sensor William Cotton",
+    "description": "sunt elit elit sunt sint ipsum cillum pariatur occaecat do",
+    "type": "Panel",
+    "panelName": "Panel Burch",
+    "category": 3,
+    "timeZone": "America/Los_Angeles",
+    "local": "Los Angeles"
+  },
+  {
+    "uuid": "7c75ad14-afae-44f1-9587-4e77b1aa95f9",
+    "name": "Sensor Erna Joseph",
+    "description": "commodo fugiat labore eiusmod excepteur esse id excepteur non nostrud",
+    "type": "Panel",
+    "panelName": "Panel Harrison",
+    "category": 5,
+    "timeZone": "America/Los_Angeles",
+    "local": "Phoenix"
+  },
+  {
+    "uuid": "9c0dd547-6ea7-4dec-8f79-1913fedb5510",
+    "name": "Sensor Garza Joyner",
+    "description": "cupidatat aliquip ea proident dolore dolor ullamco culpa labore exercitation",
+    "type": "Panel",
+    "panelName": "Panel Morrison",
+    "category": 4,
+    "timeZone": "America/Los_Angeles",
+    "local": "Chicago"
+  },
+  {
+    "uuid": "bb0376ae-1b74-4d18-ae38-edd29e07375a",
+    "name": "Sensor Aurora Hancock",
+    "description": "sunt magna veniam magna enim deserunt reprehenderit ex ex laboris",
+    "type": "Panel",
+    "panelName": "Panel Kirby",
+    "category": 3,
+    "timeZone": "America/Los_Angeles",
+    "local": "New York City"
+  },
+  {
+    "uuid": "5477057c-3a44-4fc7-80a0-ca542b2ec355",
+    "name": "Sensor Carver Velasquez",
+    "description": "culpa ut laborum mollit proident quis sint est nisi do",
+    "type": "Panel",
+    "panelName": "Panel Rich",
+    "category": 1,
+    "timeZone": "America/Los_Angeles",
+    "local": "San Diego"
+  },
+  {
+    "uuid": "4786c2f3-aefb-4fbb-bc91-0f0d9a8dcedc",
+    "name": "Sensor Audrey Richard",
+    "description": "excepteur tempor ad pariatur consectetur incididunt mollit fugiat id mollit",
+    "type": "Panel",
+    "panelName": "Panel George",
+    "category": 2,
+    "timeZone": "America/Los_Angeles",
+    "local": "Philadelphia"
+  },
+  {
+    "uuid": "636ecc59-4f72-44c0-9baf-04764b9916d7",
+    "name": "Sensor Eddie Rice",
+    "description": "consequat veniam ea enim nisi ex nulla ex commodo ex",
+    "type": "Panel",
+    "panelName": "Panel Paul",
+    "category": 2,
+    "timeZone": "America/Los_Angeles",
+    "local": "New York City"
+  },
+  {
+    "uuid": "17595c59-a64b-48c4-bad1-4d8ad37507f0",
+    "name": "Sensor Jewel Everett",
+    "description": "anim ipsum duis dolore non Lorem officia et commodo voluptate",
+    "type": "Panel",
+    "panelName": "Panel Gilbert",
+    "category": 2,
+    "timeZone": "America/Los_Angeles",
+    "local": "Dallas"
+  },
+  {
+    "uuid": "0ccefe61-fe60-4583-bdda-ae27731156e1",
+    "name": "Sensor Manning Lindsey",
+    "description": "dolor non eu veniam laborum eu ipsum consectetur occaecat sint",
+    "type": "Panel",
+    "panelName": "Panel David",
+    "category": 2,
+    "timeZone": "America/Los_Angeles",
+    "local": "San Jose"
+  },
+  {
+    "uuid": "7d679133-8db0-492a-baf3-f0d1071c9bc2",
+    "name": "Sensor Shepard Fisher",
+    "description": "et et commodo cillum consectetur commodo duis commodo duis commodo",
+    "type": "Panel",
+    "panelName": "Panel Hudson",
+    "category": 4,
+    "timeZone": "America/Los_Angeles",
+    "local": "Houston"
+  },
+  {
+    "uuid": "9da2a786-e7ef-4fb5-a2fc-7f53e4a38c61",
+    "name": "Sensor Shari Little",
+    "description": "sit dolore ex cupidatat et ad voluptate consequat dolore id",
+    "type": "Panel",
+    "panelName": "Panel Pollard",
+    "category": 3,
+    "timeZone": "America/Los_Angeles",
+    "local": "New York City"
+  },
+  {
+    "uuid": "c9e72cd8-e71b-4e12-8501-2d2469d85d68",
+    "name": "Sensor Mejia Maynard",
+    "description": "elit cupidatat reprehenderit cillum dolore mollit minim veniam est Lorem",
+    "type": "Panel",
+    "panelName": "Panel Britt",
+    "category": 4,
+    "timeZone": "America/Los_Angeles",
+    "local": "Chicago"
+  },
+  {
+    "uuid": "6c13f97b-e69d-483a-9276-7ff000da1dcd",
+    "name": "Sensor Lily Cannon",
+    "description": "ex est laborum occaecat irure velit ea sint ipsum dolore",
+    "type": "Panel",
+    "panelName": "Panel Willis",
+    "category": 1,
+    "timeZone": "America/Los_Angeles",
+    "local": "Houston"
+  },
+  {
+    "uuid": "4aab9a11-d1c9-4433-b8b0-f014eef9d0d4",
+    "name": "Sensor Galloway Garcia",
+    "description": "incididunt proident exercitation id cillum eiusmod nostrud veniam qui elit",
+    "type": "Panel",
+    "panelName": "Panel Mathis",
+    "category": 3,
+    "timeZone": "America/Los_Angeles",
+    "local": "Dallas"
+  },
+  {
+    "uuid": "b093fdd3-7fd3-4592-b794-898e36154fec",
+    "name": "Sensor Jeannie Graves",
+    "description": "aute non officia do nulla enim veniam exercitation non velit",
+    "type": "Panel",
+    "panelName": "Panel Gross",
+    "category": 4,
+    "timeZone": "America/Los_Angeles",
+    "local": "Phoenix"
+  },
+  {
+    "uuid": "937ec3f9-4759-4694-872d-4e055a8425dc",
+    "name": "Sensor Fuentes Mcbride",
+    "description": "nisi est cupidatat dolore aliqua ipsum irure id qui elit",
+    "type": "Panel",
+    "panelName": "Panel Obrien",
+    "category": 4,
+    "timeZone": "America/Los_Angeles",
+    "local": "San Antonio"
+  },
+  {
+    "uuid": "9e7c71a3-3cc9-4c8b-8e2a-f295f01d2d04",
+    "name": "Sensor Deann Head",
+    "description": "ipsum elit id et commodo nostrud sint nostrud sit id",
+    "type": "Panel",
+    "panelName": "Panel Bird",
+    "category": 2,
+    "timeZone": "America/Los_Angeles",
+    "local": "Chicago"
+  },
+  {
+    "uuid": "b5e9447e-6eea-49a0-b398-0f4e2fb68a05",
+    "name": "Sensor Carmela Hahn",
+    "description": "reprehenderit officia sunt culpa sunt irure id elit irure incididunt",
+    "type": "Panel",
+    "panelName": "Panel Frost",
+    "category": 1,
+    "timeZone": "America/Los_Angeles",
+    "local": "Los Angeles"
+  },
+  {
+    "uuid": "80078b8e-31a5-4428-b6ca-bc9b542c1e86",
+    "name": "Sensor Christie Underwood",
+    "description": "voluptate et nulla tempor dolor nostrud in ea tempor veniam",
+    "type": "Panel",
+    "panelName": "Panel Luna",
+    "category": 2,
+    "timeZone": "America/Los_Angeles",
+    "local": "San Diego"
+  },
+  {
+    "uuid": "52b6f707-6213-4758-9b0c-f812edb37ed7",
+    "name": "Sensor Blevins Kirkland",
+    "description": "irure incididunt in non eu sint enim voluptate aute velit",
+    "type": "Panel",
+    "panelName": "Panel Cash",
+    "category": 3,
+    "timeZone": "America/Los_Angeles",
+    "local": "Los Angeles"
+  },
+  {
+    "uuid": "3d0f2b5c-81ee-46e2-8fa1-c530c0d18acd",
+    "name": "Sensor Wynn Hays",
+    "description": "magna aliquip ullamco cillum ea adipisicing id quis culpa consectetur",
+    "type": "Panel",
+    "panelName": "Panel Dodson",
+    "category": 1,
+    "timeZone": "America/Los_Angeles",
+    "local": "San Diego"
+  },
+  {
+    "uuid": "f407372c-e3bd-445f-92d8-8b666bdc1853",
+    "name": "Sensor Cara Mcfadden",
+    "description": "dolore nulla ipsum commodo ea ipsum labore proident commodo incididunt",
+    "type": "Panel",
+    "panelName": "Panel Mueller",
+    "category": 2,
+    "timeZone": "America/Los_Angeles",
+    "local": "Dallas"
+  },
+  {
+    "uuid": "d29dc075-c173-4562-92bb-026cf1e0e5bf",
+    "name": "Sensor Emilia Arnold",
+    "description": "do laboris Lorem fugiat id deserunt sint sit sint amet",
+    "type": "Panel",
+    "panelName": "Panel Lambert",
+    "category": 2,
+    "timeZone": "America/Los_Angeles",
+    "local": "San Antonio"
+  },
+  {
+    "uuid": "614db017-4974-48d0-8ec2-e19750def664",
+    "name": "Sensor Blanca Galloway",
+    "description": "incididunt fugiat officia non quis est officia fugiat culpa veniam",
+    "type": "Panel",
+    "panelName": "Panel Compton",
+    "category": 3,
+    "timeZone": "America/Los_Angeles",
+    "local": "Philadelphia"
+  },
+  {
+    "uuid": "21ca0481-04c0-4256-b023-44269a94eb01",
+    "name": "Sensor Sheri Alexander",
+    "description": "aute mollit eiusmod aliquip dolore adipisicing dolore quis sit qui",
+    "type": "Panel",
+    "panelName": "Panel Rivas",
+    "category": 3,
+    "timeZone": "America/Los_Angeles",
+    "local": "Philadelphia"
+  },
+  {
+    "uuid": "42056596-d56b-47a0-823f-9a24756994e7",
+    "name": "Sensor Hancock Long",
+    "description": "esse enim tempor deserunt reprehenderit et Lorem incididunt cillum Lorem",
+    "type": "Panel",
+    "panelName": "Panel Dyer",
+    "category": 5,
+    "timeZone": "America/Los_Angeles",
+    "local": "San Jose"
+  },
+  {
+    "uuid": "33402def-41a6-4cd8-8123-8bf54598509d",
+    "name": "Sensor Foster Velez",
+    "description": "sunt elit minim ad est consectetur sunt enim nulla proident",
+    "type": "Panel",
+    "panelName": "Panel Hatfield",
+    "category": 3,
+    "timeZone": "America/Los_Angeles",
+    "local": "San Antonio"
+  },
+  {
+    "uuid": "a5cd2a30-cdb6-4e22-855b-ba8c0eebdbd2",
+    "name": "Sensor Villarreal Cobb",
+    "description": "et sint sit in dolore exercitation sint tempor enim est",
+    "type": "Panel",
+    "panelName": "Panel Franks",
+    "category": 2,
+    "timeZone": "America/Los_Angeles",
+    "local": "Dallas"
+  },
+  {
+    "uuid": "4c94c541-7748-445a-9fde-8548049c66e6",
+    "name": "Sensor Tamera Ashley",
+    "description": "et cupidatat laborum proident amet id duis eiusmod in reprehenderit",
+    "type": "Panel",
+    "panelName": "Panel Reed",
+    "category": 2,
+    "timeZone": "America/Los_Angeles",
+    "local": "Phoenix"
+  },
+  {
+    "uuid": "85c3cfb1-5a7a-4599-8652-fd8e45470d5e",
+    "name": "Sensor Thomas Hodges",
+    "description": "Lorem velit proident eu enim incididunt non esse cupidatat anim",
+    "type": "Panel",
+    "panelName": "Panel Franklin",
+    "category": 1,
+    "timeZone": "America/Los_Angeles",
+    "local": "Dallas"
+  },
+  {
+    "uuid": "3268b7ec-60af-4c42-a741-9b94bc455d8c",
+    "name": "Sensor Michael Slater",
+    "description": "ullamco nulla aute magna dolor excepteur dolor cillum nulla proident",
+    "type": "Panel",
+    "panelName": "Panel Barker",
+    "category": 2,
+    "timeZone": "America/Los_Angeles",
+    "local": "Phoenix"
+  },
+  {
+    "uuid": "8b0b2c06-7e45-4818-a4cf-c19bd2347032",
+    "name": "Sensor Rowland Townsend",
+    "description": "ipsum esse do nulla velit id ad magna in enim",
+    "type": "Panel",
+    "panelName": "Panel Rosa",
+    "category": 2,
+    "timeZone": "America/Los_Angeles",
+    "local": "Houston"
+  },
+  {
+    "uuid": "d3c4e692-5adb-4039-9f21-98f023492572",
+    "name": "Sensor Levy Lowery",
+    "description": "cillum sint do ut tempor mollit proident non tempor ut",
+    "type": "Panel",
+    "panelName": "Panel Hicks",
+    "category": 3,
+    "timeZone": "America/Los_Angeles",
+    "local": "Phoenix"
+  },
+  {
+    "uuid": "22408165-3d32-48a8-8a01-94e4e8b088d2",
+    "name": "Sensor Jennings Pruitt",
+    "description": "non deserunt ullamco esse consectetur amet eiusmod officia incididunt qui",
+    "type": "Panel",
+    "panelName": "Panel Boyer",
+    "category": 5,
+    "timeZone": "America/Los_Angeles",
+    "local": "Chicago"
+  },
+  {
+    "uuid": "20998253-bd98-4470-b886-fddab25d4b4b",
+    "name": "Sensor Newton Hurley",
+    "description": "consequat veniam labore in eu minim sit fugiat ex pariatur",
+    "type": "Panel",
+    "panelName": "Panel Hart",
+    "category": 5,
+    "timeZone": "America/Los_Angeles",
+    "local": "Philadelphia"
+  },
+  {
+    "uuid": "38752942-31e4-4c15-928e-a936bbad89ac",
+    "name": "Sensor Margarita Mann",
+    "description": "tempor sint culpa ea veniam veniam commodo id incididunt dolore",
+    "type": "Panel",
+    "panelName": "Panel Melendez",
+    "category": 3,
+    "timeZone": "America/Los_Angeles",
+    "local": "New York City"
+  },
+  {
+    "uuid": "c9b3978a-8f7e-42f6-ae0a-6766f0515528",
+    "name": "Sensor Erma Wilder",
+    "description": "id pariatur est ad deserunt laborum incididunt dolore consectetur ea",
+    "type": "Panel",
+    "panelName": "Panel Stanley",
+    "category": 3,
+    "timeZone": "America/Los_Angeles",
+    "local": "Dallas"
+  },
+  {
+    "uuid": "98c5797c-49a6-4d16-883f-ad7fcd2f0913",
+    "name": "Sensor Middleton Tran",
+    "description": "minim amet ea aute deserunt occaecat elit ut nostrud elit",
+    "type": "Panel",
+    "panelName": "Panel Mcclain",
+    "category": 5,
+    "timeZone": "America/Los_Angeles",
+    "local": "New York City"
+  },
+  {
+    "uuid": "4ca3283e-4704-466b-ac53-20abeb87d271",
+    "name": "Sensor Liza Dejesus",
+    "description": "incididunt amet Lorem excepteur ullamco duis adipisicing est reprehenderit aliqua",
+    "type": "Panel",
+    "panelName": "Panel Mckee",
+    "category": 5,
+    "timeZone": "America/Los_Angeles",
+    "local": "New York City"
+  },
+  {
+    "uuid": "7cad27dc-77fc-413a-a333-846bc2780fef",
+    "name": "Sensor Maddox Fitzgerald",
+    "description": "minim eiusmod magna do magna tempor ex quis nulla proident",
+    "type": "Panel",
+    "panelName": "Panel Chandler",
+    "category": 4,
+    "timeZone": "America/Los_Angeles",
+    "local": "Chicago"
+  },
+  {
+    "uuid": "5c56ac78-bc09-44b2-b39b-f8248b3eda01",
+    "name": "Sensor Wagner Mercado",
+    "description": "ea esse excepteur cupidatat quis et sint ex ullamco aliquip",
+    "type": "Panel",
+    "panelName": "Panel Pope",
+    "category": 5,
+    "timeZone": "America/Los_Angeles",
+    "local": "Dallas"
+  },
+  {
+    "uuid": "f92011d5-c7b9-42df-ae59-8ec8d0455617",
+    "name": "Sensor Fern Terrell",
+    "description": "duis ut et cillum duis sunt et incididunt dolor laboris",
+    "type": "Panel",
+    "panelName": "Panel Cox",
+    "category": 1,
+    "timeZone": "America/Los_Angeles",
+    "local": "Phoenix"
+  },
+  {
+    "uuid": "10d0924d-bb9c-46bc-855b-e25c4c487149",
+    "name": "Sensor Macdonald Valentine",
+    "description": "cillum velit aliqua fugiat qui exercitation adipisicing sunt nisi enim",
+    "type": "Panel",
+    "panelName": "Panel Walls",
+    "category": 1,
+    "timeZone": "America/Los_Angeles",
+    "local": "Phoenix"
+  },
+  {
+    "uuid": "e85e068d-d2a0-4b8b-95d3-2e30172a130d",
+    "name": "Sensor Chris Alvarado",
+    "description": "duis consectetur Lorem ad culpa irure cillum ad sint eu",
+    "type": "Panel",
+    "panelName": "Panel Collins",
+    "category": 3,
+    "timeZone": "America/Los_Angeles",
+    "local": "San Jose"
+  },
+  {
+    "uuid": "18046ca3-ac48-4326-a082-2a598d106569",
+    "name": "Sensor Elba Marquez",
+    "description": "culpa labore tempor ad proident irure incididunt ea nulla commodo",
+    "type": "Panel",
+    "panelName": "Panel Matthews",
+    "category": 1,
+    "timeZone": "America/Los_Angeles",
+    "local": "San Diego"
+  },
+  {
+    "uuid": "1e6be78e-fff3-4713-a5ae-c023957360ff",
+    "name": "Sensor Steele Harvey",
+    "description": "Lorem laborum mollit irure nisi sint sit velit tempor nulla",
+    "type": "Panel",
+    "panelName": "Panel Kaufman",
+    "category": 2,
+    "timeZone": "America/Los_Angeles",
+    "local": "San Jose"
+  },
+  {
+    "uuid": "8dba8feb-374b-4466-b2c7-d2a31a11ee8b",
+    "name": "Sensor Lesa Powell",
+    "description": "Lorem est fugiat non elit laboris incididunt ad nostrud et",
+    "type": "Panel",
+    "panelName": "Panel Madden",
+    "category": 4,
+    "timeZone": "America/Los_Angeles",
+    "local": "San Antonio"
+  },
+  {
+    "uuid": "33227de9-044d-4828-873c-b4b6e3fefd02",
+    "name": "Sensor Eugenia Monroe",
+    "description": "nulla amet aliquip fugiat cillum proident ex sit Lorem fugiat",
+    "type": "Panel",
+    "panelName": "Panel Norris",
+    "category": 5,
+    "timeZone": "America/Los_Angeles",
+    "local": "New York City"
+  },
+  {
+    "uuid": "b7623fde-deeb-46a8-92b6-67534319b544",
+    "name": "Sensor Cherie Castillo",
+    "description": "proident proident aute exercitation eu enim do pariatur enim amet",
+    "type": "Panel",
+    "panelName": "Panel Golden",
+    "category": 1,
+    "timeZone": "America/Los_Angeles",
+    "local": "Los Angeles"
+  },
+  {
+    "uuid": "9d1c5053-9e10-4c14-bbba-41ebc5ba9c77",
+    "name": "Sensor Grace Sullivan",
+    "description": "voluptate nulla aliqua in duis deserunt consectetur sit aliquip sint",
+    "type": "Panel",
+    "panelName": "Panel Bradshaw",
+    "category": 5,
+    "timeZone": "America/Los_Angeles",
+    "local": "San Diego"
+  },
+  {
+    "uuid": "ee315b93-59f1-4983-ab52-d4be8ca816e6",
+    "name": "Sensor Marquez Bentley",
+    "description": "non mollit ad nulla Lorem cupidatat laboris sint duis fugiat",
+    "type": "Panel",
+    "panelName": "Panel Palmer",
+    "category": 2,
+    "timeZone": "America/Los_Angeles",
+    "local": "Phoenix"
+  },
+  {
+    "uuid": "4b923893-f453-4619-be26-4a903e242854",
+    "name": "Sensor Glenn Albert",
+    "description": "amet ut incididunt do minim dolor reprehenderit excepteur et id",
+    "type": "Panel",
+    "panelName": "Panel Berry",
+    "category": 2,
+    "timeZone": "America/Los_Angeles",
+    "local": "Dallas"
+  },
+  {
+    "uuid": "2dbb09c2-79a0-4126-bd36-552c8eb19529",
+    "name": "Sensor Jeri Page",
+    "description": "eiusmod ut irure velit reprehenderit incididunt id tempor in esse",
+    "type": "Panel",
+    "panelName": "Panel Bennett",
+    "category": 4,
+    "timeZone": "America/Los_Angeles",
+    "local": "San Antonio"
+  },
+  {
+    "uuid": "4ae4fa85-ddb0-4826-be85-4c7b899ab95d",
+    "name": "Sensor Mariana Fitzpatrick",
+    "description": "magna nisi velit elit duis adipisicing eiusmod ea aliqua culpa",
+    "type": "Panel",
+    "panelName": "Panel Snow",
+    "category": 5,
+    "timeZone": "America/Los_Angeles",
+    "local": "New York City"
+  },
+  {
+    "uuid": "3e248ca3-06cf-4fe4-a33c-139ef4d53715",
+    "name": "Sensor Compton Morales",
+    "description": "ut quis sunt quis eiusmod et eu consequat ipsum Lorem",
+    "type": "Panel",
+    "panelName": "Panel Frazier",
+    "category": 2,
+    "timeZone": "America/Los_Angeles",
+    "local": "Dallas"
+  },
+  {
+    "uuid": "579435de-3862-4b73-a583-da3b41665fe6",
+    "name": "Sensor Newman Browning",
+    "description": "laborum aliqua anim officia ipsum irure labore minim ipsum cupidatat",
+    "type": "Panel",
+    "panelName": "Panel Whitfield",
+    "category": 2,
+    "timeZone": "America/Los_Angeles",
+    "local": "San Antonio"
+  },
+  {
+    "uuid": "1f543614-938c-471d-9e82-78438c3ece61",
+    "name": "Sensor Savage Acevedo",
+    "description": "aute occaecat laborum Lorem Lorem nostrud sit nulla commodo culpa",
+    "type": "Panel",
+    "panelName": "Panel Perkins",
+    "category": 1,
+    "timeZone": "America/Los_Angeles",
+    "local": "San Diego"
+  },
+  {
+    "uuid": "ea1cbb05-c859-47bc-8b90-b62144100a52",
+    "name": "Sensor Watts Riggs",
+    "description": "ipsum ea incididunt duis sint aliquip cillum qui do proident",
+    "type": "Panel",
+    "panelName": "Panel Lewis",
+    "category": 1,
+    "timeZone": "America/Los_Angeles",
+    "local": "Chicago"
+  },
+  {
+    "uuid": "f3d9df7f-c1b8-4e15-95d1-f71334bb62bb",
+    "name": "Sensor Stephens Higgins",
+    "description": "dolor labore ut proident irure occaecat et nulla fugiat dolore",
+    "type": "Panel",
+    "panelName": "Panel Ferrell",
+    "category": 5,
+    "timeZone": "America/Los_Angeles",
+    "local": "Los Angeles"
+  },
+  {
+    "uuid": "c7ecb438-c2e1-4bb8-ad21-56d210e98ce3",
+    "name": "Sensor Greene Robbins",
+    "description": "veniam Lorem labore est irure duis esse eiusmod occaecat tempor",
+    "type": "Panel",
+    "panelName": "Panel Petty",
+    "category": 5,
+    "timeZone": "America/Los_Angeles",
+    "local": "San Jose"
+  },
+  {
+    "uuid": "17678c53-9198-4d32-9833-c530b765f6c2",
+    "name": "Sensor Mildred Sosa",
+    "description": "voluptate aute nostrud nostrud ullamco duis dolore adipisicing sint aliqua",
+    "type": "Panel",
+    "panelName": "Panel Campbell",
+    "category": 5,
+    "timeZone": "America/Los_Angeles",
+    "local": "Philadelphia"
+  },
+  {
+    "uuid": "48e29786-05bc-4ac2-b721-119491c06fba",
+    "name": "Sensor Mathews Velazquez",
+    "description": "nulla est culpa ad proident ad culpa cupidatat fugiat deserunt",
+    "type": "Panel",
+    "panelName": "Panel Hurst",
+    "category": 1,
+    "timeZone": "America/Los_Angeles",
+    "local": "San Jose"
+  },
+  {
+    "uuid": "8f9c63b3-c1c3-499b-95a3-a11855af2be8",
+    "name": "Sensor Carson Herrera",
+    "description": "exercitation adipisicing aliquip sunt duis est tempor pariatur labore in",
+    "type": "Panel",
+    "panelName": "Panel Bean",
+    "category": 3,
+    "timeZone": "America/Los_Angeles",
+    "local": "San Diego"
+  },
+  {
+    "uuid": "3b242b42-caf0-492f-8fc2-9454cad6d19a",
+    "name": "Sensor Nancy Kramer",
+    "description": "Lorem occaecat voluptate adipisicing ut velit aute quis dolore quis",
+    "type": "Panel",
+    "panelName": "Panel Montgomery",
+    "category": 3,
+    "timeZone": "America/Los_Angeles",
+    "local": "Philadelphia"
+  },
+  {
+    "uuid": "de9dedfb-d2cc-4ebb-80e0-81c7cbd9e3a9",
+    "name": "Sensor Reva Wagner",
+    "description": "ut culpa cupidatat deserunt ut eiusmod elit esse cupidatat ullamco",
+    "type": "Panel",
+    "panelName": "Panel Ware",
+    "category": 2,
+    "timeZone": "America/Los_Angeles",
+    "local": "Los Angeles"
+  },
+  {
+    "uuid": "14e244a0-14ef-4a50-b4bf-8cdd07d98385",
+    "name": "Sensor Judy Buckner",
+    "description": "consequat nostrud ex proident nisi laboris exercitation eiusmod duis quis",
+    "type": "Panel",
+    "panelName": "Panel Hendrix",
+    "category": 3,
+    "timeZone": "America/Los_Angeles",
+    "local": "Houston"
+  },
+  {
+    "uuid": "85d40e5e-e66e-4cc8-aff7-6a89ca77ad0a",
+    "name": "Sensor Davenport Mccarty",
+    "description": "commodo ea qui sint dolor cupidatat nostrud dolor amet ullamco",
+    "type": "Panel",
+    "panelName": "Panel Newman",
+    "category": 4,
+    "timeZone": "America/Los_Angeles",
+    "local": "Philadelphia"
+  },
+  {
+    "uuid": "d5bd83e8-ccab-4a4a-a6ca-456d3911fe6c",
+    "name": "Sensor Reeves Salinas",
+    "description": "commodo culpa esse sit do dolore aute qui duis in",
+    "type": "Panel",
+    "panelName": "Panel Farrell",
+    "category": 1,
+    "timeZone": "America/Los_Angeles",
+    "local": "New York City"
+  },
+  {
+    "uuid": "64185855-2ea2-4601-bd7f-d9e9239a043c",
+    "name": "Sensor Sarah Tate",
+    "description": "est veniam aliquip qui ipsum enim Lorem Lorem excepteur quis",
+    "type": "Panel",
+    "panelName": "Panel Clay",
+    "category": 5,
+    "timeZone": "America/Los_Angeles",
+    "local": "New York City"
+  },
+  {
+    "uuid": "4a63aff2-620b-47f9-9202-26f3136fe168",
+    "name": "Sensor Carroll Rojas",
+    "description": "laboris pariatur laboris excepteur duis velit fugiat eiusmod id veniam",
+    "type": "Panel",
+    "panelName": "Panel Horn",
+    "category": 3,
+    "timeZone": "America/Los_Angeles",
+    "local": "Phoenix"
+  },
+  {
+    "uuid": "d96528f2-3df7-4c3b-8f6c-3b7bda2f9013",
+    "name": "Sensor Kathryn Rosales",
+    "description": "exercitation proident est eiusmod laboris culpa pariatur consectetur eiusmod do",
+    "type": "Panel",
+    "panelName": "Panel Haynes",
+    "category": 4,
+    "timeZone": "America/Los_Angeles",
+    "local": "Chicago"
+  },
+  {
+    "uuid": "d4b05db6-b42c-441d-8bfe-d0a22613bee4",
+    "name": "Sensor Murray Thompson",
+    "description": "labore ad anim proident mollit enim elit irure occaecat dolor",
+    "type": "Panel",
+    "panelName": "Panel Klein",
+    "category": 1,
+    "timeZone": "America/Los_Angeles",
+    "local": "San Diego"
+  },
+  {
+    "uuid": "e857cf3d-43fc-4ebb-a050-aac80987c906",
+    "name": "Sensor Cook Hoover",
+    "description": "ex consequat officia voluptate reprehenderit cillum laboris consectetur labore deserunt",
+    "type": "Panel",
+    "panelName": "Panel Glenn",
+    "category": 2,
+    "timeZone": "America/Los_Angeles",
+    "local": "Houston"
+  },
+  {
+    "uuid": "3c346393-e049-46f6-ae9e-f93dc572bafa",
+    "name": "Sensor Valerie Coffey",
+    "description": "commodo incididunt in eiusmod dolore ut officia voluptate anim duis",
+    "type": "Panel",
+    "panelName": "Panel Harrell",
+    "category": 4,
+    "timeZone": "America/Los_Angeles",
+    "local": "Phoenix"
+  },
+  {
+    "uuid": "1998ea73-d2d4-4a10-84a2-075e202b2aaf",
+    "name": "Sensor Elinor Cooley",
+    "description": "non quis adipisicing Lorem amet consectetur officia voluptate ea id",
+    "type": "Panel",
+    "panelName": "Panel Garrison",
+    "category": 4,
+    "timeZone": "America/Los_Angeles",
+    "local": "Phoenix"
+  },
+  {
+    "uuid": "44c10d1d-a0e9-449c-9b38-648156706223",
+    "name": "Sensor Collins Conway",
+    "description": "duis cillum proident cillum id incididunt cupidatat incididunt pariatur elit",
+    "type": "Panel",
+    "panelName": "Panel Vargas",
+    "category": 2,
+    "timeZone": "America/Los_Angeles",
+    "local": "Dallas"
+  },
+  {
+    "uuid": "c84d7104-3c3b-425b-9fb0-080de37cdf3a",
+    "name": "Sensor Gilmore Fletcher",
+    "description": "officia pariatur consequat laboris nisi velit ullamco ea cillum minim",
+    "type": "Panel",
+    "panelName": "Panel Dawson",
+    "category": 5,
+    "timeZone": "America/Los_Angeles",
+    "local": "Philadelphia"
+  },
+  {
+    "uuid": "522aef5b-b74f-4e60-9424-2a9d7b08af9e",
+    "name": "Sensor Chase Mcneil",
+    "description": "do in in aliqua magna esse pariatur sit exercitation eu",
+    "type": "Panel",
+    "panelName": "Panel Short",
+    "category": 1,
+    "timeZone": "America/Los_Angeles",
+    "local": "Phoenix"
+  },
+  {
+    "uuid": "7978d14f-d23c-4793-9e2c-2309d8f7fb2b",
+    "name": "Sensor Samantha Brewer",
+    "description": "dolor amet aute aliquip enim elit culpa dolor proident anim",
+    "type": "Panel",
+    "panelName": "Panel Knight",
+    "category": 5,
+    "timeZone": "America/Los_Angeles",
+    "local": "Chicago"
+  },
+  {
+    "uuid": "ecd73756-2c36-4681-a91b-27d702f7a4e4",
+    "name": "Sensor Mabel Singleton",
+    "description": "sunt veniam id ipsum qui culpa magna eiusmod magna voluptate",
+    "type": "Panel",
+    "panelName": "Panel Mcclure",
+    "category": 5,
+    "timeZone": "America/Los_Angeles",
+    "local": "Houston"
+  },
+  {
+    "uuid": "c3742864-7266-49d0-a75f-51acb2eb7537",
+    "name": "Sensor Figueroa Richardson",
+    "description": "aute nulla ex laboris voluptate nulla Lorem tempor nostrud culpa",
+    "type": "Panel",
+    "panelName": "Panel Lopez",
+    "category": 5,
+    "timeZone": "America/Los_Angeles",
+    "local": "Phoenix"
+  },
+  {
+    "uuid": "7a1a044f-1748-49c7-b9b4-ceb09050361b",
+    "name": "Sensor Shawna Key",
+    "description": "ullamco adipisicing laboris commodo aute commodo enim sint id aute",
+    "type": "Panel",
+    "panelName": "Panel Morris",
+    "category": 2,
+    "timeZone": "America/Los_Angeles",
+    "local": "Los Angeles"
+  },
+  {
+    "uuid": "5c938893-5db0-4916-b033-503afb9497a2",
+    "name": "Sensor Lessie Morin",
+    "description": "tempor eiusmod labore do dolor consectetur enim aute proident ut",
+    "type": "Panel",
+    "panelName": "Panel Mcfarland",
+    "category": 4,
+    "timeZone": "America/Los_Angeles",
+    "local": "San Diego"
+  },
+  {
+    "uuid": "5639753a-0947-4c4a-bb34-c444e957d509",
+    "name": "Sensor Mendoza Bruce",
+    "description": "et aliqua nostrud consectetur anim minim eu qui laboris do",
+    "type": "Panel",
+    "panelName": "Panel Thomas",
+    "category": 2,
+    "timeZone": "America/Los_Angeles",
+    "local": "San Jose"
+  },
+  {
+    "uuid": "74aa4f2c-7ca4-4062-a0c3-00eac508e30e",
+    "name": "Sensor Frazier Cervantes",
+    "description": "qui sit tempor ut reprehenderit magna laborum ex ex tempor",
+    "type": "Panel",
+    "panelName": "Panel Lancaster",
+    "category": 2,
+    "timeZone": "America/Los_Angeles",
+    "local": "Los Angeles"
+  },
+  {
+    "uuid": "79a002ae-53cb-4cf1-9c03-b7842efb6f91",
+    "name": "Sensor Abby Burt",
+    "description": "magna commodo laboris ad irure in aliqua consequat nulla adipisicing",
+    "type": "Panel",
+    "panelName": "Panel Orr",
+    "category": 4,
+    "timeZone": "America/Los_Angeles",
+    "local": "Dallas"
+  },
+  {
+    "uuid": "ee846730-9931-4dd4-bbfc-f160fc5e7801",
+    "name": "Sensor Cochran Gardner",
+    "description": "ad enim deserunt eu aliquip reprehenderit enim consectetur laborum commodo",
+    "type": "Panel",
+    "panelName": "Panel Roberson",
+    "category": 4,
+    "timeZone": "America/Los_Angeles",
+    "local": "Houston"
+  },
+  {
+    "uuid": "61383946-678e-495e-bbc7-2f383aab01e4",
+    "name": "Sensor Julianne Bray",
+    "description": "cillum sunt magna in aute nulla minim enim cillum magna",
+    "type": "Panel",
+    "panelName": "Panel Moody",
+    "category": 2,
+    "timeZone": "America/Los_Angeles",
+    "local": "Phoenix"
+  },
+  {
+    "uuid": "6d3a704a-1978-4be7-b85f-1ba15b69d760",
+    "name": "Sensor Paulette Durham",
+    "description": "labore quis nostrud sint fugiat amet aliqua non irure cupidatat",
+    "type": "Panel",
+    "panelName": "Panel Mack",
+    "category": 4,
+    "timeZone": "America/Los_Angeles",
+    "local": "Philadelphia"
+  },
+  {
+    "uuid": "4327f5f7-80a6-4bce-88ee-93bab8d92374",
+    "name": "Sensor Hawkins Le",
+    "description": "reprehenderit non laborum velit aliqua veniam esse laboris veniam voluptate",
+    "type": "Panel",
+    "panelName": "Panel Hodge",
+    "category": 1,
+    "timeZone": "America/Los_Angeles",
+    "local": "Dallas"
+  },
+  {
+    "uuid": "3e62f051-22a7-4f00-b3ac-c35b486453ed",
+    "name": "Sensor Zimmerman Watson",
+    "description": "commodo nostrud quis esse culpa do magna anim irure minim",
+    "type": "Panel",
+    "panelName": "Panel Ellison",
+    "category": 4,
+    "timeZone": "America/Los_Angeles",
+    "local": "New York City"
+  },
+  {
+    "uuid": "58cffd45-661a-4ae6-98f5-9e73029ff570",
+    "name": "Sensor Sharp Johns",
+    "description": "ipsum laboris incididunt proident officia consectetur labore veniam et sunt",
+    "type": "Panel",
+    "panelName": "Panel Potts",
+    "category": 4,
+    "timeZone": "America/Los_Angeles",
+    "local": "Chicago"
+  },
+  {
+    "uuid": "4845cfed-3d3b-4705-af5a-dabac5e50f78",
+    "name": "Sensor Amelia Rutledge",
+    "description": "exercitation deserunt sit sint sint ipsum occaecat irure tempor dolore",
+    "type": "Panel",
+    "panelName": "Panel Pace",
+    "category": 2,
+    "timeZone": "America/Los_Angeles",
+    "local": "Los Angeles"
+  },
+  {
+    "uuid": "85929a91-4341-46e7-b209-94a82cbebe3a",
+    "name": "Sensor Avis Dillard",
+    "description": "magna qui ut ipsum Lorem tempor magna tempor ea cillum",
+    "type": "Panel",
+    "panelName": "Panel Wyatt",
+    "category": 4,
+    "timeZone": "America/Los_Angeles",
+    "local": "San Antonio"
+  },
+  {
+    "uuid": "326eba3c-50de-4424-a98e-c916939c1f37",
+    "name": "Sensor Curtis Huff",
+    "description": "amet est veniam esse deserunt ad eiusmod esse eu aliquip",
+    "type": "Panel",
+    "panelName": "Panel Lloyd",
+    "category": 2,
+    "timeZone": "America/Los_Angeles",
+    "local": "Phoenix"
+  },
+  {
+    "uuid": "31be45c3-6163-4bac-bbc4-13917637252c",
+    "name": "Sensor Bender Carney",
+    "description": "do ex amet sit commodo aute cillum cillum culpa ipsum",
+    "type": "Panel",
+    "panelName": "Panel Estrada",
+    "category": 5,
+    "timeZone": "America/Los_Angeles",
+    "local": "New York City"
+  },
+  {
+    "uuid": "5468a1c2-9074-4e3c-b9ff-de95d31612b5",
+    "name": "Sensor Bishop Bell",
+    "description": "sint sint mollit excepteur pariatur id qui fugiat nostrud nulla",
+    "type": "Panel",
+    "panelName": "Panel Goff",
+    "category": 5,
+    "timeZone": "America/Los_Angeles",
+    "local": "New York City"
+  },
+  {
+    "uuid": "0e1929b1-a862-4b8c-a6d5-34fb44fdc94f",
+    "name": "Sensor Colette Trevino",
+    "description": "duis ullamco cupidatat dolor est non duis qui eu est",
+    "type": "Panel",
+    "panelName": "Panel Nelson",
+    "category": 3,
+    "timeZone": "America/Los_Angeles",
+    "local": "San Antonio"
+  },
+  {
+    "uuid": "44efc8c8-30ca-4b48-8411-f4773c7cd98e",
+    "name": "Sensor Swanson Wilkerson",
+    "description": "laborum sit reprehenderit duis esse nostrud nulla eu ex elit",
+    "type": "Panel",
+    "panelName": "Panel Bond",
+    "category": 1,
+    "timeZone": "America/Los_Angeles",
+    "local": "San Jose"
+  },
+  {
+    "uuid": "62b0118c-126c-4f08-92e3-b02a4e39e2fc",
+    "name": "Sensor Sears Rowe",
+    "description": "ullamco magna culpa occaecat esse ullamco anim amet mollit eu",
+    "type": "Panel",
+    "panelName": "Panel Ortega",
+    "category": 1,
+    "timeZone": "America/Los_Angeles",
+    "local": "Dallas"
+  },
+  {
+    "uuid": "9520953b-1a96-477d-b569-63ca4bc8ffa2",
+    "name": "Sensor Tammy Holder",
+    "description": "ad esse irure Lorem anim Lorem cupidatat laboris aute ut",
+    "type": "Panel",
+    "panelName": "Panel Williams",
+    "category": 4,
+    "timeZone": "America/Los_Angeles",
+    "local": "San Jose"
+  },
+  {
+    "uuid": "4890f29a-3ee3-4844-aa58-63cd0e33501a",
+    "name": "Sensor Daniel Park",
+    "description": "ipsum aliqua dolor aliqua nostrud laborum qui est et ipsum",
+    "type": "Panel",
+    "panelName": "Panel Case",
+    "category": 5,
+    "timeZone": "America/Los_Angeles",
+    "local": "Philadelphia"
+  },
+  {
+    "uuid": "26d2c846-adb7-4fb8-a332-842bb499427e",
+    "name": "Sensor Jennie Finley",
+    "description": "ea aliquip labore deserunt occaecat consectetur cupidatat pariatur sit ut",
+    "type": "Panel",
+    "panelName": "Panel Hoffman",
+    "category": 2,
+    "timeZone": "America/Los_Angeles",
+    "local": "Chicago"
+  },
+  {
+    "uuid": "30157635-9480-4017-ab0b-0e7c3b792c16",
+    "name": "Sensor Heidi Rodriquez",
+    "description": "Lorem duis incididunt aute irure aliquip mollit dolor mollit ipsum",
+    "type": "Panel",
+    "panelName": "Panel Harrington",
+    "category": 4,
+    "timeZone": "America/Los_Angeles",
+    "local": "San Diego"
+  },
+  {
+    "uuid": "b4678023-3619-4142-a50b-5dce9357503a",
+    "name": "Sensor Tammi Douglas",
+    "description": "excepteur tempor tempor ullamco sit Lorem est quis elit nulla",
+    "type": "Panel",
+    "panelName": "Panel Burton",
+    "category": 3,
+    "timeZone": "America/Los_Angeles",
+    "local": "Chicago"
+  },
+  {
+    "uuid": "c66355a5-8e93-46d5-ab32-f426c4131122",
+    "name": "Sensor Noelle Bryant",
+    "description": "incididunt nisi ex laboris laboris nostrud sit ad irure deserunt",
+    "type": "Panel",
+    "panelName": "Panel Quinn",
+    "category": 2,
+    "timeZone": "America/Los_Angeles",
+    "local": "Dallas"
+  },
+  {
+    "uuid": "f58faf67-c6d6-440d-af31-76d7b9e37976",
+    "name": "Sensor Alvarado Mitchell",
+    "description": "excepteur laborum dolore nulla dolor deserunt in aliqua occaecat reprehenderit",
+    "type": "Panel",
+    "panelName": "Panel Mejia",
+    "category": 2,
+    "timeZone": "America/Los_Angeles",
+    "local": "Philadelphia"
+  },
+  {
+    "uuid": "cab7c28c-d30c-457e-9de7-caa9d73d1822",
+    "name": "Sensor Monroe Mcpherson",
+    "description": "non ex ullamco mollit voluptate cillum enim incididunt aute commodo",
+    "type": "Panel",
+    "panelName": "Panel Fleming",
+    "category": 2,
+    "timeZone": "America/Los_Angeles",
+    "local": "New York City"
+  },
+  {
+    "uuid": "9cd828d3-71df-4055-a71a-89504f76911e",
+    "name": "Sensor Zamora Middleton",
+    "description": "culpa mollit minim amet laborum consequat id in veniam eu",
+    "type": "Panel",
+    "panelName": "Panel Jacobson",
+    "category": 4,
+    "timeZone": "America/Los_Angeles",
+    "local": "San Diego"
+  },
+  {
+    "uuid": "f7ed90ce-95eb-49ba-be7c-cadf710bbad0",
+    "name": "Sensor Casandra Ryan",
+    "description": "quis incididunt mollit esse reprehenderit fugiat sunt eiusmod id duis",
+    "type": "Panel",
+    "panelName": "Panel Chase",
+    "category": 5,
+    "timeZone": "America/Los_Angeles",
+    "local": "Philadelphia"
+  },
+  {
+    "uuid": "ffcd78d6-625c-4b32-bb2e-604fecc93da6",
+    "name": "Sensor Bates Lawson",
+    "description": "consequat occaecat elit in enim ipsum consectetur do pariatur enim",
+    "type": "Panel",
+    "panelName": "Panel Robertson",
+    "category": 1,
+    "timeZone": "America/Los_Angeles",
+    "local": "Dallas"
+  },
+  {
+    "uuid": "0c047fe1-e5f8-4111-87ac-5c0390335c68",
+    "name": "Sensor Betty Cain",
+    "description": "reprehenderit aliquip ad adipisicing amet veniam ad Lorem ipsum est",
+    "type": "Panel",
+    "panelName": "Panel Griffith",
+    "category": 2,
+    "timeZone": "America/Los_Angeles",
+    "local": "Chicago"
+  },
+  {
+    "uuid": "0252a86d-c004-44e5-b6ec-fe5f92e4a137",
+    "name": "Sensor Cervantes Skinner",
+    "description": "nostrud velit consectetur ut ea sit reprehenderit minim non aliqua",
+    "type": "Panel",
+    "panelName": "Panel Aguirre",
+    "category": 4,
+    "timeZone": "America/Los_Angeles",
+    "local": "San Jose"
+  },
+  {
+    "uuid": "981a8603-089d-43c7-af9f-d27db0ce5a79",
+    "name": "Sensor Flynn Gallegos",
+    "description": "nulla mollit sunt est ut proident consectetur in sit commodo",
+    "type": "Panel",
+    "panelName": "Panel Holt",
+    "category": 1,
+    "timeZone": "America/Los_Angeles",
+    "local": "Houston"
+  },
+  {
+    "uuid": "3c104222-53f9-4e0a-8784-566db81b8904",
+    "name": "Sensor Elena Delaney",
+    "description": "magna ad quis eiusmod nulla pariatur nulla voluptate sit est",
+    "type": "Panel",
+    "panelName": "Panel Downs",
+    "category": 4,
+    "timeZone": "America/Los_Angeles",
+    "local": "New York City"
+  },
+  {
+    "uuid": "7bc742cd-e4f7-4260-843b-6ff5d7a4adae",
+    "name": "Sensor Maura Pratt",
+    "description": "laboris commodo laboris voluptate aliquip amet occaecat magna duis eu",
+    "type": "Panel",
+    "panelName": "Panel Eaton",
+    "category": 3,
+    "timeZone": "America/Los_Angeles",
+    "local": "Dallas"
+  },
+  {
+    "uuid": "1fb9bee4-6bdf-4d4f-82ef-2f20791443a6",
+    "name": "Sensor Fuller Stark",
+    "description": "veniam ipsum eiusmod id dolore pariatur magna magna enim ex",
+    "type": "Panel",
+    "panelName": "Panel Cooke",
+    "category": 1,
+    "timeZone": "America/Los_Angeles",
+    "local": "Houston"
+  },
+  {
+    "uuid": "10b40105-6b33-4d68-8fa8-7e5af552c34e",
+    "name": "Sensor Maricela Howell",
+    "description": "eiusmod velit voluptate magna aliqua Lorem proident eiusmod adipisicing ea",
+    "type": "Panel",
+    "panelName": "Panel Walsh",
+    "category": 4,
+    "timeZone": "America/Los_Angeles",
+    "local": "New York City"
+  },
+  {
+    "uuid": "65731055-7dab-4ee4-8a52-d56a23c63c10",
+    "name": "Sensor Aileen Moreno",
+    "description": "id exercitation ex excepteur nostrud tempor velit excepteur commodo aute",
+    "type": "Panel",
+    "panelName": "Panel Craft",
+    "category": 4,
+    "timeZone": "America/Los_Angeles",
+    "local": "Houston"
+  },
+  {
+    "uuid": "a066e268-5568-4b86-b618-fb80e9cd1df7",
+    "name": "Sensor Ava Frank",
+    "description": "aliqua reprehenderit sint amet in voluptate minim nostrud duis quis",
+    "type": "Panel",
+    "panelName": "Panel Parks",
+    "category": 4,
+    "timeZone": "America/Los_Angeles",
+    "local": "Philadelphia"
+  },
+  {
+    "uuid": "d548470e-e938-4088-bfe3-14d727f73816",
+    "name": "Sensor Reid Watkins",
+    "description": "ea consequat consequat duis aliqua mollit enim do pariatur nisi",
+    "type": "Panel",
+    "panelName": "Panel Walker",
+    "category": 4,
+    "timeZone": "America/Los_Angeles",
+    "local": "San Antonio"
+  },
+  {
+    "uuid": "3fb1f0ee-59dd-4dbe-a4b6-4c42acb9e705",
+    "name": "Sensor King Burke",
+    "description": "ea do cupidatat labore tempor adipisicing nulla cillum consectetur in",
+    "type": "Panel",
+    "panelName": "Panel Randall",
+    "category": 5,
+    "timeZone": "America/Los_Angeles",
+    "local": "Dallas"
+  },
+  {
+    "uuid": "91252565-9699-4abf-a034-3974a8b5b16b",
+    "name": "Sensor Munoz Chen",
+    "description": "sit exercitation culpa mollit esse incididunt anim Lorem nostrud amet",
+    "type": "Panel",
+    "panelName": "Panel Clayton",
+    "category": 3,
+    "timeZone": "America/Los_Angeles",
+    "local": "San Jose"
+  },
+  {
+    "uuid": "d7bdcd93-7403-4b94-97e9-8cbd81a9b1ca",
+    "name": "Sensor Wilda Guzman",
+    "description": "sunt anim nisi aute tempor dolor commodo aute do aliqua",
+    "type": "Panel",
+    "panelName": "Panel Raymond",
+    "category": 2,
+    "timeZone": "America/Los_Angeles",
+    "local": "New York City"
+  },
+  {
+    "uuid": "b8943170-4c95-4413-824d-48b3aa3f6ae7",
+    "name": "Sensor Gretchen York",
+    "description": "in est consectetur elit officia excepteur elit nisi anim anim",
+    "type": "Panel",
+    "panelName": "Panel Steele",
+    "category": 1,
+    "timeZone": "America/Los_Angeles",
+    "local": "San Diego"
+  },
+  {
+    "uuid": "7e5719d7-a715-4c34-86ac-2965cae5c07e",
+    "name": "Sensor Mckee Moran",
+    "description": "consectetur elit incididunt reprehenderit eu esse commodo ea aliquip officia",
+    "type": "Panel",
+    "panelName": "Panel Peters",
+    "category": 3,
+    "timeZone": "America/Los_Angeles",
+    "local": "Philadelphia"
+  },
+  {
+    "uuid": "7c04d37d-6d84-4c36-81f2-cfce3fb70d0c",
+    "name": "Sensor Lorrie Meyer",
+    "description": "adipisicing aliqua ad duis laboris ut occaecat exercitation occaecat tempor",
+    "type": "Panel",
+    "panelName": "Panel Kelley",
+    "category": 3,
+    "timeZone": "America/Los_Angeles",
+    "local": "Houston"
+  },
+  {
+    "uuid": "c9064192-326c-4140-b4ed-a638e5f813c3",
+    "name": "Sensor Chavez Howe",
+    "description": "ullamco ea excepteur enim ea deserunt ullamco excepteur proident in",
+    "type": "Panel",
+    "panelName": "Panel Carey",
+    "category": 3,
+    "timeZone": "America/Los_Angeles",
+    "local": "Phoenix"
+  },
+  {
+    "uuid": "c4f50018-c309-4127-a0f7-28405decc108",
+    "name": "Sensor Hart Tyson",
+    "description": "reprehenderit occaecat ut cillum anim deserunt quis ea aliqua consequat",
+    "type": "Panel",
+    "panelName": "Panel Workman",
+    "category": 1,
+    "timeZone": "America/Los_Angeles",
+    "local": "Los Angeles"
+  },
+  {
+    "uuid": "0954ffdf-bbba-4445-9881-57371fd7f7c0",
+    "name": "Sensor Santos Barr",
+    "description": "id minim sunt elit aliquip adipisicing officia reprehenderit ullamco sint",
+    "type": "Panel",
+    "panelName": "Panel Warner",
+    "category": 3,
+    "timeZone": "America/Los_Angeles",
+    "local": "Phoenix"
+  },
+  {
+    "uuid": "efec064e-2a9c-4026-851c-2f4e843f7125",
+    "name": "Sensor Sadie Waller",
+    "description": "fugiat mollit ex qui nostrud cupidatat est consectetur consequat veniam",
+    "type": "Panel",
+    "panelName": "Panel Berg",
+    "category": 2,
+    "timeZone": "America/Los_Angeles",
+    "local": "Philadelphia"
+  },
+  {
+    "uuid": "9e7c379d-2e72-45ca-ae49-65b697410100",
+    "name": "Sensor Etta Wiley",
+    "description": "veniam irure magna aliquip mollit incididunt consectetur amet anim nostrud",
+    "type": "Panel",
+    "panelName": "Panel Hamilton",
+    "category": 4,
+    "timeZone": "America/Los_Angeles",
+    "local": "Houston"
+  },
+  {
+    "uuid": "b2651ac4-0f9a-47b7-a3eb-ab7160a24c91",
+    "name": "Sensor Peck Hanson",
+    "description": "aliqua tempor ex consequat sit velit in cupidatat est aliqua",
+    "type": "Panel",
+    "panelName": "Panel Adkins",
+    "category": 2,
+    "timeZone": "America/Los_Angeles",
+    "local": "Houston"
+  },
+  {
+    "uuid": "16562b0d-46c2-4859-88fc-0de0e3a3e3ca",
+    "name": "Sensor Pansy Warren",
+    "description": "aliqua nostrud excepteur labore sit labore irure consequat officia irure",
+    "type": "Panel",
+    "panelName": "Panel Flores",
+    "category": 1,
+    "timeZone": "America/Los_Angeles",
+    "local": "San Diego"
+  },
+  {
+    "uuid": "300061b8-7c72-4d40-8d64-a5c76f8926f8",
+    "name": "Sensor Hunt Noble",
+    "description": "incididunt fugiat dolore dolor cillum magna excepteur reprehenderit ad ex",
+    "type": "Panel",
+    "panelName": "Panel Preston",
+    "category": 1,
+    "timeZone": "America/Los_Angeles",
+    "local": "Philadelphia"
+  },
+  {
+    "uuid": "3cbca965-72ce-4200-969c-56e67babdec1",
+    "name": "Sensor Summer Donaldson",
+    "description": "ex duis aliquip quis deserunt esse adipisicing qui nostrud non",
+    "type": "Panel",
+    "panelName": "Panel Baird",
+    "category": 5,
+    "timeZone": "America/Los_Angeles",
+    "local": "Houston"
+  },
+  {
+    "uuid": "51628dc6-1dce-4516-9ccf-f7695ff99f37",
+    "name": "Sensor Salazar Cardenas",
+    "description": "nostrud velit sunt anim fugiat labore anim cillum ad duis",
+    "type": "Panel",
+    "panelName": "Panel Osborne",
+    "category": 3,
+    "timeZone": "America/Los_Angeles",
+    "local": "Chicago"
+  },
+  {
+    "uuid": "21e4c74b-3258-4a86-a1b9-876ff920c42d",
+    "name": "Sensor Robles Silva",
+    "description": "non sunt eiusmod ad eu qui non nulla veniam ullamco",
+    "type": "Panel",
+    "panelName": "Panel Villarreal",
+    "category": 3,
+    "timeZone": "America/Los_Angeles",
+    "local": "San Jose"
+  },
+  {
+    "uuid": "2cc218d5-2f37-4c91-a601-5d39e5e2c240",
+    "name": "Sensor Brenda Hess",
+    "description": "incididunt nisi nulla qui sint id proident aliqua nulla quis",
+    "type": "Panel",
+    "panelName": "Panel Irwin",
+    "category": 1,
+    "timeZone": "America/Los_Angeles",
+    "local": "Dallas"
+  },
+  {
+    "uuid": "bbd624a3-09ff-4060-9297-c401cd0d198d",
+    "name": "Sensor Eva Keller",
+    "description": "irure consectetur adipisicing sunt est aute quis qui consequat dolor",
+    "type": "Panel",
+    "panelName": "Panel Gibbs",
+    "category": 2,
+    "timeZone": "America/Los_Angeles",
+    "local": "Dallas"
+  },
+  {
+    "uuid": "b2508a6b-fab9-4132-9471-616324f42050",
+    "name": "Sensor Jeanine Hopper",
+    "description": "sit eiusmod enim eu deserunt sint sunt ipsum excepteur reprehenderit",
+    "type": "Panel",
+    "panelName": "Panel Bishop",
+    "category": 2,
+    "timeZone": "America/Los_Angeles",
+    "local": "Houston"
+  },
+  {
+    "uuid": "721d8e19-e2d4-477c-8090-1318bf31a7d5",
+    "name": "Sensor Ray Cooper",
+    "description": "eu eu cillum minim aliquip elit minim ullamco excepteur culpa",
+    "type": "Panel",
+    "panelName": "Panel Walton",
+    "category": 5,
+    "timeZone": "America/Los_Angeles",
+    "local": "Los Angeles"
+  },
+  {
+    "uuid": "ed69a3c7-67c2-4ad3-bc3c-3612128f8d10",
+    "name": "Sensor Sykes French",
+    "description": "qui aliquip sint in proident sit aliqua incididunt dolor laboris",
+    "type": "Panel",
+    "panelName": "Panel Walters",
+    "category": 2,
+    "timeZone": "America/Los_Angeles",
+    "local": "Philadelphia"
+  },
+  {
+    "uuid": "d5ecd991-5df6-4e8f-aae5-d9d42c25e92d",
+    "name": "Sensor Chapman Barrera",
+    "description": "aute nisi amet deserunt non ut nulla aliqua eiusmod pariatur",
+    "type": "Panel",
+    "panelName": "Panel Carver",
+    "category": 1,
+    "timeZone": "America/Los_Angeles",
+    "local": "Los Angeles"
+  },
+  {
+    "uuid": "655e9f22-5782-403d-9eee-7dbdc31b2a52",
+    "name": "Sensor Winters Porter",
+    "description": "veniam deserunt quis culpa esse labore dolor laborum consequat sit",
+    "type": "Panel",
+    "panelName": "Panel Lawrence",
+    "category": 2,
+    "timeZone": "America/Los_Angeles",
+    "local": "Houston"
+  },
+  {
+    "uuid": "647d8692-38ee-41a5-93b9-d6a46973ce1d",
+    "name": "Sensor Elisa Perry",
+    "description": "nisi minim enim sunt aliquip dolor anim deserunt id cillum",
+    "type": "Panel",
+    "panelName": "Panel Padilla",
+    "category": 1,
+    "timeZone": "America/Los_Angeles",
+    "local": "San Jose"
+  },
+  {
+    "uuid": "db119303-6440-48b8-89a8-8753cee652ea",
+    "name": "Sensor Marla Wallace",
+    "description": "ex nisi consectetur nostrud excepteur nisi anim quis occaecat amet",
+    "type": "Panel",
+    "panelName": "Panel Langley",
+    "category": 2,
+    "timeZone": "America/Los_Angeles",
+    "local": "New York City"
+  },
+  {
+    "uuid": "8727dbd7-93f2-4edb-adc1-dcca4adea2a7",
+    "name": "Sensor Sallie Christensen",
+    "description": "quis consequat veniam aute sint consequat cupidatat excepteur dolor eu",
+    "type": "Panel",
+    "panelName": "Panel Burris",
+    "category": 4,
+    "timeZone": "America/Los_Angeles",
+    "local": "Philadelphia"
+  },
+  {
+    "uuid": "44a3e914-fc88-4ca4-bba8-29f0d6e4d3d6",
+    "name": "Sensor Richards Robinson",
+    "description": "aliqua veniam nostrud nisi ullamco cillum incididunt labore elit eu",
+    "type": "Panel",
+    "panelName": "Panel Barlow",
+    "category": 2,
+    "timeZone": "America/Los_Angeles",
+    "local": "Houston"
+  },
+  {
+    "uuid": "13c09fe9-8ffe-4ddb-af34-920ea79a56ee",
+    "name": "Sensor Bobbie Shields",
+    "description": "consequat commodo velit nulla ut minim voluptate aliquip minim sunt",
+    "type": "Panel",
+    "panelName": "Panel Allison",
+    "category": 4,
+    "timeZone": "America/Los_Angeles",
+    "local": "San Jose"
+  },
+  {
+    "uuid": "0b91ef06-6a3d-45d5-b4bf-77eb7b51fbb3",
+    "name": "Sensor Camacho Fox",
+    "description": "amet veniam commodo labore mollit amet sint ipsum ex deserunt",
+    "type": "Panel",
+    "panelName": "Panel Young",
+    "category": 4,
+    "timeZone": "America/Los_Angeles",
+    "local": "Dallas"
+  },
+  {
+    "uuid": "760d23f0-9fce-4609-8880-4bcc8e116948",
+    "name": "Sensor Petersen Mckenzie",
+    "description": "duis ea culpa id velit anim ex ea magna tempor",
+    "type": "Panel",
+    "panelName": "Panel Whitehead",
+    "category": 1,
+    "timeZone": "America/Los_Angeles",
+    "local": "Phoenix"
+  },
+  {
+    "uuid": "567730aa-06eb-484f-b0ef-fe23d3fa0f4c",
+    "name": "Sensor Wilkinson Todd",
+    "description": "pariatur labore proident reprehenderit reprehenderit aute ullamco ipsum reprehenderit elit",
+    "type": "Panel",
+    "panelName": "Panel Fry",
+    "category": 4,
+    "timeZone": "America/Los_Angeles",
+    "local": "Houston"
+  }
+]
